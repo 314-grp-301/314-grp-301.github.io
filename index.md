@@ -6,7 +6,7 @@ title: Home
 **EGR 314, Embedded Sys Design Proj II**<br>
 **Spring Semester, 2024**
 **Group 301**
-<br><br><br><br><br><br><br><br>
+<br><br>**kevisrs committed this**<br><br><br><br><br><br>
 ## The rest of this page is left as a formatting example for future additions.
 
 **Bold Text**
