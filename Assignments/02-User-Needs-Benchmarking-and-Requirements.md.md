@@ -168,61 +168,64 @@ The system has been included since it is a close representation of the intended 
 <br><br>
 
 **Latent**<br>
-Contextual Insights
-Social Integration
-Localized Community Updates
-Personalized Lifestyle Recommendations
-Travel Planning Assistance
-Emotional Impact Consideration
-Learning Resources
-Offline Accessibility
-Eco-Friendly Recommendations
-Integration with Smart Home Devices
-Mood Customization
-Collaborative Forecasting
+-Contextual Insights<br>
+-Social Integration<br>
+-Localized Community Updates<br>
+-Personalized Lifestyle Recommendations<br>
+-Travel Planning Assistance<br>
+-Emotional Impact Consideration<br>
+-Learning Resources<br>
+-Offline Accessibility<br>
+-Eco-Friendly Recommendations<br>
+-Integration with Smart Home Devices<br>
+-Mood Customization<br>
+-Collaborative Forecasting<br>
 
-User Needs Jamboard Summation
+<br>
 
+## User Needs Jamboard Summation
 
-User Needs Organization / Ranking
+## User Needs Organization / Ranking
 
+3. Develop Requirements<br><br>
 
-3. Develop Requirements
-User Story Statement
-	User Story #1: Kevin (Home owner, private resident)
-Kevin is a homeowner who resides in an area prone to flash flooding. Realizing the potential damage of flooding to his property, Kevin is interested in purchasing an all-weather station	in order to mitigate flood risks to his personal property. With an early detection system, Kevin is able to safeguard his property by either relocating it or preparing counter-flood mitigation techniques (e.g. sandbags).
+**User Story Statement**<br><br>
+
+User Story #1: Kevin (Home owner, private resident)<br>
+Kevin is a homeowner who resides in an area prone to flash flooding. Realizing the potential damage of flooding to his property, Kevin is interested in purchasing an all-weather station	in order to mitigate flood risks to his personal property. With an early detection system, Kevin is able to safeguard his property by either relocating it or preparing counter-flood mitigation techniques (e.g. sandbags).<br><br>
 	
-User Story #2: Jane (County Emergency Services Management)
-Jane is an emergency service management specialist employed by the county and is responsible for monitoring extreme weather conditions that affect the public. To best serve the public, Jane relies on an early warning weather network of ruggedized remote weather stations that can detect real-time weather conditions and changes within the county. With this information, precise real-time weather updates can be sent to emergency management teams to aid them in warnings, emergency responses, and other critical decision-making processes.
-Design Aspects 
-Product Design
-The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream or canal.
-The shape of the device should not have sharp and jutting portions that would cause debris in a waterway to build up on it.
-The tether pole shall have a groove that keeps the device facing properly up or downstream as intended.
-The product shall be designed to be watertight.
-The product’s exterior should have mounting capabilities so that it stays secure in a storm. 
-Functionality
-The device must be able to determine its relative height and compare it to a baseline while noting significant changes over short periods automatically.
-The device shall be able to determine the water flow rate.
-The device shall be able to determine wind speed (where placed).
-The device shall be able to transmit its collected data to a user wirelessly.
-Interactivity
-The device shall be able to transmit its collected data to a user wirelessly.
-The device shall have a simple push button to cycle between sensors.
-Adaptive Intelligence
-The device shall be able to provide itself with additional lift as needed if something has caused it to become too submerged.
-Customization
-The device can have multiple colors for the exterior to be able to make it blend in with a waterway or stand out to be easier to find and collect.
-The transmitted data and what notifications are sent may be changed by the end user.
-Manufacturing
-The total cost of the prototype shall be < $240.
-The device shall be designed with a minimal amount of parts.
-Regulations
-The device shall not chemically alter the water in which it is placed.
-The device shall have precautions to shorten the water.
+User Story #2: Jane (County Emergency Services Management)<br>
+Jane is an emergency service management specialist employed by the county and is responsible for monitoring extreme weather conditions that affect the public. To best serve the public, Jane relies on an early warning weather network of ruggedized remote weather stations that can detect real-time weather conditions and changes within the county. With this information, precise real-time weather updates can be sent to emergency management teams to aid them in warnings, emergency responses, and other critical decision-making processes.<br><br>
 
-Open Questions
-Can the device be made easily recyclable and repairable?
-Can we connect the device to a power source safely to remove the need for batteries?
-Is there additional functionality that can be added with later modifications or simply with code?
+**Design Aspects**<br>
+1. Product Design
+1.1 The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream or canal.
+1.2 The shape of the device should not have sharp and jutting portions that would cause debris in a waterway to build up on it.
+1.3 The tether pole shall have a groove that keeps the device facing properly up or downstream as intended.
+1.4 The product shall be designed to be watertight.
+1.5 The product’s exterior should have mounting capabilities so that it stays secure in a storm. 
+2. Functionality
+2.1 The device must be able to determine its relative height and compare it to a baseline while noting significant changes over short periods automatically.
+2.2 The device shall be able to determine the water flow rate.
+2.3 The device shall be able to determine wind speed (where placed).
+2.4 The device shall be able to transmit its collected data to a user wirelessly.
+3. Interactivity
+3.1 The device shall be able to transmit its collected data to a user wirelessly.
+3.2 The device shall have a simple push button to cycle between sensors.
+4. Adaptive Intelligence
+4.1 The device shall be able to provide itself with additional lift as needed if something has caused it to become too submerged.
+5. Customization
+5.1 The device can have multiple colors for the exterior to be able to make it blend in with a waterway or stand out to be easier to find and collect.
+5.2 The transmitted data and what notifications are sent may be changed by the end user.
+6. Manufacturing
+6.1 The total cost of the prototype shall be < $240.
+6.2 The device shall be designed with a minimal amount of parts.
+7. Regulations
+7.1 The device shall not chemically alter the water in which it is placed.
+7.2 The device shall have precautions to shorten the water.<br><br>
+
+**Open Questions**<br>
+-Can the device be made easily recyclable and repairable?<br>
+-Can we connect the device to a power source safely to remove the need for batteries?<br>
+-Is there additional functionality that can be added with later modifications or simply with code?<br>
 
