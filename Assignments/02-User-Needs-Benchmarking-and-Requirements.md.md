@@ -15,10 +15,10 @@ Understanding user needs and benchmarking play an important role in developing a
 Keywords: “Weather Reader”<br>
 Selected Products<br>
 
-Sainlogic Wireless Weather Station - [link](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_2_sspa?crid=3N80YRJJJVXLU&keywords=weather+reader&qid=1705498363&sprefix=weather+reader%2Caps%2C141&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)<br>
-- Used to read various specific weather statistics
+Sainlogic Wireless Weather Station<br>
+[link](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_2_sspa?crid=3N80YRJJJVXLU&keywords=weather+reader&qid=1705498363&sprefix=weather+reader%2Caps%2C141&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - Used to read various specific weather statistics
 
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Sainlogic.png)<br>
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Sainlogic.png)<br>
 Price: $103<br>
 Vendor: Amazon<br><br>
 Common Positives Consist Of:
@@ -38,8 +38,9 @@ Common Negatives Consist Of:
 <br><br>
 
 **Search #2 - Wi-Fi Professional Weather Station**<br>
- (Link) - Weather station to detect weather stats
-
+[link](https://www.amazon.com/Crosse-Technology-328-69357-INT-Professional-Weather/dp/B09W8FX716/ref=sr_1_22_sspa?crid=2FALBK37647KB&keywords=weather+reader&qid=1705502867&sprefix=weather+reader%2Caps%2C232&sr=8-22-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1#customerReviews) - Weather station to detect weather stats
+ 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Wifi-station.png)<br>
 Price: $140<br>
 Vendor: Amazon
 
@@ -60,8 +61,9 @@ Common Negatives Consist Of:
 <br><br>
 
 **Search #3 - Ambient Weather WS-2902 WiFi Smart Weather Station**<br>
- (Link) - Smart Water Monitor
+[link](https://www.amazon.com/Ambient-Weather-WiFi-Station/dp/B01N5TEHLI/ref=sr_1_1_sspa?crid=3542KOGNXVDIW&keywords=remote%2Bweather%2Bstation&qid=1705515021&sprefix=remote%2Bweather%2Bstation%2Caps%2C133&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1) - Smart Water Monitor
 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Ambient.png)<br>
 Price: $189.99<br>
 Vendor: Amazon
 
@@ -83,8 +85,9 @@ Common Negatives Consist Of:
 
 **Search #4 - Newentor Weather Station**<br>
 Newentor Weather Station Wireless Indoor Outdoor with Rain Gauge and Wind Speed, Professional Tempest Digital Weather Stations with Data Logging and Alerts, Weather Forecast, Barometer, Solar Powered
- (Link) - Weather station to detect weather stats
+[link](https://www.amazon.com/Newentor-Wireless-Professional-Stations-Barometer/dp/B0CG87FVB6/ref=sr_1_14_sspa?content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736%3Aamzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&keywords=rain+gauge&pd_rd_r=769ac1a4-ef33-4cfe-b726-32fad9aa665b&pd_rd_w=imOZR&pd_rd_wg=eQsvR&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=ZFGG6QPRCHANM61DPH6V&qid=1705516808&sr=8-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1) - Weather station to detect weather stats
 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Newentor.png)<br>
 Price: $129.99<br>
 Vendor: Amazon
 
