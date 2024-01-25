@@ -3,13 +3,13 @@ Engineering 304 - Embedded System Design Project II
 Spring 2024
 User Needs, Benchmarking, and Requirements
 <br><br>
-1. Introduction
+**1. Introduction**
 Understanding user needs and benchmarking play an important role in developing any engineering product, ensuring that it not only meets industry standards but also exceeds user expectations and fulfills our mission statement. By identifying user requirements, we can tailor our solutions to address specific challenges and enhance the overall usability of our product. Additionally, benchmarking allows us to evaluate our product against current industry products, creating improvement and innovation. We aim to align our product with the evolving needs of our users. 
 <br>
 
 ## Product Requirements
 
-2. Voice of the Customer Benchmarking<br><br>
+**2. Voice of the Customer Benchmarking**<br><br>
 
 **Search #1 - Sainlogic Wireless Weather Station**<br>
 Keywords: “Weather Reader”<br>
@@ -84,7 +84,7 @@ Common Negatives Consist Of:
 <br><br>
 
 **Search #4 - Newentor Weather Station**<br>
-Newentor Weather Station Wireless Indoor Outdoor with Rain Gauge and Wind Speed, Professional Tempest Digital Weather Stations with Data Logging and Alerts, Weather Forecast, Barometer, Solar Powered
+Newentor Weather Station Wireless Indoor Outdoor with Rain Gauge and Wind Speed, Professional Tempest Digital Weather Stations with Data Logging and Alerts, Weather Forecast, Barometer, Solar Powered<br>
 [link](https://www.amazon.com/Newentor-Wireless-Professional-Stations-Barometer/dp/B0CG87FVB6/ref=sr_1_14_sspa?content-id=amzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736%3Aamzn1.sym.e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&keywords=rain+gauge&pd_rd_r=769ac1a4-ef33-4cfe-b726-32fad9aa665b&pd_rd_w=imOZR&pd_rd_wg=eQsvR&pf_rd_p=e16c80d0-77bd-4ad0-8c6a-0b24e2e4d736&pf_rd_r=ZFGG6QPRCHANM61DPH6V&qid=1705516808&sr=8-14-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1) - Weather station to detect weather stats
 
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Newentor.png)<br>
@@ -108,8 +108,9 @@ Common Negatives Consist Of:
 <br><br>
 
 **Search #5 - Tempest Weather System**<br>
- (Link) - A Complete Weather Solution for Your Home
+[link](https://www.amazon.com/Tempest-Weather-Accurate-Forecasts-Wireless/dp/B0868WY7NY/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.Qyt2_FSNDzvW5erzazZv5_68GS8f-AO3xjiNOJQxjHpcko7rXs0G-MKWwHmrDD8Mi68vGcKxQw-2V9o8UoZXh9NkBEuma7eCMk9pQmtIIMI8pSlfdDjbGPt9Z3YXlr8U5TluKCmDQvxAu-7bgMNHaS-4kOrQyjwMlWueEfSMkRbxMqroFly4XoCOhfKonAcYlDePhfyw58Ow3jFXgLS1nHzFqdFFoXbiSJia-8QjDw-ToP8spR4vkPaUzYukEL-ERc9TkvDTvlGPSbPj5Qu1S7TpCzRVY1nCLoGmFFPdJg0.d79bDSLFvdNgiOlF6Yz4S5e27GS6Kp0IG25AZtc8ges&dib_tag=se&hvadid=664223481015&hvdev=c&hvlocphy=9030084&hvnetw=g&hvqmt=e&hvrand=1841615953807592180&hvtargid=kwd-1030435799694&hydadcr=19197_13537830&keywords=tempest+weather+system&qid=1705528402&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1) - A Complete Weather Solution for Your Home
 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Tempest1.png)![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Tempest2.png)<br>
 Price: $340<br>
 Vendor: Amazon/Shop WeatherFlow
 
@@ -130,8 +131,9 @@ Common Negatives Consist Of:
 <br><br>
 
 **Search #6 - OTT HydroMet Urban Flood Warning System**<br>
- (Link) - Weather station to detect weather stats
+[Link](https://www.otthydromet.com/en/applications/flood-warning?_bk=flood%20monitoring%20system&_bm=p&_bt=648555245186&_bn=g&_bg=151874351171&gclid=EAIaIQobChMIpejp1vnkgwMVVwytBh3utgDHEAAYASAAEgJ7ZPD_BwE) - Weather station to detect weather stats
 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-OTT.png)
 Price: Unlisted - Priced at Order<br>
 Vendor: OTT Hydromet
 
@@ -187,10 +189,13 @@ The system has been included since it is a close representation of the intended 
 <br>
 
 ## User Needs Jamboard Summation
-
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Jam1.png)<br>
 ## User Needs Organization / Ranking
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/02-Ranking.png)<br>
 
-3. Develop Requirements<br><br>
+<br><br>
+
+**3. Develop Requirements**<br><br>
 
 **User Story Statement**<br><br>
 
