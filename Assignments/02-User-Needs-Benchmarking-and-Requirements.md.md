@@ -198,31 +198,31 @@ User Story #2: Jane (County Emergency Services Management)<br>
 Jane is an emergency service management specialist employed by the county and is responsible for monitoring extreme weather conditions that affect the public. To best serve the public, Jane relies on an early warning weather network of ruggedized remote weather stations that can detect real-time weather conditions and changes within the county. With this information, precise real-time weather updates can be sent to emergency management teams to aid them in warnings, emergency responses, and other critical decision-making processes.<br><br>
 
 **Design Aspects**<br>
-1. Product Design
-1.1 The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream or canal.
-1.2 The shape of the device should not have sharp and jutting portions that would cause debris in a waterway to build up on it.
-1.3 The tether pole shall have a groove that keeps the device facing properly up or downstream as intended.
-1.4 The product shall be designed to be watertight.
-1.5 The product’s exterior should have mounting capabilities so that it stays secure in a storm. 
-2. Functionality
-2.1 The device must be able to determine its relative height and compare it to a baseline while noting significant changes over short periods automatically.
-2.2 The device shall be able to determine the water flow rate.
-2.3 The device shall be able to determine wind speed (where placed).
-2.4 The device shall be able to transmit its collected data to a user wirelessly.
-3. Interactivity
-3.1 The device shall be able to transmit its collected data to a user wirelessly.
-3.2 The device shall have a simple push button to cycle between sensors.
-4. Adaptive Intelligence
-4.1 The device shall be able to provide itself with additional lift as needed if something has caused it to become too submerged.
-5. Customization
-5.1 The device can have multiple colors for the exterior to be able to make it blend in with a waterway or stand out to be easier to find and collect.
-5.2 The transmitted data and what notifications are sent may be changed by the end user.
-6. Manufacturing
-6.1 The total cost of the prototype shall be < $240.
-6.2 The device shall be designed with a minimal amount of parts.
-7. Regulations
-7.1 The device shall not chemically alter the water in which it is placed.
-7.2 The device shall have precautions to shorten the water.<br><br>
+1. Product Design<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1 The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream or canal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.2 The shape of the device should not have sharp and jutting portions that would cause debris in a waterway to build up on it.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.3 The tether pole shall have a groove that keeps the device facing properly up or downstream as intended.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.4 The product shall be designed to be watertight.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.5 The product’s exterior should have mounting capabilities so that it stays secure in a storm.<br>
+2. Functionality<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.1 The device must be able to determine its relative height and compare it to a baseline while noting significant changes over short periods automatically.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.2 The device shall be able to determine the water flow rate.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.3 The device shall be able to determine wind speed (where placed).<br>
+&nbsp;&nbsp;&nbsp;&nbsp;2.4 The device shall be able to transmit its collected data to a user wirelessly.<br>
+3. Interactivity<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.1 The device shall be able to transmit its collected data to a user wirelessly.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;3.2 The device shall have a simple push button to cycle between sensors.<br>
+4. Adaptive Intelligence<br>
+&nbsp;&nbsp;&nbsp;&nbsp;4.1 The device shall be able to provide itself with additional lift as needed if something has caused it to become too submerged.<br>
+5. Customization<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5.1 The device can have multiple colors for the exterior to be able to make it blend in with a waterway or stand out to be easier to find and collect.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;5.2 The transmitted data and what notifications are sent may be changed by the end user.
+6. Manufacturing<br>
+&nbsp;&nbsp;&nbsp;&nbsp;6.1 The total cost of the prototype shall be < $240.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;6.2 The device shall be designed with a minimal amount of parts.<br>
+7. Regulations<br>
+&nbsp;&nbsp;&nbsp;&nbsp;7.1 The device shall not chemically alter the water in which it is placed.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;7.2 The device shall have precautions to shorten the water.<br><br>
 
 **Open Questions**<br>
 -Can the device be made easily recyclable and repairable?<br>
