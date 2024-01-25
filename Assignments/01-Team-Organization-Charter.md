@@ -24,29 +24,15 @@ Project Goals
 7 - Continuous improvement in design processes
 
 ## 2. Communication Channels
-Team Communication Table
+(Name: Primary, Secondary, Tertiary)
 
-Name
-1st Choice
-2nd Choice
-3rd Choice
-Brian
-Discord
-Text
-Email
-Zeke
-Discord
-Text
-Slack
-Kevis
-Discord
-Text
-Email
-Fynn
-Text
-Discord
-Zoom
+Brian: Discord, Text, Email
 
+Zeke: Discord, Text, Slack 
+
+Kevis: Discord, Text, Email
+
+Fynn: Text, Discord, Zoom
 
 Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) plan as the model for determining team communications. The teams preferred methods of communication matched the most with the PACE plan. Team members will establish communications using the primary method first, then working through subsequent alternatives till communication is established.
 
