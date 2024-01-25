@@ -36,5 +36,6 @@ Fynn: Text, Discord, Zoom
 
 Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) plan as the model for determining team communications. The teams preferred methods of communication matched the most with the PACE plan. Team members will establish communications using the primary method first, then working through subsequent alternatives till communication is established.
 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-graph.png)
 
 
