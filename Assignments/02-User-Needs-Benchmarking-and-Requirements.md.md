@@ -199,7 +199,7 @@ Jane is an emergency service management specialist employed by the county and is
 
 **Design Aspects**<br>
 1. Product Design<br>
-&nbsp;&nbsp;&nbsp;&nbsp;1.1 The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream or canal.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;1.1 The product’s exterior should be minimalistic to be unobtrusive visually in a water environment such as a controlled stream.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.2 The shape of the device should not have sharp and jutting portions that would cause debris in a waterway to build up on it.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.3 The tether pole shall have a groove that keeps the device facing properly up or downstream as intended.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;1.4 The product shall be designed to be watertight.<br>
