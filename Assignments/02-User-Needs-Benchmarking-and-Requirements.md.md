@@ -140,46 +140,46 @@ The system has been included since it is a close representation of the intended 
 ## Additional User Needs
 
 **Explicit**<br>
--Real-Time Data Access<br>
--User-Friendly Interface<br>
--Accurate Forecasting<br>
+- Real-Time Data Access<br>
+- User-Friendly Interface<br>
+- Accurate Forecasting<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Ambient Air Temperature<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Water Temperature<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Wind Speed<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Water Flow Rate<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Water Depth/Rain Detection<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Humidity Detection<br>
--Customization Options<br>
+- Customization Options<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Unit Conversions temperatures (e.g. Fahrenheit vs Celsius)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Unit Conversions (e.g. Imperia Standard vs Metric)<br>
--Multi-Location Support<br>
--Mobile Accessibility<br>
--Visual Representation<br>
--Severe Weather Alerts<br>
--Historical Data Access<br>
--Integration With Other Apps/Platforms<br>
--Language and Units Customization<br>
--Energy Efficiency Insights<br>
--Air Quality Information<br>
--Ruggedized/All-Weather<br>
+- Multi-Location Support<br>
+- Mobile Accessibility<br>
+- Visual Representation<br>
+- Severe Weather Alerts<br>
+- Historical Data Access<br>
+- Integration With Other Apps/Platforms<br>
+- Language and Units Customization<br>
+- Energy Efficiency Insights<br>
+- Air Quality Information<br>
+- Ruggedized/All-Weather<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Water proof<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Submeragable (water submerged system component)<br>
 
 <br><br>
 
 **Latent**<br>
--Contextual Insights<br>
--Social Integration<br>
--Localized Community Updates<br>
--Personalized Lifestyle Recommendations<br>
--Travel Planning Assistance<br>
--Emotional Impact Consideration<br>
--Learning Resources<br>
--Offline Accessibility<br>
--Eco-Friendly Recommendations<br>
--Integration with Smart Home Devices<br>
--Mood Customization<br>
--Collaborative Forecasting<br>
+- Contextual Insights<br>
+- Social Integration<br>
+- Localized Community Updates<br>
+- Personalized Lifestyle Recommendations<br>
+- Travel Planning Assistance<br>
+- Emotional Impact Consideration<br>
+- Learning Resources<br>
+- Offline Accessibility<br>
+- Eco-Friendly Recommendations<br>
+- Integration with Smart Home Devices<br>
+- Mood Customization<br>
+- Collaborative Forecasting<br>
 
 <br>
 
@@ -225,7 +225,7 @@ Jane is an emergency service management specialist employed by the county and is
 &nbsp;&nbsp;&nbsp;&nbsp;7.2 The device shall have precautions to shorten the water.<br><br>
 
 **Open Questions**<br>
--Can the device be made easily recyclable and repairable?<br>
--Can we connect the device to a power source safely to remove the need for batteries?<br>
--Is there additional functionality that can be added with later modifications or simply with code?<br>
+- Can the device be made easily recyclable and repairable?<br>
+- Can we connect the device to a power source safely to remove the need for batteries?<br>
+- Is there additional functionality that can be added with later modifications or simply with code?<br>
 
