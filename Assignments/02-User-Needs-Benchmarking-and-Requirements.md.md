@@ -15,10 +15,10 @@ Understanding user needs and benchmarking play an important role in developing a
 Keywords: “Weather Reader”<br>
 Selected Products<br>
 
-Sainlogic Wireless Weather Station
- (Link) - Used to read various specific weather statistics
+Sainlogic Wireless Weather Station - [link](https://www.amazon.com/sainlogic-Wireless-Forecast-Temperature-Pressure/dp/B08G1FZZ5M/ref=sr_1_2_sspa?crid=3N80YRJJJVXLU&keywords=weather+reader&qid=1705498363&sprefix=weather+reader%2Caps%2C141&sr=8-2-spons&ufe=app_do%3Aamzn1.fos.f5122f16-c3e8-4386-bf32-63e904010ad0&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)<br>
+- Used to read various specific weather statistics
 
-
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Sainlogic.png)<br>
 Price: $103<br>
 Vendor: Amazon<br><br>
 Common Positives Consist Of:
