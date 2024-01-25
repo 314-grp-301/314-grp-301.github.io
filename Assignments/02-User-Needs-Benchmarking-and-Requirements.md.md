@@ -1,39 +1,8 @@
-
-
-
-
-
-
-
-
-
-
 # TEAM 301
 Engineering 304 - Embedded System Design Project II
 Spring 2024
 User Needs, Benchmarking, and Requirements
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br><br><br><br>
 
 1. Introduction	2
 2. Voice of the Customer Benchmarking	2
