@@ -96,10 +96,10 @@ As per the PACE plan, team members will prioritize methods of communication usin
 
 | Role                                         | Duties                                                                                                                        |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 🎓 **Meeting Leader - Brian Wegner**         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
-| 📝 **Meeting Recorder - Xzekiel Trevino**    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
-| 🚀 **Assignment Leader - Fynn Meyerhoff**    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
-| 📊 **Project Monitor - Kevis Seymore**       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
+| 🎓 **Meeting Leader** - Brian Wegner         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
+| 📝 **Meeting Recorder** - Xzekiel Trevino    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
+| 🚀 **Assignment Leader** - Fynn Meyerhoff    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
+| 📊 **Project Monitor** - Kevis Seymore       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
 
 
 ## :handshake: 6. Team Coordination & Accountability
