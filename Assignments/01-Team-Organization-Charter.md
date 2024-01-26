@@ -1,4 +1,4 @@
-[Main Page](../index.md)
+[Main Page](../index.md)<br><br>
 
 ## :handshake: 6. Team Coordination & Accountability
 
