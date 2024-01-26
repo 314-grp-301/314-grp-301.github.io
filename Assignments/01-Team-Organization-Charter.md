@@ -25,7 +25,81 @@
     - Commit to an iterative process of design improvement and refinement.
 
 
+## :speech_balloon: 2. Communication Channels
 
+### Team Communication Table
+
+| Name  | 1st Choice | 2nd Choice | 3rd Choice |
+|-------|------------|------------|------------|
+| Brian | Discord    | Text       | Email      |
+| Zeke  | Discord    | Text       | Slack      |
+| Kevis | Discord    | Text       | Email      |
+| Fynn  | Text       | Discord    | Zoom       |
+
+Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) plan as the model for determining team communications. The team's preferred methods of communication match most closely with the PACE plan. Team members will establish communications using the primary method first, then working through subsequent alternatives until communication is established.
+
+### :heavy_check_mark: PACE Plan
+
+  - 🗨️ **Discord** (Primary):
+    - Main channel for regular team communications.
+
+  - 📱 **Short Message Service (SMS) / Text** (Alternative): 
+    - For quick updates and when Discord is not available.
+      
+  - 📧 **E-mail** (Contingency):
+    - For more formal or detailed communication needs.
+
+  - 👥 **Face-to-Face during Class** (Emergency):
+    - For urgent matters requiring immediate, in-person discussion.
+
+## :loudspeaker: 3. Communication Procedures
+
+As per the PACE plan, team members will prioritize methods of communication using this plan. The team will first attempt to communicate through Discord, and if that's not possible, we will move to Text, and so on. This approach ensures all team members stay on track and are aware of which communication methods to use as a fallback if the first option is not available.
+
+### Managing Instructor Correspondence
+
+- **Collaborative Approach:**
+  - The team adopts a collaborative strategy to ensure effective communication and timely resolution of queries.
+- **Designated Point of Contact:**
+  - *Peralta 103* is designated as the individual responsible for handling instructor correspondence, acting as a liaison between the team and the instructors.
+- **Maximizing Office Hours:**
+  - The team commits to utilizing instructor office hours as much as possible to stay updated on assignments and project deadlines.
+
+## 📅 4. Meeting Schedule and Availability
+
+**People:**
+- 🟥 B = Brian
+- 🟩 X = Xzekiel
+- 🟦 K = Kevis
+- 🟨 F = Fynn
+
+**Communication methods:** SMS (text), Discord, Email, in-person
+
+| Time  | Sun       | Mon       | Tue  | Wed       | Thu       | Fri       | Sat       |
+|-------|-----------|-----------|------|-----------|-----------|-----------|-----------|
+| 8:00  | 🟨/🟥     | 🟨/🟥/🟩  |      | 🟥/🟩     |           | 🟥/🟩     | 🟨/🟥     |
+| 9:00  | 🟨/🟥     | 🟥        |      | 🟥        |           | 🟥        | 🟨/🟥     |
+| 10:00 | 🟥/🟦     | 🟥/🟦     |      | 🟥/🟦     |           | 🟥/🟦     | 🟥        |
+| 11:00 | 🟥/🟦     | 🟥/🟦     | 🟥/🟩 | 🟥/🟦     | 🟥/🟩     | 🟥        |           |
+| 12:00 | 🟦        | 🟦        |      | 🟦        |           | 🟦        |           |
+| 13:00 | 🟦        | 🟦        |      | 🟦        |           | 🟨/🟩/🟦  | 🟨/🟦     |
+| 14:00 | 🟦        |           |      |           |           | 🟨/🟩/🟦  | 🟨/🟦     |
+| 15:00 | 🟨/🟦     |           |      | 🟨/🟩/🟦  |           | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 16:00 | 🟨/🟦     |           | 🟩/🟦 |           | 🟩/🟦     | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 17:00 | 🟨/🟦     | 🟨/🟩     | 🟦   | 🟩        | 🟩/🟦     | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 18:00 |           | 🟨/🟩     | 🟦   | 🟩        | 🟩/🟦     | 🟨/🟦     | 🟨/🟩/🟦  |
+| 19:00 |           | 🟨/🟩     |      |           | 🟩        | 🟨/🟩     |           |
+| 20:00 |           |           |      | 🟨        |           | 🟨        |           |
+
+
+## :star2: 5. Roles & Responsibilities
+
+| Role                                         | Duties                                                                                                                        |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| 🎓 **Meeting Leader - Brian Wegner**         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
+| 📝 **Meeting Recorder - Xzekiel Trevino**    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
+| 🚀 **Assignment Leader - Fynn Meyerhoff**    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
+| 📊 **Project Monitor - Kevis Seymore**       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
 
 
 ## :handshake: 6. Team Coordination & Accountability
