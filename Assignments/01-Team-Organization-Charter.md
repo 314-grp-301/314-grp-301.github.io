@@ -147,20 +147,31 @@ As per the PACE plan, team members will prioritize methods of communication usin
 
 **Conflict Resolution and Counseling Guide:**
 
-- **Identify the Problem:** 
+1. **Identify the Problem:** 
   - Clearly state the issue at hand.
 
-- **Identify Solutions:** 
+2. **Identify Solutions:** 
   - Suggest practical solutions.
 
-- **Counseling Techniques:**
+3. **Counseling Techniques:**
   - Active Listening, Empathy, Confidentiality, Goal Setting, Providing Resources.
 
-- **Resolution Approaches:**
-  - **Peer-to-Peer:** First-level, professional one-on-one communication.
-  - **Team-to-Peer:** If peer-to-peer fails, a team approach is used, avoiding alienation.
-  - **Instructor-to-Team:** Escalation for unresolved issues, involving the professor.
-  - **Instructor-to-Peer:** Final step for unresolved conflicts requiring outside intervention.
+4. **Resolution Approaches:**
+
+   1. **👥 Peer-to-Peer:** 
+   - *First-level, professional one-on-one communication.*
+
+   2. **👪 Team-to-Peer:**
+   - *A team approach is used, avoiding alienation.*
+
+   3. **👩‍🏫 Instructor-to-Team:**
+   - *Escalation for unresolved issues, involving the professor.*
+
+   4. **👨‍🏫 Instructor-to-Peer:**
+   - *Final step for unresolved conflicts requiring outside intervention.*
+
+
+
 
 
 
