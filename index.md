@@ -1,42 +1,10 @@
----
-title: Home
----
-
 # Flash Flood and Weather Detection Buoy
 **EGR 314, Embedded Sys Design Proj II**<br>
 **Spring Semester, 2024**
 **Group 301**
-<br><br>**kevisrs committed this**<br>**Zeke committed this**<br><br><br><br><br>
-## The rest of this page is left as a formatting example for future additions.
-
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
-
-## Research Question
-
-* Bullet Point 122
-* Bullet Point 2
-* Bullet Point 3
-
-## Background
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-[link to background](/background)
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 332
-2. Numbered Point 443
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
+<br><br>
+|Number|Assignment Name|
+|-|-|
+|01|[Team Organization Charter](Assignments/01-Team-Organization-Charter.md)|
+|02|[User Needs, Benchmarking, and Requirements](Assignments/02-User-Needs-Benchmarking-and-Requirements.md)|
+|03|[Design Ideation](Assignments/03-Design-Ideation.md)|
