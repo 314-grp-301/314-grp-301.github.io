@@ -124,7 +124,8 @@ As per the PACE plan, team members will prioritize methods of communication usin
 - **Recognizing Conflict:**
   - **Goal:** Aid in team development by transitioning through stages efficiently, aiming to spend most time in the performing stage.
   - **Tuckman’s Five Stages of Team Development:**
-    - Illustrated in Fig 1.
+    
+    ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-graph.png)
 
 ### Stages of Team Development:
 
@@ -161,6 +162,6 @@ As per the PACE plan, team members will prioritize methods of communication usin
   - **Instructor-to-Team:** Escalation for unresolved issues, involving the professor.
   - **Instructor-to-Peer:** Final step for unresolved conflicts requiring outside intervention.
 
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-graph.png)
+
 
 
