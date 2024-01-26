@@ -1,3 +1,5 @@
+[Main Page](../index.md)
+
 ## :handshake: 6. Team Coordination & Accountability
 
 - **Pre-Assignment Coordination:** 
