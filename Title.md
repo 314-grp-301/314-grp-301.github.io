@@ -1,7 +1,9 @@
-# Flash Flood and Weather Detection Buoy
+# Weather Monitoring System
 **EGR 314, Embedded Sys Design Proj II**<br>
 **Spring Semester, 2024**
 **Group 301**
+Ira A. Fulton Schools of Engineering, Arizona State University
+EGR 314 - Embedded Sys Design Project II, Professor Nichols
 <br><br>
 |Number|Assignment Name|
 |-|-|
