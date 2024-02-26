@@ -190,3 +190,40 @@
 | Easy to program            | Limited to 2x16 characters             |
 | Sample Code Available      | No images                              |
 | Can make custom fonts      | Unable to order small batch (2-3 units)|
+---
+## Component 6 - Power Switch Regulator (Microcontroller)
+- System Lead: Fynn Meyerhoff
+- Choice: Option 1: LM2575T-3.3
+- Rationale: The LM2575T-3.3 is a good option  because it offers adjustable voltage, including the very common 3.3V, which is great for lots of electronics. This makes it versatile since we can have flexibility with other components. Plus, we've already built a voltage regulator with this part so we know how it works. 
+
+### Power Regulator Solution - 1: LM2575-3.3WU-TR
+<img src="/path/to/myimage.png" width="200">
+**Cost:** $3.77 per unit
+
+
+| Pros                                              | Cons                                        |
+|---------------------------------------------------|---------------------------------------------|
+| Versatile with a wide input voltage range.        | Lower current capacity compared to some newer designs. |
+| Capable of driving a 1.0A load.                   | Requires several external components.       |
+| Available in various fixed and adjustable output versions. | Might be less efficient than newer alternatives. |
+
+### Power Regulator Solution - 2: LM2596S-5.0
+<img src="/path/to/myimage.png" width="200">
+**Cost:** $6.81 per unit
+
+| Pros                                          | Cons                                          |
+|-----------------------------------------------|-----------------------------------------------|
+| Reliable performance with good thermal management. | Larger size compared to newer regulators.     |
+| Wide input voltage range.                     | Lower switching frequency might not be ideal for all applications. |
+| Built-in thermal shutdown and current limit features. | Fixed 5.0V output limits flexibility unless using an adjustable version. |
+
+### Power Regulator Solution - 3: MP1584EN-LF-Z
+<img src="/path/to/myimage.png" width="200">
+**Cost:** $2.81 per unit
+
+| Pros                                      | Cons                                             |
+|-------------------------------------------|--------------------------------------------------|
+| High efficiency in conversion.            | Potentially noisier output due to high switching frequency. |
+| Compact size, suitable for space-constrained applications. | Might require additional filtering for sensitive applications. |
+| High current capability (up to 3A).       | Limited by a maximum input voltage of 28V.        |
+
