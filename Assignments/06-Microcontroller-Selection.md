@@ -11,6 +11,8 @@
 
 **Choice: Option 1**
 
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/06-PIC16F15354.png" width="200" height="300">
+
 **Reasons:**
 
 - Low power consumption
