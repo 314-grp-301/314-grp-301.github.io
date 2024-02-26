@@ -31,7 +31,7 @@ Reasons:
 | Information                                 | PIC Option 1     | PIC Option 2 | PIC Option 3 |
 |---------------------------------------------|------------------|--------------|--------------|
 | Part Number                                 | PIC16F15354      | PIC16F1517   | PIC18F47K42   |
-| Link to product page                        | [Product Page Link](www.google.com) | [Product Page Link]() | [Product Page Link]() |
+| Link to product page                        | [www.google.com](www.google.com) | [Product Page Link]() | [Product Page Link]() |
 | Link to Data Sheets                         | [Data Sheets]()  | [Data Sheets]() | [Data Sheets]() |
 | Link to Application Notes                   | [Notes]()        | [Notes]()    | [Notes]()    |
 | Link to Code Examples                       | [Code Examples]()| [Code Examples]() | [Code Examples]() |
