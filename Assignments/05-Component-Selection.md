@@ -1,6 +1,6 @@
 ## 1 - Motor Driver
 - System Lead: Kevis Seymore
-- Choice: **(Option 3)** BD6211F-E2
+- Choice: **(Option 4)** IFX9201SGAUMA1
 - Rationale: The IFX9201SGAUMA1 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
 ### Driver Solution - 1: BD6211F-E2
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BD6211F-E2.jpg" width="200">
@@ -229,7 +229,7 @@
 | Fastest Response Time/least lag from input to screen update | Most Expensive Solution             |
 | Largest Viewing Area: 70 x 40 mm         | High backlighting may require more power |
 
-### LCD Solution - 3: MD21605G12W3-BNMLW-VE
+### LCD Solution - 3: MD21605G12W3-BNMLW-VE :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MD21605G12W3-BNMLW-VE.jpg" width="200">
 
 **Cost:** $4.77 per unit (min order 5)
