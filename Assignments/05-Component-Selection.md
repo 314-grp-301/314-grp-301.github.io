@@ -3,7 +3,7 @@
 - Choice: **(Option 3)** BD6211F-E2
 - Rationale: The ROB-12859 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
 ### Driver Solution - 1: BD6211F-E2
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BD6211F-E2.jpg" width="200">
 **Cost:** $2.19 per unit
 
 | Pros                                       | Cons                 |
@@ -14,7 +14,7 @@
 | High precision sensorless motor load detection |                    |
 
 ### Driver Solution - 2: BD6210F-E2
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-bd6210f-e2.jpg" width="200">
 **Cost:** $2.46 per unit
 
 | Pros                                         | Cons                  |
@@ -24,7 +24,7 @@
 | CW/CCW/short-brake/stop motor control modes  | Footprint provided    |
 
 ### Driver Solution - 3: ROB-12859
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-12859.jpg" width="200">
 **Cost:** $21.50 per unit
 
 | Pros                                         | Cons                         |
@@ -41,7 +41,7 @@
 - Rationale: All the motors listed are appropriate 2-phase steppers, but option 1 comes recommended and has the highest accuracy in steps per revolution.
 
 ### Motor Solution - 1: ROB-10846
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-10846.jpg" width="200">
 **Cost:** $19.50 per unit
 
 | Pros                                     | Cons                             |
@@ -51,7 +51,7 @@
 | Low voltage required                     |                                  |
 
 ### Motor Solution - 2: ROB-09238
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-09238.jpg" width="200">
 **Cost:** $18.79 per unit
 
 | Pros                                  | Cons                                  |
@@ -62,7 +62,7 @@
 |                                       | Round shaft requires press fit or clamp |
 
 ### Motor Solution - 3: FIT0278
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-FIT0278.jpg" width="200">
 **Cost:** $13.95 per unit
 
 | Pros                                      | Cons                                     |
@@ -71,7 +71,7 @@
 | Termination with connector and leads provided allowing for removal and/or easier installation and maintenance | Round shaft requires press fit or clamp |
 
 ### Motor Solution - 4: 4641
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-4641.jpg" width="200">
 **Cost:** $12.50 per unit
 
 | Pros                                      | Cons                                     |
@@ -86,7 +86,7 @@
 - Rationale: The LM75BDP,118 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100F, the drop off is negligible within ranges it will be operating within.
 
 ### Temp Sensor Solution - 1: TPIS 1S 1385 / 5029
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TPIS-1S-1385.jpg" width="200">
 **Cost:** $13.63 per unit
 
 | Pros                                  | Cons                                         |
@@ -96,7 +96,7 @@
 | Ambient and/or object heat detection  |                                              |
 
 ### Temp Sensor Solution - 2: AT30TSE004A-MAA5M-T
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-AT30TSE004A-MAA5M-T.jpg" width="200">
 **Cost:** $1.32 per unit
 
 | Pros                                     | Cons                                         |
@@ -105,7 +105,7 @@
 | Temp Conditional Emergency Alarm/Shutoff | ±3.0°C accuracy (maximum) over the -20°C to +125°C range |
 
 ### Temp Sensor Solution - 3: LM75BDP,118
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM75BDP.jpg" width="200">
 **Cost:** $0.91 per unit
 
 | Pros                                  | Cons                              |
@@ -120,7 +120,7 @@
 - Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
 
 ### Humidity Sensor Solution - 1: SHT40-AD1B-R2
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-SHT40-AD1B-R2.jpg" width="200">
 **Cost:** $2.58 per unit
 
 | Pros                                       | Cons                                       |
@@ -134,7 +134,7 @@
 | GitHub Support                             |                                            |
 
 ### Humidity Sensor Solution - 2: BPS240-D2P0-S10E
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BPS240-D2P0-S10E.jpg" width="200">
 **Cost:** $5.78 per unit
 
 | Pros                                      | Cons                                     |
@@ -146,7 +146,7 @@
 | GitHub Support                            |                                          |
 
 ### Humidity Sensor Solution - 3: HIH6030
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-HIH6030-021-001.jpg" width="200">
 **Cost:** $13.43 per unit
 
 | Pros                                      | Cons                                     |
@@ -161,7 +161,7 @@
 - Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost. 
 
 ### LCD Solution - 1: 64128K COG FA BW
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-64128K%20COG%20FA%20BW.jpg" width="200">
 **Cost:** $12.28 per unit
 
 | Pros                            | Cons                                    |
