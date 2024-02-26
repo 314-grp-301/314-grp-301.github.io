@@ -1,6 +1,6 @@
 ## Microcontroller Selection
 
-| Feature      | **Option 1** ★ | Option 2     | Option 3     |
+| Feature      | **Option 1** :star: | Option 2     | Option 3     |
 |--------------|----------------|--------------|--------------|
 | **Part #**   | **PIC16F15354**| PIC16F1517   | PIC18F47K42  |
 | **GPIO**     | **22 (21 req)**| 33           | 33           |
