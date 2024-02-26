@@ -1,9 +1,10 @@
 ## 1 - Motor Driver
 - System Lead: Kevis Seymore
 - Choice: **(Option 3)** BD6211F-E2
-- Rationale: The ROB-12859 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
+- Rationale: The IFX9201SGAUMA1 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
 ### Driver Solution - 1: BD6211F-E2
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BD6211F-E2.jpg" width="200">
+
 **Cost:** $2.19 per unit
 
 | Pros                                       | Cons                 |
@@ -15,6 +16,7 @@
 
 ### Driver Solution - 2: BD6210F-E2
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-bd6210f-e2.jpg" width="200">
+
 **Cost:** $2.46 per unit
 
 | Pros                                         | Cons                  |
@@ -25,6 +27,7 @@
 
 ### Driver Solution - 3: ROB-12859
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-12859.jpg" width="200">
+
 **Cost:** $21.50 per unit
 
 | Pros                                         | Cons                         |
@@ -33,15 +36,27 @@
 | Extensive documentation                      | Would take up more space than needed on PCB |
 | Built-in thermal shutdown                    |                              |
 | Short to ground protected                    |                              |
+
+### Driver Solution - 4: IFX9201SGAUMA1 :star:
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-IFX9201SGAUMA1.jpg" width="200">
+
+**Cost:** $4.00 per unit
+
+| Pros                                       | Cons                 |
+|--------------------------------------------|----------------------|
+| Low standby current                        | Complex chip      |
+| Overtemp shutdown                     | Limited to DC motors |
+| 3.3V logic compatible          |                      |
 ---
 
 ## Component 2 - Motor
 - System Lead: Kevis Seymore
-- Choice: Option 1: ROB-10846
-- Rationale: All the motors listed are appropriate 2-phase steppers, but option 1 comes recommended and has the highest accuracy in steps per revolution.
+- Choice: Option 1: LS-00028
+- Rationale: The LS-00028 motor offers the perfect balance of compact size and high efficiency, making it an excellent choice for our small scale project.
 
 ### Motor Solution - 1: ROB-10846
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-10846.jpg" width="200">
+
 **Cost:** $19.50 per unit
 
 | Pros                                     | Cons                             |
@@ -52,6 +67,7 @@
 
 ### Motor Solution - 2: ROB-09238
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-09238.jpg" width="200">
+
 **Cost:** $18.79 per unit
 
 | Pros                                  | Cons                                  |
@@ -63,6 +79,7 @@
 
 ### Motor Solution - 3: FIT0278
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-FIT0278.jpg" width="200">
+
 **Cost:** $13.95 per unit
 
 | Pros                                      | Cons                                     |
@@ -72,6 +89,7 @@
 
 ### Motor Solution - 4: 4641
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-4641.jpg" width="200">
+
 **Cost:** $12.50 per unit
 
 | Pros                                      | Cons                                     |
@@ -79,14 +97,26 @@
 | Compact: Ideal for space-limited applications. | Limited Torque: May struggle with high power or heavy loads. |
 | Precision Control: Offers fine adjustments in speed and torque. | Wear and Tear: Gearbox can wear out, especially under heavy use. |
 | Energy Efficient: Suitable for battery-powered projects. | Noise: Gear meshing can produce undesirable noise. |
+
+### Motor Solution - 5: LS-00028 :star:
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LS-00028.jpg" width="200">
+
+**Cost:** $5.98 per unit
+
+| Pros                                      | Cons                                     |
+|-------------------------------------------|------------------------------------------|
+| Cost Effective | Small Torque|
+|Efficient| Limited Speed Control |
 ---
+
 ## Component 3 - Temperature Sensor
 - System Lead: Xzekiel Trevino
-- Choice: Option 3: M75BDP,118
-- Rationale: The LM75BDP,118 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100F, the drop off is negligible within ranges it will be operating within.
+- Choice: **Option 4:** TC74A4
+- Rationale: The TC74A4 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100F, the drop off is negligible within ranges it will be operating within.
 
 ### Temp Sensor Solution - 1: TPIS 1S 1385 / 5029
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TPIS-1S-1385.jpg" width="200">
+
 **Cost:** $13.63 per unit
 
 | Pros                                  | Cons                                         |
@@ -97,6 +127,7 @@
 
 ### Temp Sensor Solution - 2: AT30TSE004A-MAA5M-T
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-AT30TSE004A-MAA5M-T.jpg" width="200">
+
 **Cost:** $1.32 per unit
 
 | Pros                                     | Cons                                         |
@@ -106,6 +137,7 @@
 
 ### Temp Sensor Solution - 3: LM75BDP,118
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM75BDP.jpg" width="200">
+
 **Cost:** $0.91 per unit
 
 | Pros                                  | Cons                              |
@@ -113,14 +145,26 @@
 | Cheap price point                     | Accuracy degrades after 100F      |
 | Extensive Data sheet and support documents |  ±2C accuracy                                |
 | 2.8-5V operating range                |                           |
+
+### Temp Sensor Solution - 4: TPIS 1S 1385 / 5029 :star:
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TC74A4-3.3VCTTR.jpg" width="200">
+
+**Cost:** $1.15 per unit
+
+| Pros                                  | Cons                                         |
+|---------------------------------------|----------------------------------------------|
+| High Precision              | Limited Temperature Range                                    |
+| Low Power Consumption                           | No Analog Output |
+| Easy Integration  | Single Address                                             |
 ---
 ## Component 4 - Humidity Sensor
 - System Lead: Brian Wegner
-- Choice: Option 2: BPS240-D2P0-S10E
+- Choice: **Option 3:** HIH6030
 - Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
 
 ### Humidity Sensor Solution - 1: SHT40-AD1B-R2
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-SHT40-AD1B-R2.jpg" width="200">
+
 **Cost:** $2.58 per unit
 
 | Pros                                       | Cons                                       |
@@ -135,6 +179,7 @@
 
 ### Humidity Sensor Solution - 2: BPS240-D2P0-S10E
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BPS240-D2P0-S10E.jpg" width="200">
+
 **Cost:** $5.78 per unit
 
 | Pros                                      | Cons                                     |
@@ -145,8 +190,9 @@
 | I2C Serial                                |                                          |
 | GitHub Support                            |                                          |
 
-### Humidity Sensor Solution - 3: HIH6030
+### Humidity Sensor Solution - 3: HIH6030 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-HIH6030-021-001.jpg" width="200">
+
 **Cost:** $13.43 per unit
 
 | Pros                                      | Cons                                     |
@@ -157,11 +203,12 @@
 ---
 ## Component 5 - LCD Screen
 - System Lead: Brian Wegner/Xzekiel Trevino
-- Choice: Option 3: MD21605G12W3-BNMLW-VE
+- Choice: **Option 3:** MD21605G12W3-BNMLW-VE
 - Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost. 
 
 ### LCD Solution - 1: 64128K COG FA BW
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-64128K%20COG%20FA%20BW.jpg" width="200">
+
 **Cost:** $12.28 per unit
 
 | Pros                            | Cons                                    |
@@ -172,7 +219,8 @@
 | Power: 3V                       |                                         |
 
 ### LCD Solution - 2: NHD-C12864LZ-FSW
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-NHD-C12864LZ-FSW-FBW-3V3.jpg" width="200">
+
 **Cost:** $17.64 per unit
 
 | Pros                                     | Cons                                 |
@@ -182,7 +230,8 @@
 | Largest Viewing Area: 70 x 40 mm         | High backlighting may require more power |
 
 ### LCD Solution - 3: MD21605G12W3-BNMLW-VE
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MD21605G12W3-BNMLW-VE.jpg" width="200">
+
 **Cost:** $4.77 per unit (min order 5)
 
 | Pros                       | Cons                                   |
@@ -193,13 +242,13 @@
 ---
 ## Component 6 - Power Switch Regulator (Microcontroller)
 - System Lead: Fynn Meyerhoff
-- Choice: Option 1: LM2575T-3.3
-- Rationale: The LM2575T-3.3 is a good option  because it offers adjustable voltage, including the very common 3.3V, which is great for lots of electronics. This makes it versatile since we can have flexibility with other components. Plus, we've already built a voltage regulator with this part so we know how it works. 
+- Choice: **Option 1:** LM2575-3.3WU-TR
+- Rationale: The LM2575-3.3WU-TR is a good option because it offers a reliable 3.3V suitable for most microcontrollers. This was also the same regualtor used in an in-class activity. 
 
-### Power Regulator Solution - 1: LM2575-3.3WU-TR
-<img src="/path/to/myimage.png" width="200">
-**Cost:** $3.77 per unit
+### Power Regulator Solution - 1: LM2575-3.3WU-TR :star:
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2575-3.3WU-TR.jpg" width="200">
 
+**Cost:** $1.75 per unit
 
 | Pros                                              | Cons                                        |
 |---------------------------------------------------|---------------------------------------------|
@@ -208,7 +257,8 @@
 | Available in various fixed and adjustable output versions. | Might be less efficient than newer alternatives. |
 
 ### Power Regulator Solution - 2: LM2596S-5.0
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2596S-5.0.jpg" width="200">
+
 **Cost:** $6.81 per unit
 
 | Pros                                          | Cons                                          |
@@ -218,7 +268,8 @@
 | Built-in thermal shutdown and current limit features. | Fixed 5.0V output limits flexibility unless using an adjustable version. |
 
 ### Power Regulator Solution - 3: MP1584EN-LF-Z
-<img src="/path/to/myimage.png" width="200">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MP1584EN-LF-Z.jpg" width="200">
+
 **Cost:** $2.81 per unit
 
 | Pros                                      | Cons                                             |
