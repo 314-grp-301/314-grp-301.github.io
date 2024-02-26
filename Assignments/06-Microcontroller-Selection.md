@@ -1,4 +1,4 @@
-**Microcontroller Selection**
+## Microcontroller Selection
 
 | Feature      | **Option 1** ★ | Option 2     | Option 3     |
 |--------------|----------------|--------------|--------------|
@@ -16,8 +16,8 @@
 - Low power consumption
 - MCC compatible
 - Meets project requirements
-
-**Design Considerations**
+---
+## Design Considerations 
 
 | Feature                                      | Project Requirements | PIC16F15354 | PIC16F1517 | PIC18F47K42 |
 |----------------------------------------------|----------------------|-------------|------------|-------------|
@@ -29,7 +29,7 @@
 | **Other Required Built-In Features?**        | TBD                  |             |            |             |
 | **Additional considerations (Low Power Mode?)** | ?                  |             |            |             |
 
-**Microcontroller Considerations**
+## Microcontroller Considerations
 
 | Information                             | PIC Option 1                                                                 | PIC Option 2                                                               | PIC Option 3                                                               |
 |-----------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
@@ -49,5 +49,42 @@
 | **In-System Programming Capability**     | Yes, ICSP                                                                   | Yes, ICSP                                                                 | Yes, ICSP                                                                 |
 | **Works with MPLAB® X IDE?**             | Yes                                                                         | Yes                                                                       | Yes                                                                       |
 | **Works with Microchip Code Configurator?** | MCC Classic works                                                            | MCC Classic works                                                         | MCC Classic works                                                         |
+---
+## Microcontroller Detailed Requirements
 
+**GPIO Pins Required: 17** (Excluding debug LED’s!)
+- [2] Temperature Sensor (LM75BDP,118) - Digital
+  - Serial Data Line (SDA)
+  - Serial Data Clock (SCL)
+- [2] **Humidity Sensor (HIH6030-021-001)** - Digital
+  - Serial Data Line (SDA)
+  - Serial Data Clock (SCL)
+- [4] **Motor Driver (IFX9201SGAUMA1CT-ND)** - Digital
+  - SCK
+  - CSN
+  - SI
+  - SO
+- [7] **LCD Screen (3086-MD21605G12W3-BNMLW-VE-ND)** Assuming 8-bit mode:
+  - DB0-DB7 (4 pins Data Bus Line)
+  - RS (1 pin for Register Select)
+  - R/W (1 pin for Read and Write)
+  - E (1 pin for Enable)
+- [2] **ESP32 Wireless Receiver**
+  - RX
+  - TX
+
+**Built-in Analog to Digital Converter: 1**
+- All sensors and drivers are digital, but including 1 ADC is advisable for potential future needs.
+
+**Built-in Hardware PWM: 1**
+- Required for the Motor Driver to control motor speed.
+
+**Built-in I2C & SPI: 2 I2C’s & 0 SPI’s**
+- I2C interfaces: 2 (Temp & Humid sensor can be addressed differently through the same bus)
+- SPI interfaces: Not required for this project.
+
+**Built-in UART: 0**
+- Humid/Temp Sensor: Communicate via I2C or SPI, not UART.
+- Motor Driver: Uses digital signals for control, not UART.
+- LCD Screen: Uses a parallel or I2C/SPI interface, not UART.
 
