@@ -30,7 +30,7 @@
 This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard LCD screen displaying data from various environmental sensors. 
 The pod's robust design allows for durability and longevity. 
 
-**:zap: Key Features**
+:zap: **Key Features**
 
 - **Portable:** Easy to move and install in various locations.
 - **Weatherproof:** Designed to withstand harsh environmental conditions.
@@ -66,11 +66,11 @@ The pod's robust design allows for durability and longevity.
 - System Lead: Brian Wegner
 - Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
 
-### 5 - LCD Screen (MD21605G12W3-BNMLW-VE)
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MD21605G12W3-BNMLW-VE.jpg" width="500">
+### 5 - LCD Screen (NHD-0216SZ-NSW-BBW-33V3)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MFG_NHD-0216SZ-NSW-BBW-33V3.jpg" width="500">
 
 - System Lead: Brian Wegner/Xzekiel Trevino
-- Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost.
+- Rationale: Due to the simplistic nature and low voltage requirements, we believe this can display all our information in a small form factor. 
 
 ### 6 - Voltage Regulator (LM2575-3.3WU-TR)
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2575-3.3WU-TR.jpg" width="500">
