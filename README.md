@@ -26,7 +26,7 @@
 
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
-**Description**
+### Description:
 
 This portable weather pod accurately displays temperature and humdidity at a hyperlocal level in real time. The design is compact and strong, ensuring longevity and robustness even in demanding conditions.
 The onboard LCD screen displays data from the two environmental sensors. 
