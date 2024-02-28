@@ -14,7 +14,7 @@
     <td><img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-IMG_5206.jpg" width="75%" /></td>
   </tr>
   <tr>
-    <td align="center">Xzekiel Trevino [Electical Systems] </td>
+    <td align="center">Xzekiel Trevino [Electrical Systems] </td>
     <td align="center">Kevis Seymore [Electrical Systems]</td>
   </tr>
 </table>
@@ -65,6 +65,19 @@ The pod's robust design allows for durability and longevity.
 
 - System Lead: Brian Wegner
 - Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
+
+### 5 - LCD Screen (MD21605G12W3-BNMLW-VE)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MD21605G12W3-BNMLW-VE.jpg" width="500">
+
+- System Lead: Brian Wegner/Xzekiel Trevino
+- Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost.
+
+### 6 - Voltage Regulator (LM2575-3.3WU-TR)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2575-3.3WU-TR.jpg" width="500">
+
+- System Lead: Fynn Meyerhoff 
+- Rationale: The LM2575-3.3WU-TR is a good option because it offers a reliable 3.3V suitable for most microcontrollers. This was also the same regualtor used in an in-class activity. 
+
 
 
 
