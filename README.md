@@ -20,7 +20,7 @@
 </table>
 
 ## Problem Statement 
-
+- Still working on it...
 ## Concept Design (Portable Weather POD)
 
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
@@ -77,6 +77,43 @@ The pod's robust design allows for durability and longevity.
 
 - System Lead: Fynn Meyerhoff 
 - Rationale: The LM2575-3.3WU-TR is a good option because it offers a reliable 3.3V suitable for most microcontrollers. This was also the same regualtor used in an in-class activity. 
+
+## Microcontroller Selection
+
+| Feature      | **Option 1** :star: | Option 2     | Option 3     |
+|--------------|----------------|--------------|--------------|
+| **Part #**   | **PIC16F15354**| PIC16F1517   | PIC18F47K42  |
+| **GPIO**     | **22 (21 req)**| 33           | 33           |
+| **ADC**      | **24 (1 req)** | 28           | 35           |
+| **PWM**      | **4 (1 req)**  | 0            | 4            |
+| **I2C/SPI**  | **2/0**        | 1/0          | 2/0          |
+| **UART**     | **1 (0 req)**  | 1            | 2            |
+
+**Choice: Option 1**
+
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/06-PIC16F15354.png" width="300">
+
+**Reasons:**
+
+- Low power consumption
+- MCC compatible
+- Meets project requirements
+
+## Block Diagram
+- Still Working on it...
+
+## Schematic 
+<img src="" width="500">
+
+## Software Diagram
+
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/07-Software%20Proposal.png" width="1500">
+
+## Questions
+
+1. Question 1
+2. Question 2
+3. Question 3
 
 
 
