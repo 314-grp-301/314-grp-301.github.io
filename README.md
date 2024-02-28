@@ -1,4 +1,4 @@
-# Meet Team 301
+## Meet Team 301
 
 <table>
   <tr>
@@ -18,7 +18,54 @@
     <td align="center">Kevis Seymore [Electrical Systems]</td>
   </tr>
 </table>
----
+
+## Problem Statement 
+
+## Concept Design (Portable Weather POD)
+
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
+
+**Description**
+
+This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard LCD screen displaying data from various environmental sensors. 
+The pod's robust design allows for durability and longevity. 
+
+**:zap: Key Features**
+
+- **Portable:** Easy to move and install in various locations.
+- **Weatherproof:** Designed to withstand harsh environmental conditions.
+- **LCD Display:** Clear and informative data presentation.
+- **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
+- **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
+  - **Temperature:** Measures ambient temperature accurately.
+  - **Humidity:** Monitors air moisture levels.
+
+## Selected Components
+
+### 1 - Motor Driver(IFX9201SGAUMA1)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-IFX9201SGAUMA1.jpg" width="500">
+
+- System Lead: Kevis Seymore
+- Rationale: The IFX9201SGAUMA1 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
+
+### 2 - Motor (LS-00028)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LS-00028.jpg" width="500">
+
+- System Lead: Kevis Seymore
+- Rationale: The LS-00028 motor offers the perfect balance of compact size and high efficiency, making it an excellent choice for our small scale project.
+
+### 3 - Temperature Sensor (TC74A4)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TC74A4-3.3VCTTR.jpg" width="500">
+
+- System Lead: Xzekiel Trevino
+- Rationale: The TC74A4 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100F, the drop off is negligible within ranges it will be operating within.
+
+### 4 - Humdidity Sensor (HIH6030)
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-HIH6030-021-001.jpg" width="500">
+
+- System Lead: Brian Wegner
+- Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
+
 
 
 
