@@ -20,15 +20,16 @@
 </table>
 
 ## Problem Statement 
-- Still working on it...
+- In today's fast-paced world, companies have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
+
 ## Concept Design (Portable Weather POD)
 
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
 **Description**
 
-This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard LCD screen displaying data from various environmental sensors. 
-The pod's robust design allows for durability and longevity. 
+This portable weather pod accurately displays temperature and humdidity at a hyperlocal level in real time. The design is compact and strong, ensuring longevity and robustness even in demanding conditions.
+The onboard LCD screen displays data from the two environmental sensors. 
 
 :zap: **Key Features**
 
