@@ -1,7 +1,7 @@
 [Main Page](../Title.md)<br><br>
 
 # LATEST CONCEPT: Portable Weather POD
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept4.png)
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
 **Description**
 
@@ -11,7 +11,7 @@ The pod's customizable skin (camouflage shown) allows the user to blend it seaml
 **:zap: Key Features**
 
 - **Portable:** Easy to move and install in various locations.
-- **Full Weatherproof:** Designed to withstand harsh environmental conditions.
+- **Weatherproof:** Designed to withstand harsh environmental conditions.
 - **LCD Display:** Clear and informative data presentation.
 - **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
 - **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
