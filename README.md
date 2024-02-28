@@ -113,7 +113,7 @@ The onboard LCD screen displays data from the two environmental sensors.
 ## Questions
 
 1. Question 1
-2. Question 2
+2. Are the 4 Debugging LED's necessary? 
 3. Question 3
 
 
