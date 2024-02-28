@@ -203,7 +203,7 @@
 ---
 ## Component 5 - LCD Screen
 - System Lead: Brian Wegner/Xzekiel Trevino
-- Choice: **Option 3:** MD21605G12W3-BNMLW-VE
+- Choice: **Option 3:** NHD-0216SZ-NSW-BBW-33V3
 - Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost. 
 
 ### LCD Solution - 1: 64128K COG FA BW
@@ -229,10 +229,10 @@
 | Fastest Response Time/least lag from input to screen update | Most Expensive Solution             |
 | Largest Viewing Area: 70 x 40 mm         | High backlighting may require more power |
 
-### LCD Solution - 3: MD21605G12W3-BNMLW-VE :star:
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MD21605G12W3-BNMLW-VE.jpg" width="200">
+### LCD Solution - 3: NHD-0216SZ-NSW-BBW-33V3 :star:
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MFG_NHD-0216SZ-NSW-BBW-33V3.jpg" width="200">
 
-**Cost:** $4.77 per unit (min order 5)
+**Cost:** $24.34 per unit
 
 | Pros                       | Cons                                   |
 |----------------------------|----------------------------------------|
