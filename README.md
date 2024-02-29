@@ -108,7 +108,7 @@ The onboard LCD screen displays data from the two environmental sensors.
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Block_Diagram2.png" width="1000">
 
 ## Schematic 
-<img src="" width="500">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Team301Schematic-1.png" width="1000">
 
 ## Software Diagram
 
