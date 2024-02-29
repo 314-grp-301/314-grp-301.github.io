@@ -79,6 +79,12 @@ The onboard LCD screen displays data from the two environmental sensors.
 - System Lead: Fynn Meyerhoff 
 - Rationale: The LM2575-3.3WU-TR is a good option because it offers a reliable 3.3V suitable for most microcontrollers. This was also the same regualtor used in an in-class activity. 
 
+## Power Budget
+
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-power_budget.png" width="1000">
+
+
+
 ## Microcontroller Selection
 
 | Feature      | **Option 1** :star: | Option 2     | Option 3     |
@@ -109,14 +115,3 @@ The onboard LCD screen displays data from the two environmental sensors.
 ## Software Diagram
 
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/07-Software%20Proposal.png" width="1500">
-
-## Questions
-
-1. Question 1
-2. Are the 4 Debugging LED's necessary? 
-3. Question 3
-
-
-
-
-
