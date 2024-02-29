@@ -278,3 +278,6 @@
 | Compact size, suitable for space-constrained applications. | Might require additional filtering for sensitive applications. |
 | High current capability (up to 3A).       | Limited by a maximum input voltage of 28V.        |
 
+## Power Budget
+
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000">
