@@ -83,8 +83,6 @@ The onboard LCD screen displays data from the two environmental sensors.
 
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-power_budget.png" width="1000">
 
-
-
 ## Microcontroller Selection
 
 | Feature      | **Option 1** :star: | Option 2     | Option 3     |
@@ -107,7 +105,7 @@ The onboard LCD screen displays data from the two environmental sensors.
 - Meets project requirements
 
 ## Block Diagram
-- Still Working on it...
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Block_Diagram2.png" width="1000">
 
 ## Schematic 
 <img src="" width="500">
