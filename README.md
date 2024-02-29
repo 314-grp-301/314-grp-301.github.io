@@ -81,7 +81,7 @@ The onboard LCD screen displays data from the two environmental sensors.
 
 ## Power Budget
 
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-power_budget.png" width="1000">
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000">
 
 ## Microcontroller Selection
 
