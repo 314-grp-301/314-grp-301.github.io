@@ -19,6 +19,8 @@
   </tr>
 </table>
 
+This is evidence of a recent commit for Checkpoint 2. Committed 1825 on 20240311.
+
 ## Problem Statement 
 - In today's fast-paced world, companies have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
 
