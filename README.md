@@ -1,3 +1,22 @@
+This is evidence of a recent commit for Checkpoint 2. Committed 1825 on 20240311.
+
+## Table of Contents
+[01-Team-Organization](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md)
+
+[02-User-Needs-Benchmarking-and-Requirements](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md)
+
+[03-Design-Ideation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)
+
+[04-Block-Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)
+
+[05-Component-Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md)
+
+[06-Microcontroller-Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/06-Microcontroller-Selection.md)
+
+[07-Software-Proposal](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/07-Software-Proposal.md)
+
+[08-Hardware-Proposal](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/08-Hardware-Proposal.md)
+
 ## Meet Team 301
 
 <table>
@@ -19,10 +38,11 @@
   </tr>
 </table>
 
-This is evidence of a recent commit for Checkpoint 2. Committed 1825 on 20240311.
+### Introduction
+This report serves as an interim status update for the ongoing progress of Team 301’s Portable Weather Station for EGR-314’s Spring 2024 semester. A documentary analysis of several past assignments have been condensed into a single source document for ease of reference. A more detailed breakout of each topic can be found by clicking the hyperlink headings for each chapter. Furthermore, a collection of past multimedia exhibits have been consolidated below.
 
-## Problem Statement 
-- In today's fast-paced world, companies have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
+### Problem Statement 
+In today's fast-paced world, companies have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
 
 ## Concept Design (Portable Weather POD)
 
