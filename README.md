@@ -65,7 +65,7 @@ The onboard LCD screen displays data from the two environmental sensors.
 
 ## Selected Components
 
-### 1 - Motor Driver(IFX9201SGAUMA1)
+### 1 - Motor Driver (IFX9201SGAUMA1)
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-IFX9201SGAUMA1.jpg" width="500">
 
 - System Lead: Kevis Seymore
