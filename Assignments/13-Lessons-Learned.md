@@ -2,7 +2,7 @@
 
 # Lessons Learned
 
-- When selecting a microcontroller, make sure you have a solide understanding of thepin's capabilities in I2C and SPI.
+- When selecting a microcontroller, make sure you have a solid understanding of thepin's capabilities in I2C and SPI.
 - Prioritize using components the person in charge of them has had experience using before or has similarities to components they have experience with.
 - Due to individual device addresses, multiple I2C devices can effectively communicate along the same input and output pins.
 - Having as many device inputs and outputs print to Putty can dramatically increase the effectiveness of the debugging stage of development.
