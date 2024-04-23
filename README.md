@@ -1,4 +1,4 @@
-This is evidence of a recent commit for Checkpoint 2. Committed 1825 on 20240311.
+This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
 
 ## Table of Contents
 [01-Team-Organization](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md)
