@@ -1,6 +1,6 @@
 [Main Page](../Title.md)<br><br>
 
-## :dart: 1. Team Goals
+## 1. Team Goals
 
 ### Mission Statement
 “Our mission focuses on innovating and protecting lives by designing advanced safety solutions that are tailored for harsh weather environments, emphasizing user experience and effective protection.”
@@ -38,21 +38,21 @@
 
 Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) plan as the model for determining team communications. The team's preferred methods of communication match most closely with the PACE plan. Team members will establish communications using the primary method first, then working through subsequent alternatives until communication is established.
 
-### :heavy_check_mark: PACE Plan
+### PACE Plan
 
-  - 🗨️ **Discord** (Primary):
+  -  **Discord** (Primary):
     - Main channel for regular team communications.
 
-  - 📱 **Short Message Service (SMS) / Text** (Alternative): 
+  -  **Short Message Service (SMS) / Text** (Alternative): 
     - For quick updates and when Discord is not available.
       
-  - 📧 **E-mail** (Contingency):
+  -  **E-mail** (Contingency):
     - For more formal or detailed communication needs.
 
-  - 👥 **Face-to-Face during Class** (Emergency):
+  -  **Face-to-Face during Class** (Emergency):
     - For urgent matters requiring immediate, in-person discussion.
 
-## :loudspeaker: 3. Communication Procedures
+## 3. Communication Procedures
 
 As per the PACE plan, team members will prioritize methods of communication using this plan. The team will first attempt to communicate through Discord, and if that's not possible, we will move to Text, and so on. This approach ensures all team members stay on track and are aware of which communication methods to use as a fallback if the first option is not available.
 
@@ -65,7 +65,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
 - **Maximizing Office Hours:**
   - The team commits to utilizing instructor office hours as much as possible to stay updated on assignments and project deadlines.
 
-## 📅 4. Meeting Schedule and Availability
+## 4. Meeting Schedule and Availability
 
 **People:**
 - 🟥 B = Brian
@@ -92,17 +92,17 @@ As per the PACE plan, team members will prioritize methods of communication usin
 | 20:00 |           |           |      | 🟨        |           | 🟨        |           |
 
 
-## :star2: 5. Roles & Responsibilities
+## 5. Roles & Responsibilities
 
 | Role                                         | Duties                                                                                                                        |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
-| 🎓 **Meeting Leader** - Brian Wegner         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
-| 📝 **Meeting Recorder** - Xzekiel Trevino    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
-| 🚀 **Assignment Leader** - Fynn Meyerhoff    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
-| 📊 **Project Monitor** - Kevis Seymore       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
+| **Meeting Leader** - Brian Wegner         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
+| **Meeting Recorder** - Xzekiel Trevino    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
+| **Assignment Leader** - Fynn Meyerhoff    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
+| **Project Monitor** - Kevis Seymore       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
 
 
-## :handshake: 6. Team Coordination & Accountability
+## 6. Team Coordination & Accountability
 
 - **Pre-Assignment Coordination:** 
   - **24-Hour Rule:** At least 24 hours before an assignment's due date, responsibilities for specific sections are assigned.
@@ -117,7 +117,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
   - **Accountability for Assigned Sections:** Each member is responsible for their own work.
   - **Openness to Feedback:** Welcoming feedback is essential for individual and team growth.
 
-## :peace_symbol: 7. Conflict Recognition & Resolution
+## 7. Conflict Recognition & Resolution
 
 ### Big Picture Strategy:
 
@@ -158,16 +158,16 @@ As per the PACE plan, team members will prioritize methods of communication usin
 
 4. **Resolution Approaches:**
 
-   1. **👥 Peer-to-Peer:** 
+   1. ** Peer-to-Peer:** 
    - *First-level, professional one-on-one communication.*
 
-   2. **👪 Team-to-Peer:**
+   2. ** Team-to-Peer:**
    - *A team approach is used, avoiding alienation.*
 
-   3. **👩‍🏫 Instructor-to-Team:**
+   3. ** Instructor-to-Team:**
    - *Escalation for unresolved issues, involving the professor.*
 
-   4. **👨‍🏫 Instructor-to-Peer:**
+   4. ** Instructor-to-Peer:**
    - *Final step for unresolved conflicts requiring outside intervention.*
 
 
