@@ -5,6 +5,8 @@
 ## Bill of Materials
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/15-ConsolidatedBOM.png)
 
+## Additional Team Organization Content
+
 ## Acronyms & Key Terms
 
 AC – Alternating Current
