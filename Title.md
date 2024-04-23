@@ -78,7 +78,7 @@ This report serves as consolidated documentation of the work of Team 301’s Por
 “Our mission focuses on innovating and protecting lives by designing advanced safety solutions that are tailored for harsh weather environments, emphasizing user experience and effective protection.”
 
 ### Project Goals
-- **Design Safety Device:** A device that detects flash flooding and serves as an early warning system to the public or observers.
+- **Design Safety Device:** A device that gives accurate and current temperature and humidity readings.
 
 ### 7 Shared Goals
 1. **Improve in Designing for Widespread Use:**
