@@ -10,6 +10,24 @@
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report.
 - *Less important* Reorganize readme and table of contents into a more report style format.
 - For Google Drive, ensure the appropriate files are in each assignment folder.
+
+For reference, the title (or main report) should be in this order:
+- Front Matter
+- Introduction
+- Team Organization
+- User Needs and Benchmarking
+- Product Requirements
+- Design Ideation
+- (Final) Selected Design
+- (Final) Block Diagram
+- (Final) Component Selection
+- (Final) Hardware Implementation
+- (Final) Software Implementation
+- System Verification
+- Lessons Learned
+- Recommendations for future students
+- Appendix
+
 <br>// Delete this section upon all tasks completion
 <br>
 This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
