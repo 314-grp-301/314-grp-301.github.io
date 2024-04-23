@@ -5,8 +5,8 @@
 - 10
 - 11 (Done, Seymore)
 - 12
-- 13
-- 14
+- 13 (In progress, Seymore)
+- 14 (In progress, Seymore)
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report.
 - *Less important* Reorganize readme and table of contents into a more report style format.
 - For Google Drive, ensure the appropriate files are in each assignment folder.
