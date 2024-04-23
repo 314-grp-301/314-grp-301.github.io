@@ -17,6 +17,14 @@ This is evidence of a recent commit for Checkpoint 2. Committed 1825 on 20240311
 
 [08-Hardware-Proposal](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/08-Hardware-Proposal.md)
 
+[09-Hardware-Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)
+
+[10-Software-Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/10-Software-Implementation.md)
+
+[11-Innovation-Showcase-Poster](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)
+
+[12-System-Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)
+
 ## Meet Team 301
 
 <table>
