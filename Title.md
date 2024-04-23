@@ -39,6 +39,12 @@ This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423
 
 [12-System-Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)
 
+[13-Lessons-Learned](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md)
+
+[14-Recommendations](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)
+
+[15-Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)
+
 ## Meet Team 301
 
 <table>
