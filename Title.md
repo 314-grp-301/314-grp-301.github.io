@@ -156,4 +156,4 @@ The onboard LCD screen displays data from the two environmental sensors.
 
 ## Software Diagram
 
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/07-Software%20Proposal.png" width="1500">
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/b712aa1c-77f6-4e1f-838b-8e6e3d15cce2)
