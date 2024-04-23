@@ -1,13 +1,13 @@
 // Delete this section upon all tasks completion
 - 07 Discuss how the software proposal functions and meets the needs of the product requirements
 - 08 Discuss how the functionality of this schematic satisfies user needs and product requirements though an in depth discussion of function. Discuss your team's design and decision making process related to this section. Include the team's bill of materials in the appendix.
-- *Less important* Reorganize readme and table of contents into a more report style format.
 - 09
 - 10
 - 12
 - 13
 - 14
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report.
+- *Less important* Reorganize readme and table of contents into a more report style format.
 <br>// Delete this section upon all tasks completion
 <br>
 This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
