@@ -39,12 +39,30 @@ In conclusion, the functionality described in Team 301's software proposal effec
 - Added HT and LT LED logic 
 - Display updates every 2.5 seconds instead of 15
 
+# Version 2.0
+For a "Version 2.0" of the software design, we can focus on enhancing modularity, maintainability, efficiency, and robustness. Here’s how we might consider updating the software flow based on the existing UML diagram:
 
+## Modular Code Design
+### Functional Decomposition: 
+Divide the code into more functions, each handling a specific task. For instance, have separate functions for sensor data acquisition, data processing, communication, motor control, and indicator management. This approach not only makes the code more readable but also easier to debug and test.
 
+## Improved Debuggability
+### Logging System: 
+Implement a logging system that captures detailed operational data and errors. This could include timestamped entries for sensor readings, system states, errors, and actions taken by the control systems.
+### Self-Diagnostics: 
+Build in self-test routines that check the status of sensors and other peripherals at startup and during operation, reporting any malfunctions.
 
+## Protocol Design Improvements
+### Standard Protocols: 
+Where possible, use standard communication protocols and libraries to ensure compatibility and reliability.
+### Communication Timeouts: 
+Implement timeouts and retries for communication protocols to handle lost connections or failed transmissions gracefully.
 
+## System Stability and Functionality
+### State Machine: 
+Implement a finite state machine for managing system states and transitions, which can simplify the control logic and make the system's operation more predictable.
 
+## Graphical Representation of the Updated Software Flow
+The updated software flow could be represented using a state diagram or flowchart. This would visually describe the system states, transitions based on events (like temperature thresholds), and the actions taken in each state.
 
-
-
-
+In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
