@@ -9,7 +9,7 @@
 - 14
 <br>
 // Delete this section upon all tasks completion
-<br>
+<br><br>
 This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
 
 ## Table of Contents
