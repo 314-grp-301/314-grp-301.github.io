@@ -7,12 +7,47 @@
 
 ## Acronyms & Key Terms
 
- EGR - Engineering
+AQI – Air Quality Index
+
+AW – All-Weather
+
+C - Celsius
+
+EGR – Engineering
+
+EMS – Emergency Management Services
+
+ESP32 - Espressif32
+
+DiY - Do it Yourself
+
+F – Fahrenheit
+
+GHz – Giga Hertz
+
+LCD – Liquid Crystal Display
+
+MHz – Mega Hertz
+
+MPH – Miles Per Hour
 
 PACE - Primary, Alternative, Contingency, Emergency
- 
- PCB - Printed Circuit Board
 
- SMS - Short Mesage Service
+PCB - Printed Circuit Board
 
- TA - Teaching Assistance
+PLA – Polylactic Acid 
+
+RF – Radio Frequency
+
+SMS - Short Message Service
+
+TA - Teaching Assistance
+
+UV – Ultraviolet
+
+WiFi - Wireless Fidelity
+
+WS – Weather Station
+
+WX – Weather 
+
