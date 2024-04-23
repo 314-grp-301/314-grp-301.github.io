@@ -8,7 +8,7 @@
 - Clean Github main repository (In progress, Seymore)
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report. (Fynn, In Progress)
 - Add all assignments and report format the main (title.md) file. (In progress, Seymore)
-- For Google Drive, ensure the appropriate files are in each assignment folder.
+- For Google Drive, ensure the appropriate files are in each assignment folder. (In progress, Fynn)
 
 For reference, the title (or main report) should be in this order:
 - Front Matter
