@@ -5,7 +5,7 @@
 - 10
 - 11 (Done, Seymore)
 - 12
-- 13 (In progress, Seymore)
+- 13 (Done, Seymore)
 - 14 (In progress, Seymore)
 - Clean Github main repository (In progress, Seymore)
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report.
