@@ -30,6 +30,19 @@ Data transmission capabilities to the ESP32 module allow for remote monitoring a
 The initialization and continuous operational checks ensure the system remains stable and reliable, which is essential for critical applications where errors can have significant consequences.
 In conclusion, the functionality described in Team 301's software proposal effectively addresses specific user needs such as automated environmental control, real-time data monitoring, remote system access, and reliability. By leveraging modern sensors, communication protocols, and control mechanisms, the system achieves a high level of efficiency and user-friendliness, meeting the overarching goals of the product requirements.
 
+### Revisions to Software Diagram (Previous --> Current)
+
+- Removed toggle button interrupt 
+- Removed Fahrenheit to Celsius conversion
+- Removed motor hatch logic  
+- Added Humidity and Temp sensor to the while(1) loop
+- Added HT and LT LED logic 
+- Display updates every 2.5 seconds instead of 15
+
+
+
+
+
 
 
 
