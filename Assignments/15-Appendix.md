@@ -7,11 +7,15 @@
 
 ## Acronyms & Key Terms
 
+AC – Alternating Current
+
 AQI – Air Quality Index
 
 AW – All-Weather
 
 C - Celsius
+
+DC – Direct Current
 
 EGR – Engineering
 
@@ -25,11 +29,17 @@ F – Fahrenheit
 
 GHz – Giga Hertz
 
+ICSP - In-Circuit Serial Programming
+
 LCD – Liquid Crystal Display
+
+LED - Light-Emitting Diode
 
 MHz – Mega Hertz
 
 MPH – Miles Per Hour
+
+MQTT – Message Queuing Telemetry Transport
 
 PACE - Primary, Alternative, Contingency, Emergency
 
@@ -39,11 +49,21 @@ PLA – Polylactic Acid
 
 RF – Radio Frequency
 
+RX – Receive 
+
 SMS - Short Message Service
+
+SPI - Serial Peripheral Interface
 
 TA - Teaching Assistance
 
+TX – Transmit
+
+UART - Universal Asynchronous Receiver / Transmitter
+
 UV – Ultraviolet
+
+V - Volts
 
 WiFi - Wireless Fidelity
 
