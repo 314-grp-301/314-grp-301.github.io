@@ -3,6 +3,7 @@
 - 08 Discuss how the functionality of this schematic satisfies user needs and product requirements though an in depth discussion of function. Discuss your team's design and decision making process related to this section. Include the team's bill of materials in the appendix.
 - 09
 - 10
+- 11 (Done, Seymore)
 - 12
 - 13
 - 14
