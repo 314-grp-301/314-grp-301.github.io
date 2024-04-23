@@ -25,7 +25,7 @@
     - Commit to an iterative process of design improvement and refinement.
 
 
-## :speech_balloon: 2. Communication Channels
+## 2. Communication Channels
 
 ### Team Communication Table
 
