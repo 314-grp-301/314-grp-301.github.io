@@ -8,6 +8,7 @@
 - 14
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report.
 - *Less important* Reorganize readme and table of contents into a more report style format.
+- For Google Drive, ensure the appropriate files are in each assignment folder.
 <br>// Delete this section upon all tasks completion
 <br>
 This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
