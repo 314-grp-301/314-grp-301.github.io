@@ -4,7 +4,7 @@
 - 09 (In progress, Seymore)
 - 10
 - 11 (Done, Seymore)
-- 12
+- 12 (In progress, Trevino)
 - 13 (Done, Seymore)
 - 14 (Done, Seymore)
 - Clean Github main repository (In progress, Seymore)
