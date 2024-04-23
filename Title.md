@@ -84,10 +84,10 @@ This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423
 </table>
 
 ### Introduction
-This report serves as an interim status update for the ongoing progress of Team 301’s Portable Weather Station for EGR-314’s Spring 2024 semester. A documentary analysis of several past assignments have been condensed into a single source document for ease of reference. A more detailed breakout of each topic can be found by clicking the hyperlink headings for each chapter. Furthermore, a collection of past multimedia exhibits have been consolidated below.
+This report serves as consolidated documentation of the work of Team 301’s Portable Weather Station for EGR-314’s Spring 2024 semester. A documentary analysis of all pertinent assignments have been condensed into a single source document for ease of reference. A more detailed breakout of each topic can be found by clicking the hyperlink headings for each chapter. Furthermore, a collection of past multimedia exhibits have been added below.
 
 ### Problem Statement 
-In today's fast-paced world, companies have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
+In today's fast-paced world, companies and individuals have responded to the demand for real-time weather information, crucial for planning daily activities, by crowdsourcing data from numerous weather stations, which can result in varying accuracy depending on the user's location.
 
 ## Concept Design (Portable Weather POD)
 
