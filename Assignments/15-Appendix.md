@@ -2,5 +2,13 @@
 
 # Appendix
 ## Acronyms & Key Terms
-EGR - Engineering
-PCB - Printed Circuit Board
+
+ EGR - Engineering
+
+PACE - Primary, Alternative, Contingency, Emergency
+ 
+ PCB - Printed Circuit Board
+
+ SMS - Short Mesage Service
+
+ TA - Teaching Assistance
