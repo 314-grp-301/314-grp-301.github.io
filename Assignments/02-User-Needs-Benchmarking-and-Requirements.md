@@ -139,7 +139,7 @@ Common Negatives Consist Of:
 Price: Unlisted - Priced at Order<br>
 Vendor: OTT Hydromet
 
-The OT HydroMet Urban Flood Warning System has been included as an extra search option despite it not having product and/or review data that aligns with this assignment. It has been included, despite the missing data, as a direct to consumer made item by the company. The device is designed for government services, not for regular private use. Because of this, there are a lack of private user reviews as the product was not designed to be sold to them.<br><br>
+The OTT HydroMet Urban Flood Warning System has been included as an extra search option despite it not having product and/or review data that aligns with this assignment. It has been included, despite the missing data, as a direct to consumer made item by the company. The device is designed for government services, not for regular private use. Because of this, there are a lack of private user reviews as the product was not designed to be sold to them.<br><br>
 The system has been included since it is a close representation of the intended finished product aimed at non-commercial use. This aligns with the conceptual idea of an early warning flood detection system to detect and warn civilian populations of localized flooding conditions for emergency management.
 
 <br><br>
