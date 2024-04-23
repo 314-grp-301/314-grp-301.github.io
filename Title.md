@@ -1,6 +1,6 @@
 // Delete this section upon all tasks completion
 - 07 Discuss how the software proposal functions and meets the needs of the product requirements
-- 09 (In progress, Seymore)
+- 09 (In progress, Seymore & Fynn) Needs discussion, BOM in asignment and appendix, front & back screenshots of allegro layout, and physical PCB, if V2 discussion
 - 10
 - 11 (Done, Seymore)
 - 12 (In progress, Trevino)
