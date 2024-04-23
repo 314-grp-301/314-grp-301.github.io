@@ -7,7 +7,7 @@
 - 12
 - 13
 - 14
-- Update code in code repository.
+- Update code in code repository. [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder)
 <br>// Delete this section upon all tasks completion
 <br>
 This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423.
