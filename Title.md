@@ -1,6 +1,5 @@
 // Delete this section upon all tasks completion
 - 07 Discuss how the software proposal functions and meets the needs of the product requirements
-- 08 Discuss how the functionality of this schematic satisfies user needs and product requirements though an in depth discussion of function. Discuss your team's design and decision making process related to this section. Include the team's bill of materials in the appendix.
 - 09 (In progress, Seymore)
 - 10
 - 11 (Done, Seymore)
