@@ -1,5 +1,6 @@
 [Main Page](../Title.md)<br><br>
-![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/d787d03a-a66c-4c5f-943a-97104f14dbef)
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/fcb4f8ad-a3de-492a-8247-efdf7fee3705)
+
 # Software Diagram
 
 ## Key Functions and Processes
