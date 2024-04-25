@@ -17,8 +17,8 @@ For reference, the title (or main report) should be in this order:
 - User Needs and Benchmarking (Touched, not finalized, Seymore)
 - Product Requirements (Touched, not finalized, Seymore)
 - Design Ideation (Touched, not finalized, Seymore)
-- (Final) Selected Design
-- (Final) Block Diagram
+- (Final) Selected Design (Touched, not finalized, Seymore)
+- (Final) Block Diagram (Touched, not finalized, Seymore)
 - (Final) Component Selection
 - (Final) Hardware Implementation
 - (Final) Software Implementation
