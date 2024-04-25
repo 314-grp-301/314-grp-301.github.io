@@ -16,9 +16,11 @@
 
 **Reasons:**
 
-- Low power consumption
-- MCC compatible
-- Meets project requirements
+- It has 2 different I2C ports, perfect for the temperature and humidity sensor
+- SPI functionality for the motor driver
+- Low power consumption, ideal for a small 9V 600mAh battery
+- MCC snap compatible, a familiar interface in MPLabX 
+- Plenty of GPIO for LED's and other accessories
 ---
 ## Design Considerations 
 
