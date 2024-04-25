@@ -74,7 +74,7 @@
 | Pros                                  | Cons                                  |
 |---------------------------------------|---------------------------------------|
 | Slightly lower price compared to ROB-10846 | Minimalistic datasheet              |
-| 18.76 gcm^2 rotor inertia             | Lower resolution (200)               |
+| 18.76 gcm<sup>2</sup> rotor inertia             | Lower resolution (200)               |
 |                                       | High voltage required (12V)           |
 |                                       | Round shaft requires press fit or clamp |
 
