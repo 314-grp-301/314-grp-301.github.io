@@ -1,17 +1,9 @@
 [Main Page](../Title.md)<br><br>
 
-# TEAM 301
-Engineering 304 - Embedded System Design Project II
-Spring 2024
-User Needs, Benchmarking, and Requirements
-<br><br>
-**1. Introduction**
-Understanding user needs and benchmarking play an important role in developing any engineering product, ensuring that it not only meets industry standards but also exceeds user expectations and fulfills our mission statement. By identifying user requirements, we can tailor our solutions to address specific challenges and enhance the overall usability of our product. Additionally, benchmarking allows us to evaluate our product against current industry products, creating improvement and innovation. We aim to align our product with the evolving needs of our users. 
-<br>
+## User Needs, Benchmarking, and Requirements
 
-## Product Requirements
-
-**2. Voice of the Customer Benchmarking**<br><br>
+### Similar Products
+To gather a a basis to work from and a benchmark to evaluate our design to, we found a number of similar products described below.<br><br>
 
 **Search #1 - Sainlogic Wireless Weather Station**<br>
 Keywords: “Weather Reader”<br>
