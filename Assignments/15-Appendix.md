@@ -8,6 +8,10 @@
 ## Team Code
 [ESP32 & MPLabX code](https://github.com/314-grp-301/Team301Code/tree/743a318e7f387fa2d2c47b531342e96acdbf6d46/folder)
 
+## MQTT Topic Table
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/072f7a54-e653-4c74-901a-86fe4cf1c58d)
+
+
 ## Additional Team Organization Content
 ## 2. Communication Channels
 
