@@ -5,6 +5,7 @@
 - 12 (Done, Trevino and Meyerhoff)
 - 13 (Done, Seymore)
 - 14 (Done, Seymore)
+- Appendix Needs pics of MCC config
 - Clean Github main repository (In progress, Seymore)
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report. (Done, Meyerhoff)
 - Add all assignments and report format the main (title.md) file. (In progress, Seymore)
