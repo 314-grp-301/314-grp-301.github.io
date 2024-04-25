@@ -182,13 +182,19 @@ EMS – Emergency Management Services
 
 ESP32 - Espressif32
 
+EUSART - Enhanced Universal Asynchronous Receiver Transceiver
+
 DC - Direct Current
 
 DiY - Do it Yourself
 
+DRC - Design Rule Checking
+
 F – Fahrenheit
 
 GHz – Giga Hertz
+
+GND - Ground
 
 GPIO - General Purpose Input/Output
 
