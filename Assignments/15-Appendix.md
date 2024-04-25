@@ -160,6 +160,8 @@ A - Ampere
 
 AC – Alternating Current
 
+ADC - Analog-to-Digital Converter
+
 AQI – Air Quality Index
 
 AW – All-Weather
@@ -188,6 +190,8 @@ F – Fahrenheit
 
 GHz – Giga Hertz
 
+GPIO - General Purpose Input/Output
+
 ICSP - In-Circuit Serial Programming
 
 IR - Infrared
@@ -195,6 +199,8 @@ IR - Infrared
 LCD – Liquid Crystal Display
 
 LED - Light-Emitting Diode
+
+MCC - MPLAB® Code Configurator 
 
 MHz – Mega Hertz
 
@@ -208,7 +214,11 @@ PCB - Printed Circuit Board
 
 PLA – Polylactic Acid 
 
+PWM - pulse width modulation
+
 RF – Radio Frequency
+
+RS – Register Select
 
 RX – Receive 
 
@@ -225,6 +235,10 @@ UART - Universal Asynchronous Receiver / Transmitter
 UV – Ultraviolet
 
 V - Volts
+
+Vdd - drain to drain voltage
+
+Vss - Voltage Source Source
 
 WiFi - Wireless Fidelity
 
