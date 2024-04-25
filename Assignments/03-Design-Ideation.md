@@ -1,6 +1,6 @@
 [Main Page](../Title.md)<br><br>
 
-# LATEST CONCEPT: Portable Weather POD
+# Final Concept: Portable Weather Pod
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
 **Description**
