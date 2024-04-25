@@ -1,6 +1,6 @@
 // Delete this section upon all tasks completion
-- 09 (In progress, Seymore and Meyerhoff) Needs discussion, BOM in asignment and appendix (Done), front & back screenshots of allegro layout (Done), and physical PCB, if V2 discussion (Done)
-- 10 (Done, Trevino) Discuss how software meets user needs, discuss software decision making process, numbered list of 5 changes since software proposal (reference diagram), v2 discussion
+- 09 (In progress, Seymore and Meyerhoff) Needs discussion, BOM in asignment and appendix (Done), front & back screenshots of allegro layout (Done), and physical PCB, if V2 discussion 1/2 page (In progress)
+- 10 (In progress, Trevino and Seymore) Discuss how software meets user needs, discuss software decision making process, numbered list of 5 changes since software proposal (reference diagram), v2 discussion 1/2 page
 - 11 (Done, Seymore)
 - 12 (Done, Trevino and Meyerhoff)
 - 13 (Done, Seymore)
