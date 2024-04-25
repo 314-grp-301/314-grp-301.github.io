@@ -1,9 +1,9 @@
 [Main Page](../Title.md)<br><br>
 
-##Design Ideation
-The analysis of requirements and potential functionality lead us to portable weather monitoring device. Originally we had intended to create a flash flood detection system into it, but due to constraints, kept the general concept and minimized potential shortcomings which resulted in the Portable Wather Pod.
+# Design Ideation
+The analysis of requirements and potential functionality lead us to portable weather monitoring device. Originally we had intended to create a flash flood detection system into it, but due to constraints, kept the general concept and minimized potential shortcomings which resulted in the Portable Weather Pod.
 
-# Final Concept: Portable Weather Pod
+## Final Concept: Portable Weather Pod
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
 **Description**
@@ -52,6 +52,7 @@ Here are two tables organizing our brainstorming ideas/concepts/features into si
  ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-table2.png)
 
 ## 3. Our three product concept sketches
+Below are the original concepts. Concept 1
 
 ### Cocept 1 (Portable Weather Pod)
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1a.png) 
@@ -60,14 +61,14 @@ Here are two tables organizing our brainstorming ideas/concepts/features into si
 
 **Description**
 
-This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard LCD screen displaying data from various environmental sensors. 
+This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard OLED screen displaying data from various environmental sensors. 
 The pod's customizable skin (camouflage shown) allows the user to blend it seamlessly into the appropriate environment.
 
 **:zap: Key Features**
 
 - **Solar Powered:** Utilizes solar energy for efficient power use.
 - **Portable:** Easy to move and install in various locations.
-- **LCD Display:** Clear and informative data presentation.
+- **OLED Display:** Clear and informative data presentation.
 - **Speaker:** Audio feedback for alerts and notifications.
 - **Full Weatherproof:** Designed to withstand harsh environmental conditions.
 - **5-in-One Sensor:** Multi-functional sensor for comprehensive environmental data.
