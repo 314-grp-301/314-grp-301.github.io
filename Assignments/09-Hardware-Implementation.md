@@ -30,6 +30,11 @@ For better clarity of the top layout:<br>
 # Version 2.0
 When analyzing the schematic for potential improvements in a "Version 2.0" of the hardware design, several areas can be considered to enhance functionality, reliability, and scalability. Here are some suggestions:
 
+NEED TO ADD MORE HERE
+
+1. Adding more ground headers, this would have helped connect any accessories to ground.
+3. Mount the ESP32 onto the PCB. This would have given us a more secure and reliable connection.
+
 ## Power Supply Management
 ### Battery Life Optimization: 
 While a 9V battery is currently used with a voltage regulator to power the circuit, battery life may be a limitation for long-term use. For Version 2.0, implementing a more efficient power management system with a rechargeable battery and a power-saving mode can significantly improve the device's operational time.
