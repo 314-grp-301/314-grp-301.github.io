@@ -325,26 +325,8 @@ Listed are the original, design aspects prior to the change to a more minimalist
 - Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br><br>
 
 # Design Ideation
-The analysis of requirements and potential functionality lead us to portable weather monitoring device. Originally we had intended to create a flash flood detection system into it, but due to constraints, kept the general concept and minimized potential shortcomings which resulted in the Portable Weather Pod.
+The analysis of requirements and potential functionality lead us to concept the designs shown below each with their own advantages and disadvantages.
 
-## Final Concept: Portable Weather Pod
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
-
-**Description**
-
-This portable weather pod features a simple and compact design, equipped with several advanced features. It includes an onboard LCD screen displaying data from various environmental sensors. 
-The pod's customizable skin (camouflage shown) allows the user to blend it seamlessly into the appropriate environment.
-
-**:zap: Key Features**
-
-- **Portable:** Easy to move and install in various locations.
-- **Weatherproof:** Designed to withstand harsh environmental conditions.
-- **LCD Display:** Clear and informative data presentation.
-- **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
-- **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
-  - **Temperature:** Measures ambient temperature accurately.
-  - **Humidity:** Monitors air moisture levels.
----
 ## 1. Brainstorm Table of Features/Ideas/Concepts
 
 |                                   |                                  |                                   |                                   |                                   |
@@ -431,7 +413,25 @@ The Waterway Weather and Flash Flood Detection Buoy would serve a similar purpos
   - **Humidity:** Monitors air moisture levels around the waterway.
   - **Pressure (Directed Towards Expected Water Flow):** Used to determine water flow-rate.
   - **Movement:** Tracks height and changes in water level.
-- **Motor-Controlled Height Adjustment:** Attached to an installed rod, allows the buoy to adjust its height relative to water level.
+- **Motor-Controlled Height Adjustment:** Attached to an installed rod, allows the buoy to adjust its height relative to water level.<br><br><br>
+
+# Selected Design
+Originally we had intended to create a flash flood detection system (Concept 3), but due to potential constraints with the watertight capabilities and the water motion detection system we shifted to the weather pod (Concept 1), kept the general concept and minimized potential shortcomings which resulted in the Portable Weather Pod.
+
+## Final Concept: Portable Weather Pod
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
+
+**:zap: Key Features**
+
+- **Portable:** Easy to move and install in various locations.
+- **Weatherproof:** Designed to withstand harsh environmental conditions.
+- **OLED Display:** Clear and informative data presentation.
+- **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
+- **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
+  - **Temperature:** Measures ambient temperature accurately.
+  - **Humidity:** Monitors air moisture levels.
+---
+
 
 
 ## Selected Components
