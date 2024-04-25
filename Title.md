@@ -2,7 +2,7 @@
 - 09 (In progress, Seymore & Fynn) Needs discussion, BOM in asignment and appendix, front & back screenshots of allegro layout, and physical PCB, if V2 discussion
 - 10 (In progress, Trevino) Discuss how software meets user needs, discuss software decision making process, numbered list of 5 changes since software proposal (reference diagram), v2 discussion
 - 11 (Done, Seymore)
-- 12 (In progress, Trevino)
+- 12 (Done, Trevino and Meyerhoff)
 - 13 (Done, Seymore)
 - 14 (Done, Seymore)
 - Clean Github main repository (In progress, Seymore)
