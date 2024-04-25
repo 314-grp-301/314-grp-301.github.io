@@ -133,7 +133,7 @@
 
 | Pros                                     | Cons                                         |
 |------------------------------------------|----------------------------------------------|
-| ±1C accuracy (40-90°F)                    | Accuracy degrades after 95°F                  |
+| ±1C° accuracy (40-90°F)                    | Accuracy degrades after 95°F                  |
 | Temp Conditional Emergency Alarm/Shutoff | ±3.0°C accuracy (maximum) over the -20°C to +125°C range |
 
 ### Temp Sensor Solution - 3: LM75BDP,118
