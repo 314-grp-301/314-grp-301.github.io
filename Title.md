@@ -11,9 +11,9 @@
 - For Google Drive, ensure the appropriate files are in each assignment folder. (Done, Fynn)
 
 For reference, the title (or main report) should be in this order:
-- Front Matter
-- Introduction
-- Team Organization
+- Front Matter (Touched, not finalized, Seymore)
+- Introduction (Touched, not finalized, Seymore)
+- Team Organization (Touched, not finalized, Seymore)
 - User Needs and Benchmarking
 - Product Requirements
 - Design Ideation
