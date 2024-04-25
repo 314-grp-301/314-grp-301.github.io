@@ -1,5 +1,5 @@
 // Delete this section upon all tasks completion
-- 09 (In progress, Seymore & Fynn) Needs discussion, BOM in asignment and appendix (Done), front & back screenshots of allegro layout (Done), and physical PCB, if V2 discussion (Done)
+- 09 (In progress, Seymore and Meyerhoff) Needs discussion, BOM in asignment and appendix (Done), front & back screenshots of allegro layout (Done), and physical PCB, if V2 discussion (Done)
 - 10 (Done, Trevino) Discuss how software meets user needs, discuss software decision making process, numbered list of 5 changes since software proposal (reference diagram), v2 discussion
 - 11 (Done, Seymore)
 - 12 (Done, Trevino and Meyerhoff)
@@ -8,7 +8,7 @@
 - Clean Github main repository (In progress, Seymore)
 - Update code in code repository, [Code-Repository](https://github.com/314-grp-301/Team301Code/tree/main/folder) and put it in the appendix, bottom of the report. (Done, Fynn)
 - Add all assignments and report format the main (title.md) file. (In progress, Seymore)
-- For Google Drive, ensure the appropriate files are in each assignment folder. (Done, Fynn)
+- For Google Drive, ensure the appropriate files are in each assignment folder. (Done, Meyerhoff)
 
 For reference, the title (or main report) should be in this order:
 - Front Matter (Touched, not finalized, Seymore)
