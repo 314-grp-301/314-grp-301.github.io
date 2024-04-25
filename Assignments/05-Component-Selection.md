@@ -113,7 +113,7 @@
 ## Component 3 - Temperature Sensor
 - System Lead: Xzekiel Trevino
 - Choice: **Option 4:** TC74A4
-- Rationale: The TC74A4 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100F, the drop off is negligible within ranges it will be operating within.
+- Rationale: The TC74A4 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100° F, the drop off is negligible within ranges it will be operating within.
 
 ### Temp Sensor Solution - 1: TPIS 1S 1385 / 5029
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TPIS-1S-1385.jpg" width="200">
@@ -133,7 +133,7 @@
 
 | Pros                                     | Cons                                         |
 |------------------------------------------|----------------------------------------------|
-| ±1C accuracy (40-90F)                    | Accuracy degrades after 95F                  |
+| ±1C accuracy (40-90°F)                    | Accuracy degrades after 95°F                  |
 | Temp Conditional Emergency Alarm/Shutoff | ±3.0°C accuracy (maximum) over the -20°C to +125°C range |
 
 ### Temp Sensor Solution - 3: LM75BDP,118
@@ -143,8 +143,8 @@
 
 | Pros                                  | Cons                              |
 |---------------------------------------|-----------------------------------|
-| Cheap price point                     | Accuracy degrades after 100F      |
-| Extensive Data sheet and support documents |  ±2C accuracy                                |
+| Cheap price point                     | Accuracy degrades after 100°F      |
+| Extensive Data sheet and support documents |  ±2°C accuracy                                |
 | 2.8-5V operating range                |                           |
 
 ### Temp Sensor Solution - 4: TPIS 1S 1385 / 5029 :star:
