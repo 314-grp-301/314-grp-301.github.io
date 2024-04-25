@@ -14,8 +14,8 @@ For reference, the title (or main report) should be in this order:
 - Front Matter (Touched, not finalized, Seymore)
 - Introduction (Touched, not finalized, Seymore)
 - Team Organization (Touched, not finalized, Seymore)
-- User Needs and Benchmarking
-- Product Requirements
+- User Needs and Benchmarking (Touched, not finalized, Seymore)
+- Product Requirements (Touched, not finalized, Seymore)
 - Design Ideation
 - (Final) Selected Design
 - (Final) Block Diagram
