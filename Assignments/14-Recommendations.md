@@ -7,3 +7,4 @@
 3. Ensure dimensions of parts are checked thoroughly before ordering as parts being too small may be an issue when soldering.
 4. Have as many device inputs and outputs print to Putty to dramatically increase the effectiveness of the debugging stage of development.
 5. If a team member is willing to make the investment, buying a heat gun and personal flux and solder can dramatically reduce frustration when soldering surface-mount IC's.
+6. Add headers to your PCB so in case you make a wiring mistake, you can fix the issues later. 
