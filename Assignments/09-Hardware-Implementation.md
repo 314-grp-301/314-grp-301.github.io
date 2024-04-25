@@ -9,7 +9,14 @@
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-TeamPCBFinal.jpg)<br><br>
 For better clarity of the top layout:<br>
 (Bottom is mainly vertical connections by vias.)
-![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-TopPic.jpg)<br><br>
+### Top View
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/db2b12fa-09c0-40cf-a767-ec3c0fa53c64)
+
+### Bottom View
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/8e617c77-c672-421d-b754-771e8cbdbf9e)
+
+
+
 
 ## DRC and Submissions for Manufacturing
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-Hardware%20Implementation.png)
