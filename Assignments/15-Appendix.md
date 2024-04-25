@@ -156,6 +156,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
 
 
 ## Acronyms & Key Terms
+A - Ampere
 
 AC – Alternating Current
 
@@ -163,7 +164,13 @@ AQI – Air Quality Index
 
 AW – All-Weather
 
+AZ - Arizona
+
 C - Celsius
+
+CCW - Counter Clockwise
+
+CW - Clockwise
 
 DC – Direct Current
 
@@ -173,6 +180,8 @@ EMS – Emergency Management Services
 
 ESP32 - Espressif32
 
+DC - Direct Current
+
 DiY - Do it Yourself
 
 F – Fahrenheit
@@ -180,6 +189,8 @@ F – Fahrenheit
 GHz – Giga Hertz
 
 ICSP - In-Circuit Serial Programming
+
+IR - Infrared
 
 LCD – Liquid Crystal Display
 
