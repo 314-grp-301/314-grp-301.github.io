@@ -322,9 +322,10 @@ Listed are the original, design aspects prior to the change to a more minimalist
 **Open Questions**<br>
 - Can the device be made easily recyclable and repairable? :white_check_mark: [The device can be easily repaired if the user/tech is knowledgable, but it is not intended for recyclables.]<br>
 - Can we connect the device to a power source safely to remove the need for batteries? :white_check_mark:<br>
-- Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br>
+- Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br><br>
 
-## Concept Design (Portable Weather POD)
+This analysis of requirements and potential functionality lead us to portable weather monitoring device. Originally we had intended to create a flash flood detection system into it, but due to constraints, kept the general concept and minimized potential shortcomings which resulted in Portable Wather Pod
+## Concept Design (Portable Weather Pod)
 
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
 
