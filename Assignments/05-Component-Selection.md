@@ -1,4 +1,15 @@
 [Main Page](../Title.md)<br><br>
+## Introduction
+
+The process of component selection is a crucial step in the design and development of electronic systems. Through best practices, design teams are able to identify needs through analysis, research component compatibility, evaluation of components, and ensure part availability by selecting the right vendors.
+
+Through an analytical approach of comparing components against one another and against the project as a whole, designers are able to implement the best components for the system being designed that meet both the project needs and end user needs once built.
+
+Our component selection methodology was to have each system design lead find a minimum of three component suitable for the project, then compare and contrast with a minimum of three pros and cons, then concluding with a price point for each component to ensure the project remained at or under budget.
+
+
+
+
 ## 1 - Motor Driver
 - System Lead: Kevis Seymore
 - Choice: **(Option 4)** IFX9201SGAUMA1
