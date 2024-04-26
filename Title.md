@@ -26,8 +26,8 @@ For reference, the title (or main report) should be in this order:
 - (Final) Hardware Implementation
 - (Final) Software Implementation
 - System Verification
-- Lessons Learned
-- Recommendations for future students
+- Lessons Learned 
+- Recommendations for future students (Finalized, Brian)
 - Appendix
 
 <br>// Delete this section upon all tasks completion
