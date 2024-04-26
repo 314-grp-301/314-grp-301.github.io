@@ -42,7 +42,7 @@ This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423
   </tr>
   <tr>
     <td align="center">Brian Wegner [Electrical Systems & Organizational Leadership] </td>
-    <td align="center">Fynn Meyerhoff [Robotics]</td>
+    <td align="center">Fynn Meyerhoff [Robotics Systems]</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-IMG_5205.jpg" width="75%" /></td>
