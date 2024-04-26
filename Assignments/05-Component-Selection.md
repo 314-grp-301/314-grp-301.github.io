@@ -12,7 +12,7 @@
 |--------------------------------------------|----------------------|
 | Extensive datasheet                        | Costly per unit      |
 | Utilizes standard SPI                      | Footprint not provided |
-| Additional support files provided          |                      |
+| Additional support files provided          | Delivery Time                     |
 | High precision sensorless motor load detection |                    |
 
 ### Driver Solution - 2: BD6210F-E2
@@ -35,7 +35,7 @@
 |----------------------------------------------|------------------------------|
 | Recommended by Digikey support for I2C stepper motor use | Costly per unit              |
 | Extensive documentation                      | Would take up more space than needed on PCB |
-| Built-in thermal shutdown                    |                              |
+| Built-in thermal shutdown                    | Heat disapation could effect temp sensor                             |
 | Short to ground protected                    |                              |
 
 ### Driver Solution - 4: IFX9201SGAUMA1 :star:
@@ -47,7 +47,7 @@
 |--------------------------------------------|----------------------|
 | Low standby current                        | Complex chip      |
 | Overtemp shutdown                     | Limited to DC motors |
-| 3.3V logic compatible          |                      |
+| 3.3V logic compatible          | Most prone to over heating                      |
 ---
 
 ## Component 2 - Motor
@@ -64,7 +64,7 @@
 |------------------------------------------|----------------------------------|
 | Recommended for use with ROB-12859       | Minimalistic datasheet           |
 | High resolution steps (400 per revolution) | Round shaft requires press fit or clamp |
-| Low voltage required                     |                                  |
+| Low voltage required                     |   Most expensive solution                               |
 
 ### Motor Solution - 2: ROB-09238
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-09238.jpg" width="200">
