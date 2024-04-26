@@ -1,6 +1,11 @@
 [Main Page](../Title.md)<br><br>
 
 # Design Ideation
+
+## Introduction
+
+Design ideation is a crucial stage in the creative process, where diverse ideas are generated through brainstorming sessions. The objective is to produce a wide array of innovative concepts that may serve as springboards for further exploration. While individual ideas hold value, the true innovation process unfolds when these ideas are collected, compared, and juxtaposed, allowing designers to weave together concepts that may have gone unnoticed in isolation. Once a multitude of concepts is amassed, the next step involves sorting, ranking, and grouping ideas to uncover synergies and connections between them, enabling designers to visualize how various concepts can complement and integrate with one another.
+
 The analysis of requirements and potential functionality lead us to concept the designs shown below each with their own advantages and disadvantages.
 
 ## 1. Brainstorm Table of Features/Ideas/Concepts
