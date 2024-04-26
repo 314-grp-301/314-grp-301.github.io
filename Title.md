@@ -77,7 +77,7 @@ This report serves as consolidated documentation of the work of Team 301’s Por
 |[15-Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)| | |
 
 ### Mission Statement
-“Our mission focuses on innovating and protecting lives by designing advanced safety solutions that are tailored for harsh weather environments, emphasizing user experience and effective protection.”
+“Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
 
 ### Project Goals
 - **Design Safety Device:** A device that gives accurate and current temperature and humidity readings.
