@@ -1,5 +1,9 @@
 [Main Page](../Title.md)<br><br>
 
+## Introduction
+
+Understanding the needs and requirements of the end user is an important step in the design and product development process. By determining the end-user needs early in the development process, engineers can tailor the system’s features, functionality, and performance needs to address the user’s preferences. Benchmarking allows engineers to compare their product’s performance against already existing solitons and industry standards by providing side-by-side comparison. This can lead to designers improving on already existing products by innovating and improving on product concepts already in the market.
+
 ## User Needs, Benchmarking, and Requirements
 
 ### Similar Products
