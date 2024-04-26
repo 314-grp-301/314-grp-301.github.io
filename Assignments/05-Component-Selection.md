@@ -75,7 +75,7 @@
 |---------------------------------------|---------------------------------------|
 | Slightly lower price compared to ROB-10846 | Minimalistic datasheet              |
 | 18.76 gcm<sup>2</sup> rotor inertia             | Lower resolution (200)               |
-|                                       | High voltage required (12V)           |
+| Widely available part; ready to ship  | High voltage required (12V)           |
 |                                       | Round shaft requires press fit or clamp |
 
 ### Motor Solution - 3: FIT0278
@@ -87,6 +87,7 @@
 |-------------------------------------------|------------------------------------------|
 | Low voltage required                      | Schematic not provided in datasheet      |
 | Termination with connector and leads provided allowing for removal and/or easier installation and maintenance | Round shaft requires press fit or clamp |
+| Light Weight                              | Very simplified data sheet
 
 ### Motor Solution - 4: 4641
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-4641.jpg" width="200">
@@ -108,6 +109,8 @@
 |-------------------------------------------|------------------------------------------|
 | Cost Effective | Small Torque|
 |Efficient| Limited Speed Control |
+|Operates within project power budget| Very simple data sheet |
+| Light Weight | |
 ---
 
 ## Component 3 - Temperature Sensor
