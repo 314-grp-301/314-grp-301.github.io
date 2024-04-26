@@ -126,8 +126,8 @@
 | Pros                                  | Cons                                         |
 |---------------------------------------|----------------------------------------------|
 | Power Range: 2.6V ~ 3.6V              | Expensive                                    |
-| Digital, IR                           | Many features outside the scope of the project and not required |
-| Ambient and/or object heat detection  |                                              |
+| Digital, IR                           | Requires reflow soldering procedure for surface mount |
+| Ambient and/or object heat detection  | Most issues are outside the scope of the project and not a factor                                             |
 
 ### Temp Sensor Solution - 2: AT30TSE004A-MAA5M-T
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-AT30TSE004A-MAA5M-T.jpg" width="200">
@@ -136,8 +136,9 @@
 
 | Pros                                     | Cons                                         |
 |------------------------------------------|----------------------------------------------|
-| ±1C° accuracy (40-90°F)                    | Accuracy degrades after 95°F                  |
+| ±1C° accuracy (Optimal Range 40-90°F)                    | Accuracy degrades after 95°F                  |
 | Temp Conditional Emergency Alarm/Shutoff | ±3.0°C accuracy (maximum) over the -20°C to +125°C range |
+| Within Power Budget Range: 1.7-3.6V | Requires reflow soldering procedure for surface mount|
 
 ### Temp Sensor Solution - 3: LM75BDP,118
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM75BDP.jpg" width="200">
@@ -148,7 +149,7 @@
 |---------------------------------------|-----------------------------------|
 | Cheap price point                     | Accuracy degrades after 100°F      |
 | Extensive Data sheet and support documents |  ±2°C accuracy                                |
-| 2.8-5V operating range                |                           |
+| Within Power Budget Range: 2.8-5V | Limited part availability                                          |
 
 ### Temp Sensor Solution - 4: TPIS 1S 1385 / 5029 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TC74A4-3.3VCTTR.jpg" width="200">
@@ -175,7 +176,7 @@
 |--------------------------------------------|--------------------------------------------|
 | Accurate ±1.8%                             | Will require power converters if system operates higher than 3.6V |
 | Low Power 1.08v - 3.6V                     | Small Component                            |
-| Surface Mount                              |                                            |
+| Surface Mount                              | Requires reflow soldering procedure for surface mount |                                           |
 | Digital Sensor                             |                                            |
 | Operates in AZ extreme heat conditions     |                                            |
 | I2C Serial                                 |                                            |
@@ -190,7 +191,7 @@
 |-------------------------------------------|------------------------------------------|
 | Surface Mount                             | Higher Power Requirement 1.62v - 5.5v    |
 | Digital Sensor                            | 30 second response time                  |
-| Operates in AZ extreme heat conditions    |                                          |
+| Operates in AZ extreme heat conditions    |  Requires reflow soldering procedure for surface mount |                                         |
 | I2C Serial                                |                                          |
 | GitHub Support                            |                                          |
 
@@ -203,7 +204,7 @@
 |-------------------------------------------|------------------------------------------|
 | Surface Mount                             | Expensive                                |
 | Most Accurate                             | Higher Power Requirement 2.7v - 5.5v     |
-| Example code and setup in Data Sheet      |                                          |
+| Example code and setup in Data Sheet      | Extra complexity (dual function sensor)                                         |
 ---
 ## Component 5 - LCD Screen
 - System Lead: Brian Wegner/Xzekiel Trevino
