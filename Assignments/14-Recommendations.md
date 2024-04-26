@@ -3,7 +3,7 @@
 # Recommendations for Future Students
 The most important and often overlooked steps to any learning or training regiment is performing an after-action review to capture the best practices in order to repeat success and to identify failures in order to determine their root causes so they can be avoided or mitigated in future projects. This important step aims to lessen the burden of difficulty for those following in our footsteps.
 
-After a team deliberation, it was determined that these recommendations could help the planning and fabrication process of future EGR-314 students as they learn from our mistakes and hardships.
+After a team deliberation, it was determined that these recommendations could help the planning and fabrication process of future EGR-314 students as they learn from our best practices, mistakes, and hardships.
 
 **Recommendations for Future Students:**
 
