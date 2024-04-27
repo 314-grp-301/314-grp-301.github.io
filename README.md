@@ -1,8 +1,9 @@
 // Delete this section upon all tasks completion
 
 Note: The page was auto publishing from the README after some troubleshooting decided it was easier to move it back, so moved the main report back to it and changed all the links that referenced title.md to reference it. I added all the navigation to the assignment pages. When editing and copying from assignments to README.md, copy from after the first < br >< br > after the navigation link to before the last < br >< br > (spaces added so it shows up).
+
 Completd Sections:
-- 01
+- 01 Ready fore review (Brian)
 
 Sections Still Under Work
 - 
