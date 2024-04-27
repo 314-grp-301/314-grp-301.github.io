@@ -237,6 +237,8 @@ RS – Register Select
 
 RX – Receive 
 
+SMART - Specific, Measurable, Achievable, Relevant, Time-bound
+
 SMS - Short Message Service
 
 SPI - Serial Peripheral Interface
