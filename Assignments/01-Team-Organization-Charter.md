@@ -7,7 +7,7 @@
 “Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
 
 ### Project Goals
-- **Design Safety Device:** A device that gives accurate and current temperature and humidity readings.
+- **Design Safety Device:** Design and fabricate a device capable of provoding an end-user with accurate and precise temperature and humidity readings.
 
 ### 7 Shared Goals
 1. **Improve in Designing for Widespread Use:**
