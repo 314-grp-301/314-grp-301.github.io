@@ -142,6 +142,7 @@ The system has been included since it is a close representation of the intended 
 <br><br>
 
 ## Additional User Needs
+Understanding both explicit and latent user needs is an important step in engineering project management that ensures the development and success of user-focused designs. Explicit needs are those articulated by the user, while latent needs are implied needs. In the following lists, our team outline both explicit needs and latent user needs that helped shape and develop our team’s final project.
 
 **Explicit**<br>
 - Real-Time Data Access<br>
