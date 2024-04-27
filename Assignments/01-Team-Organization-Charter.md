@@ -1,9 +1,10 @@
 [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md)<br>
 [Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
-## 1. Team Goals
+## 1. Team Organization
 
 ### Introduction
+Teams serve as the backbone of engineering projects by facilitating collaborative efforts and pooling individual contributions to tackle tasks that would normally overwhelm a single individual. By leveraging expertise and experiences, team members can collectively navigate complex problems. Each member adds a unique perspective and various skill sets that add value to their team and project. Through this synergy, teams provide a foundation of support to other team members by offering mentorship, shared learning, and fostering personal relationships that often improve the overall performance of the team.
 
 ### Mission Statement
 “Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
