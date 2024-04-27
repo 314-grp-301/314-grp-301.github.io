@@ -35,6 +35,15 @@ For better clarity of the top layout:<br>
 
 ## DRC and Submissions for Manufacturing
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-Hardware%20Implementation.png)
+The image shows a compilation of several snapshots related to the submission and manufacturing of a Printed Circuit Board (PCB). 
+
+At the top, there is a section labeled "DRC" which stands for Design Rule Check. This is a part of the PCB design process where the software checks the layout to ensure that it adheres to certain manufacturing and design rules. It appears that the DRC process has been completed without detecting any errors, as indicated by "No DRC errors detected."
+
+Below the DRC section, there is a "Submission for Manufacturing" section which shows an order for a PCB prototype labeled as "TEAM301PCBFINAL_Y5." The order summary includes the order number, build time (24 hours), quantity (5 pieces), and the cost ($9.20). A blue check mark indicates that the production has been completed, but there is also a mention of a "Quality Complaint," suggesting that there may have been an issue with the produced PCBs.
+
+Finally, at the bottom, there is an email notification from the "Poly Lab Request Notification System" sent to someone with an email address at the Arizona State University domain. The email is an automatic notification that a certain request (number 3841) has been updated with the status "Submitted." The description mentions "Team301PCBEGR304," and the details include a conversation about the specifics of the PCB or poster submission, such as quantity, copper thickness, whether solder mask or rubber area is needed, etc. The link provided in the email likely leads to further details or the platform where the PCB manufacturing job can be tracked.
+
+Overall, the image captures various steps in the process of ordering, manufacturing, and quality checking of a PCB for what seems to be an educational project.
 
 ## Cadence Screenshots of Final Team PCB
 ### Top View
