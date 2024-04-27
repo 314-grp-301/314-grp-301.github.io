@@ -13,6 +13,13 @@ Teams serve as the backbone of engineering projects by facilitating collaborativ
 Goal setting is an important step towards achieving project success by offering teams a path and a sense of purpose. Through the establishment of specific criteria (e.g. SMART method), teams can organize their objectives into a structured framework, enhancing clarity and bolstering the likelihood of accomplishment.
 The SMART method sets forth standards for goal creation by breaking objectives down into more distinct components: Specific, Measurable, Achievable, Relevant, and Time-bound criteria. This approach ensures that goals are clearly defined, quantifiable, realistic given available resources, aligned with project objectives, and bound by a defined timeline. By adhering to SMART methodology, teams can create goals that are actionable and increases the likelihood of the project succeeding.
 
+SMART Method
+Specific: Goals should be clear, precise, and well-defined.
+Measurable: Goals should be quantifiable, allowing progress to be tracked objectively.
+Achievable: Goals should be realistic and attainable given available resources and constraints.
+Relevant: Goals should be aligned with the overall objectives of the project.
+Time-bound: Goals should have a specific deadline or timeframe for completion.
+
 ### Project Goals
 - **Design Safety Device:** Design and fabricate a device capable of provoding an end-user with accurate and precise temperature and humidity readings.
 
