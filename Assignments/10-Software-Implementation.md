@@ -1,7 +1,8 @@
-[Main Page](../Title.md)<br><br>
-![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/fcb4f8ad-a3de-492a-8247-efdf7fee3705)
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)<br><br>
+
 
 # Software Diagram
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/fcb4f8ad-a3de-492a-8247-efdf7fee3705)
 
 ## Key Functions and Processes
 ### Initialization and Setup
@@ -66,3 +67,5 @@ Implement a finite state machine for managing system states and transitions, whi
 The updated software flow could be represented using a state diagram or flowchart. This would visually describe the system states, transitions based on events (like temperature thresholds), and the actions taken in each state.
 
 In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
+<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)
