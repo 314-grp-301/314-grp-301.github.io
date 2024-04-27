@@ -1,4 +1,7 @@
 // Delete this section upon all tasks completion
+
+Note: (Seymore) I added all the navigation to the assignment pages. When editing and copying from assignments to title.md, copy from after the first <br><br> to before the last <br><br>.
+
 - 05 (Done, Brian) (Intro added, Corrected all mark downs from Check Point 2 feedback)
 - 06 (Done, Brian) (Intro added,)
 - 09 (In progress, Seymore and Meyerhoff) Needs discussion, BOM in asignment and appendix (Done), front & back screenshots of allegro layout (Done), and physical PCB, if V2 discussion 1/2 page (In progress)
