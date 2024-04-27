@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)<br><br>
 
 # Lessons Learned
 
@@ -12,3 +12,6 @@
 - Separate components in PCB layout enough to make soldering simple, while meeting total PCB size restrictions.
 - Group subsystem components in the PCB layout for better clarity and eases of recognition when soldering and testing subsystem connectivity.
 - If noise is a potential issue for a problem that arises, try jumping to a breadboard and adding different size capacitors to pull some of it to ground. If that works, implement the changes for a cleaner signal.
+<br><br>
+
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)
