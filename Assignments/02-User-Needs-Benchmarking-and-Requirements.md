@@ -1,4 +1,5 @@
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)<br>
+[Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
 ## Introduction
 
