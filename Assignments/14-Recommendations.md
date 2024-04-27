@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)<br><br>
 
 # Recommendations for Future Students
 The most important and often overlooked steps to any learning or training regiment is performing an after-action review to capture the best practices in order to repeat success and to identify failures in order to determine their root causes so they can be avoided or mitigated in future projects. This important step aims to lessen the burden of difficulty for those following in our footsteps.
@@ -19,3 +19,5 @@ After a team deliberation, it was determined that these recommendations could he
     
 **6.	Troubleshooting:** Our team determined it was a best practice to install header pins throughout our PCB. This allowed for additional flexibility should different components be needed to swap out, correct wiring issues, and provide an additional ability to troubleshoot the system. 
 
+<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)
