@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Main Page](../README.md)<br><br>
 
 # Navigation
 
@@ -19,4 +19,4 @@
 |[Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)|
 
 <br><br>
-[Main Page](../Title.md)
+[Main Page](../README.md)
