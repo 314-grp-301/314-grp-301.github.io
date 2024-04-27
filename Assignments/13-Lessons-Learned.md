@@ -1,4 +1,5 @@
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)<br>
+[Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
 # Lessons Learned
 
