@@ -9,6 +9,10 @@ Teams serve as the backbone of engineering projects by facilitating collaborativ
 ### Mission Statement
 “Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
 
+### Goal Development Methodology
+Goal setting is an important step towards achieving project success by offering teams a path and a sense of purpose. Through the establishment of specific criteria (e.g. SMART method), teams can organize their objectives into a structured framework, enhancing clarity and bolstering the likelihood of accomplishment.
+The SMART method sets forth standards for goal creation by breaking objectives down into more distinct components: Specific, Measurable, Achievable, Relevant, and Time-bound criteria. This approach ensures that goals are clearly defined, quantifiable, realistic given available resources, aligned with project objectives, and bound by a defined timeline. By adhering to SMART methodology, teams can create goals that are actionable and increases the likelihood of the project succeeding.
+
 ### Project Goals
 - **Design Safety Device:** Design and fabricate a device capable of provoding an end-user with accurate and precise temperature and humidity readings.
 
