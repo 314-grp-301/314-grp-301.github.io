@@ -14,14 +14,28 @@ Goal setting is an important step towards achieving project success by offering 
 The SMART method sets forth standards for goal creation by breaking objectives down into more distinct components: Specific, Measurable, Achievable, Relevant, and Time-bound criteria. This approach ensures that goals are clearly defined, quantifiable, realistic given available resources, aligned with project objectives, and bound by a defined timeline. By adhering to SMART methodology, teams can create goals that are actionable and increases the likelihood of the project succeeding.
 
 SMART Method
+
 Specific: Goals should be clear, precise, and well-defined.
+
 Measurable: Goals should be quantifiable, allowing progress to be tracked objectively.
+
 Achievable: Goals should be realistic and attainable given available resources and constraints.
+
 Relevant: Goals should be aligned with the overall objectives of the project.
+
 Time-bound: Goals should have a specific deadline or timeframe for completion.
 
 ### Project Goals
-- **Design Safety Device:** Design and fabricate a device capable of provoding an end-user with accurate and precise temperature and humidity readings.
+•	Specific: Our goal is to design and fabricate a device specifically tailored to measure temperature and humidity accurately for end-users.
+
+•	Measurable: We will measure the success of our device by its ability to provide temperature and humidity readings with a precision of at least ±0.5°C for temperature and ±2% for humidity.
+
+•	Achievable: Leveraging the skill sets acquired from previous assignments in the EGR-3X4 courses, designing and fabricating such a device is well within our capabilities for this project.
+
+•	Relevant: This goal aligns with our project's overall objective of developing innovative solutions to meet end-users' needs for accurate environmental monitoring.
+
+•	Time-bound: We aim to complete the design and fabrication of the device within Spring 2024 semester.
+
 
 ### 7 Shared Goals
 1. **Improve in Designing for Widespread Use:**
