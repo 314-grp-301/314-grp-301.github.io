@@ -1,4 +1,4 @@
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../Title.md)<br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../README.md)<br>
 [Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
 # Appendix
@@ -258,4 +258,4 @@ WS – Weather Station
 WX – Weather 
 
 <br><br>
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../Title.md)
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../README.md)
