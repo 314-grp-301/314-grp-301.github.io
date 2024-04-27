@@ -40,7 +40,10 @@ Here are two tables organizing our brainstorming ideas/concepts/features into si
  ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-table2.png)
 
 ## 3. Our three product concept sketches
-Below are the original concepts. Concept 1
+In this step of the design process, we conducted research on existing products available to the public that could serve as models for our project, to be tested against and improved upon. Our investigation identified three similar yet distinct products meeting the criteria of a weather device for our project. The first is a portable weather device providing localized weather conditions at the user’s location. The second is a solar-powered weather detection system aimed at providing weather data to emergency management services (EMS). The third project is a Flood Detection Buoy designed to detect flash flooding in areas prone to rapid and rising water levels during storms.
+
+All three concepts satisfied the requirements of a weather-related device, but each possessed unique characteristics. After careful deliberation and comparison of the three potential projects against our SMART Goals and user needs, it was determined that concept 1, the Weather Pod, would be the ideal project.
+
 
 ### Cocept 1 (Portable Weather Pod)
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1a.png) 
