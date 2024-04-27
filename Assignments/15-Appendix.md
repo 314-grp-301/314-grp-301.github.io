@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../Title.md)<br><br>
 
 # Appendix
 
@@ -256,3 +256,5 @@ WS – Weather Station
 
 WX – Weather 
 
+<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md) - [Main Page](../Title.md)
