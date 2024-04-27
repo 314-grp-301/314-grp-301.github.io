@@ -101,7 +101,11 @@ The Waterway Weather and Flash Flood Detection Buoy would serve a similar purpos
 - **Motor-Controlled Height Adjustment:** Attached to an installed rod, allows the buoy to adjust its height relative to water level.<br><br><br>
 
 # Selected Design
-Originally we had intended to create a flash flood detection system (Concept 3), but due to potential constraints with the watertight capabilities and the water motion detection system we shifted to the weather pod (Concept 1), kept the general concept and minimized potential shortcomings which resulted in the Portable Weather Pod.
+After deliberating among the three concepts and aligning them with our SMART goals and end-user needs, while ensuring they fell within our levels of expertise, we concluded that pursuing the Portable Weather Pod as our final design project was the best course of action. This decision was primarily influenced by the limitations of the other two projects, but more significantly by the Weather Pod's potential as a practical end-user product.
+
+Designs two and three were disregarded due to the challenges associated with designing a watertight system, logistical complexities of testing under adverse weather conditions, and the requirement for additional systems beyond the course scope, such as GPS for movement tracking. Additionally, the introduction of a motor system to designs two and three seemed cumbersome and a feature not aligned with the projects purpose.
+
+
 
 ## Final Concept: Portable Weather Pod
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
