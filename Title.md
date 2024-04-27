@@ -64,21 +64,19 @@ This report serves as consolidated documentation of the work of Team 301’s Por
 
 |Table of Contents| |Table of Figures|
 |---|---|---|
-|[01-Team-Organization](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md)| | |
-|[02-User-Needs-Benchmarking-and-Requirements](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md)| | |
-|[03-Design-Ideation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)| | |
-|[04-Block-Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)| | |
-|[05-Component-Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md)| | |
-|[06-Microcontroller-Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/06-Microcontroller-Selection.md)| | |
-|[07-Software-Proposal](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/07-Software-Proposal.md)| | |
-|[08-Hardware-Proposal](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/08-Hardware-Proposal.md)| | |
-|[09-Hardware-Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)| | |
-|[10-Software-Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/10-Software-Implementation.md)| | |
-|[11-Innovation-Showcase-Poster](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)| | |
-|[12-System-Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)| | |
-|[13-Lessons-Learned](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md)| | |
-|[14-Recommendations](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)| | |
-|[15-Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)| | |
+|[Team Organization](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md)| | |
+|[User Needs Benchmarking and Requirements](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md)| | |
+|[Design Ideation and Selected Design](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)| | |
+|[Block Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)| | |
+|[Component Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md)| | |
+|[Microcontroller Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/06-Microcontroller-Selection.md)| | |
+|[Hardware Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)| | |
+|[Software Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/10-Software-Implementation.md)| | |
+|[Innovation Showcase Poster](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)| | |
+|[System Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)| | |
+|[Lessons Learned](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md)| | |
+|[Recommendations](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)| | |
+|[Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)| | |
 
 ### Mission Statement
 “Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
