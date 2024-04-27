@@ -35,7 +35,7 @@ For better clarity of the top layout:<br>
 
 ## DRC and Submissions for Manufacturing
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-Hardware%20Implementation.png)
-The image shows a compilation of several snapshots related to the submission and manufacturing of a Printed Circuit Board (PCB). 
+The image above shows a compilation of several snapshots related to the submission and manufacturing of a Printed Circuit Board (PCB). 
 
 At the top, there is a section labeled "DRC" which stands for Design Rule Check. This is a part of the PCB design process where the software checks the layout to ensure that it adheres to certain manufacturing and design rules. It appears that the DRC process has been completed without detecting any errors, as indicated by "No DRC errors detected."
 
