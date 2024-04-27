@@ -1,4 +1,4 @@
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)<br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)<br>
 [Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
 
@@ -69,4 +69,4 @@ The updated software flow could be represented using a state diagram or flowchar
 
 In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
 <br><br>
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)
