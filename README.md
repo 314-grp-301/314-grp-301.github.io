@@ -60,7 +60,8 @@ This is evidence of a recent commit for Checkpoint 3. Committed 0939 on 20240423
 </table>
 
 ### Introduction
-This report serves as consolidated documentation of the work of Team 301’s Portable Weather Station for EGR-314’s Spring 2024 semester. A documentary analysis of all pertinent assignments have been condensed into a single source document for ease of reference. A more detailed breakout of each topic can be found by clicking the hyperlink headings for each chapter. Furthermore, a collection of past multimedia exhibits have been added below.
+
+This report is a comprehensive compilation of Team 301’s efforts in developing the Portable Weather Station for the EGR-314 course during the Spring 2024 semester. It provides an integrated analysis of all relevant assignments, distilled into this unified document to facilitate easy access and reference. For in-depth exploration of specific topics, readers can navigate through the document by clicking on the hyperlinked headings corresponding to each chapter. Additionally, a curated selection of previous multimedia exhibits related to this project has been incorporated below to enhance understanding and engagement.
 
 |Table of Contents| |Table of Figures|
 |---|---|---|
