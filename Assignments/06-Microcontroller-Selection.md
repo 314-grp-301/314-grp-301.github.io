@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/07-Software-Proposal.md)<br><br>
 
 ## Introduction
 
@@ -100,4 +100,5 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 - Humid/Temp Sensor: Communicate via I2C or SPI, not UART.
 - Motor Driver: Uses digital signals for control, not UART.
 - LCD Screen: Uses a parallel or I2C/SPI interface, not UART.
-
+<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/07-Software-Proposal.md)
