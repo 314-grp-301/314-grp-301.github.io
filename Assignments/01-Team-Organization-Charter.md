@@ -3,6 +3,8 @@
 
 ## 1. Team Goals
 
+### Introduction
+
 ### Mission Statement
 “Our mission is to improve weather reporting by designing and implementing solutions that provide localized, real-time weather data in a wide range of environments and conditions. With a user focused experience in mind, our goal is to provide end users with the tools needed to make the necessary and informed decisions required in their daily activity planning.”
 
