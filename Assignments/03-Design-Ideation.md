@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)<br><br>
 
 # Design Ideation
 
@@ -110,6 +110,8 @@ Originally we had intended to create a flash flood detection system (Concept 3),
 - **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
 - **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
   - **Temperature:** Measures ambient temperature accurately.
-  - **Humidity:** Monitors air moisture levels.
+  - **Humidity:** Monitors air moisture levels.<br><br>
+
+  [Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)
 ---
 
