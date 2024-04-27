@@ -671,6 +671,7 @@ Implement a finite state machine for managing system states and transitions, whi
 The updated software flow could be represented using a state diagram or flowchart. This would visually describe the system states, transitions based on events (like temperature thresholds), and the actions taken in each state.
 
 In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
+
 ---
 
 # Team 301 System Verification Table
