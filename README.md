@@ -672,13 +672,47 @@ The updated software flow could be represented using a state diagram or flowchar
 
 In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
 ---
+
 # Team 301 System Verification Table
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/f1c6cb2e-8320-402f-9c43-c205428deb30)
 
 *Note: Our verification table has been fully checked off and completed. Ignore the unverified connection for the humidity sensor to microcontroller* 
+
 ---
 
+# Lessons Learned
 
+- When selecting a microcontroller, make sure you have a solid understanding of all the pins' capabilities in I2C and SPI.
+- Prioritize using components the person in charge of them has had experience using before or has similarities to components they have experience with.
+- Due to individual device addresses, multiple I2C devices can effectively communicate along the same input and output pins.
+- Having as many device inputs and outputs print to Putty can dramatically increase the effectiveness of the debugging stage of development.
+- Ensure dimensions of parts are checked thoroughly before being ordered as parts being too small may be an issue when soldering.
+- The layout of a PCB can be kept cleaner by designating layers as the primary horizontal or vertical movement layers and using via to transition between them.
+- When noise is not a significant issue, you can minimize trace length by centralizing power buses to be used by various components.
+- Separate components in PCB layout enough to make soldering simple, while meeting total PCB size restrictions.
+- Group subsystem components in the PCB layout for better clarity and eases of recognition when soldering and testing subsystem connectivity.
+- If noise is a potential issue for a problem that arises, try jumping to a breadboard and adding different size capacitors to pull some of it to ground. If that works, implement the changes for a cleaner signal.
+
+---
+
+# Recommendations for Future Students
+The most important and often overlooked steps to any learning or training regiment is performing an after-action review to capture the best practices in order to repeat success and to identify failures in order to determine their root causes so they can be avoided or mitigated in future projects. This important step aims to lessen the burden of difficulty for those following in our footsteps.
+
+After a team deliberation, it was determined that these recommendations could help the planning and fabrication process of future EGR-314 students as they learn from our best practices, mistakes, and hardships.
+
+**Recommendations for Future Students:**
+
+**1.	Microcontroller Selection:** Ensure understanding and capabilities of all I2C and SPI pins to prevent overlapping component pin requirements.
+   
+**2.	Component Selection:** Familiarization of components helps improve learning hurdles. While it is not required for the system designer to know their component inside and out at the time of selection, having someone on the team who is familiar with that component will help reduce the learning curve. This person can serve as a mentor to help the designer overcome any difficulties during the design and fabrication process.
+   
+**3.	Debugging Lesson Learned:** By having as many component devices as possible print to the Putty software suite, it allows for better troubleshooting by allowing  designers to contrast and compare how different systems are interacting with one another.
+   
+**4.	Outside Resources:** Our team found that investing in a heat gun, flux and solder, and other components out of pocket enabled us to work on the project outside the classroom. This provided us with the freedom to operate when and where we desired without the limitations of office hours or equipment shortages/availability. We understand that this is a financial cost and can’t be achievable by all teams, however there is value in this recommendation if affordable.
+   
+**5.	Evaluate Component Sizes:** Double check the size of the components and determine if they are within the skill set of the user to solder onto a PCB. Some of our initial components ordered were so small that it was impossible to solder by hand without damaging the component.
+    
+**6.	Troubleshooting:** Our team determined it was a best practice to install header pins throughout our PCB. This allowed for additional flexibility should different components be needed to swap out, correct wiring issues, and provide an additional ability to troubleshoot the system. 
 
 <br><br>
 [Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)
