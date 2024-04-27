@@ -45,10 +45,6 @@ For better clarity of the top layout:<br>
 # Version 2.0
 When analyzing the schematic for potential improvements in a "Version 2.0" of the hardware design, several areas can be considered to enhance functionality, reliability, and scalability. Here are some suggestions:
 
-NEED TO ADD MORE HERE
-
-1. Adding more ground headers, this would have helped connect any accessories to ground.
-3. Mount the ESP32 onto the PCB. This would have given us a more secure and reliable connection.
 
 ## Power Supply Management
 ### Battery Life Optimization: 
@@ -59,8 +55,9 @@ While a 9V battery is currently used with a voltage regulator to power the circu
 The temperature and humidity sensor signals could be susceptible to noise, particularly if the device is used in an industrial environment. Adding filters or shielded cabling could improve the accuracy and reliability of sensor readings.
 
 ## Communication Protocols
-### Wi-Fi Signal Strength: 
+### Wi-Fi Signal Strength & Mounting ESP32 onto the PCB: 
 If the ESP32 module experiences weak Wi-Fi signals in its operating environment, adding an external antenna connector could improve connectivity.
+Mount the ESP32 onto the PCB. This would have given us a more secure and reliable connection.
 
 ## Motor Driver and Control
 ### Current Sensing: 
