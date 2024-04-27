@@ -1,4 +1,4 @@
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)<br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)<br>
 [Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
 # Lessons Learned
@@ -15,4 +15,4 @@
 - If noise is a potential issue for a problem that arises, try jumping to a breadboard and adding different size capacitors to pull some of it to ground. If that works, implement the changes for a cleaner signal.
 <br><br>
 
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)
