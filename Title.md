@@ -1,6 +1,6 @@
 // Delete this section upon all tasks completion
 
-Note: (Seymore) I added all the navigation to the assignment pages. When editing and copying from assignments to title.md, copy from after the first < br >< br > to before the last < br >< br > (spaces added so it shows up).
+Note: (Seymore) I added all the navigation to the assignment pages. When editing and copying from assignments to title.md, copy from after the first < br >< br > after the navigation link to before the last < br >< br > (spaces added so it shows up).
 
 - 05 (Done, Brian) (Intro added, Corrected all mark downs from Check Point 2 feedback)
 - 06 (Done, Brian) (Intro added,)
