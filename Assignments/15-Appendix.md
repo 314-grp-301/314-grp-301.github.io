@@ -12,6 +12,10 @@
 ## MQTT Topic Table
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/072f7a54-e653-4c74-901a-86fe4cf1c58d)
 
+## MCC Configuration
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/0ffaf1d2-7e93-4a52-a570-fd0171975019)
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/21a84b3a-0477-4d44-ae47-faa033779a95)
+
 
 ## Additional Team Organization Content
 ## 2. Communication Channels
