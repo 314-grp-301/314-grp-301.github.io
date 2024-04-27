@@ -1,4 +1,4 @@
-[Main Page](../Title.md)<br><br>
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)<br><br>
 
 ## Introduction
 
@@ -230,5 +230,6 @@ Listed are the original, design aspects prior to the change to a more minimalist
 **Open Questions**<br>
 - Can the device be made easily recyclable and repairable? :white_check_mark: [The device can be easily repaired if the user/tech is knowledgable, but it is not intended for recyclables.]<br>
 - Can we connect the device to a power source safely to remove the need for batteries? :white_check_mark:<br>
-- Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br>
+- Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br><br>
 
+[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md) - [Main Page](../Title.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)
