@@ -8,6 +8,14 @@ In this section, we delve into the Hardware Implementation of the Portable Weath
 ## Final Schematic
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Team301Schematic-1.png)<br><br>
 
+This schematic diagram represents the electrical blueprint for a Weather Pod, detailing the connections and components required for its operation. It is divided into sections, each attributed to a team member, suggesting a collaborative design effort:
+
+Temperature Sensor - Zeke Trevino: This section outlines the connection of a temperature sensor, including a resistor for the sensor and connections for the power supply and data outputs.
+Humidity Sensor - Brian Wegner: This part of the circuit features a humidity sensor with its own power connections, capacitors for stabilization, and data lines.
+Microcontroller PIC16F15354-FM1 & ESP32 WiFi - Fynn Meyerhoff: The core of the system, the microcontroller, is responsible for processing the data from the sensors. It is connected to an ESP32 WiFi module, which likely enables wireless communication for data transmission.
+Voltage Regulator: This section includes a voltage regulator circuit that steps down the voltage from a 9V battery to a 3.3V output, using components like capacitors, an inductor, and a diode for power management.
+Motor Driver - Kevlis Seymore: A motor driver circuit with an H-bridge design is included for controlling a motor's direction and speed, possibly for moving parts of the weather station, like an anemometer or a wind vane.
+
 ## Final Layout
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-TeamPCBFinal.jpg)<br><br>
 For better clarity of the top layout:<br>
