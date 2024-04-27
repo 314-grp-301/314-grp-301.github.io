@@ -7,7 +7,6 @@ In this section, we delve into the Hardware Implementation of the Portable Weath
 
 ## Final Schematic
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Team301Schematic-1.png)<br><br>
-
 This schematic diagram represents the electrical blueprint for a Weather Pod, detailing the connections and components required for its operation. It is divided into sections, each attributed to a team member, suggesting a collaborative design effort:
 
 ### Temperature Sensor 
