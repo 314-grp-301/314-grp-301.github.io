@@ -1,6 +1,6 @@
 // Delete this section upon all tasks completion
 
-Note: The page was auto publishing from the README after some troubleshooting decided it was easier to mve it back, so moved the main report back to it and changed all the links that referenced title.md to reference it. I added all the navigation to the assignment pages. When editing and copying from assignments to README.md, copy from after the first < br >< br > after the navigation link to before the last < br >< br > (spaces added so it shows up).
+Note: The page was auto publishing from the README after some troubleshooting decided it was easier to move it back, so moved the main report back to it and changed all the links that referenced title.md to reference it. I added all the navigation to the assignment pages. When editing and copying from assignments to README.md, copy from after the first < br >< br > after the navigation link to before the last < br >< br > (spaces added so it shows up).
 
 - 05 (Done, Brian) (Intro added, Corrected all mark downs from Check Point 2 feedback)
 - 06 (Done, Brian) (Intro added,)
