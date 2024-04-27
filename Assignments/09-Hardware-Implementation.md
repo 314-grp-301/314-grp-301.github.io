@@ -74,7 +74,7 @@ Adding a current sensing circuit could provide feedback on the motor's health an
 
 ## User Interface
 ### User Interface: 
-If the current design does not include it, consider adding buttons or switches for manual override or control, which could be useful if wireless communication is temporarily unavailable.
+add buttons or switches for manual override or control, which could be useful if wireless communication is temporarily unavailable.
 
 ## Documentation and Traceability
 ### Clear Labeling: 
