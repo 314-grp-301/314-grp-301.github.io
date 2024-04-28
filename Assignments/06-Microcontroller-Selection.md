@@ -88,14 +88,12 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 **Built-in Analog to Digital Converter: 1**
 - All sensors and drivers are digital, but including 1 ADC is advisable for potential future needs.
 
-**Built-in Hardware PWM: 1**
-- Required for the Motor Driver to control motor speed.
-
-**Built-in I2C & SPI: 2 I2C’s & 0 SPI’s**
+**Built-in I2C & SPI: 2 I2C’s & 1 SPI’s**
 - I2C interfaces: 2 (Temp & Humid sensor can be addressed differently through the same bus)
-- SPI interfaces: Not required for this project.
+- SPI interfaces: 1 required for motor driver.
 
-**Built-in UART: 0**
+**Built-in UART: 1**
+- ESP32: Communicates via UART through TX and RX.
 - Humid/Temp Sensor: Communicate via I2C or SPI, not UART.
 - Motor Driver: Uses digital signals for control, not UART.
 - LCD Screen: Uses a parallel or I2C/SPI interface, not UART.
