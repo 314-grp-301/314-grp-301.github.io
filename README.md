@@ -522,7 +522,7 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 | **ADC**      | **24 (1 req)** | 28           | 35           |
 | **PWM**      | **4 (1 req)**  | 0            | 4            |
 | **I2C/SPI**  | **2/0**        | 1/0          | 2/0          |
-| **UART**     | **1 (0 req)**  | 1            | 2            |
+| **UART**     | **1 (1 req)**  | 1            | 2            |
 
 **Choice: Option 1**
 
