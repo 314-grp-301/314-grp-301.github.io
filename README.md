@@ -608,6 +608,8 @@ By addressing these potential improvements, "Version 2.0" of the hardware design
 ## Software Diagram
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/fcb4f8ad-a3de-492a-8247-efdf7fee3705)
 
+### [main.c](https://github.com/314-grp-301/Team301Code/blob/main/folder/PIC-main.c)
+
 ## Key Functions and Processes
 ### Initialization and Setup
 The system begins with an initialization phase where it configures various communication protocols (I2C2, SPI1, EUSART1) and sets up initial variables. This ensures that all components are ready to function correctly, providing a stable starting point which is critical for reliable operations.
