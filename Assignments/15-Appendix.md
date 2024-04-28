@@ -7,7 +7,7 @@
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/15-ConsolidatedBOM.png)
 
 ## Team Code
-[ESP32 & MPLabX code](https://github.com/314-grp-301/Team301Code/tree/743a318e7f387fa2d2c47b531342e96acdbf6d46/folder)
+### [ESP32 & MPLabX code](https://github.com/314-grp-301/Team301Code/tree/743a318e7f387fa2d2c47b531342e96acdbf6d46/folder)
 
 ## MQTT Topic Table
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/072f7a54-e653-4c74-901a-86fe4cf1c58d)
