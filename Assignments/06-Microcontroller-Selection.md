@@ -8,7 +8,7 @@ Microcontrollers play an important role in electrical system projects. They serv
 For our project, we determined that the PIC16F15354 produced by Microchip was the optimal solution for our project based on a variety of factors ranging from the number of GPIO pins to I2C/SPI computability. A further breakdown of our selection processes as well as a side-by-side comparison of alternative chip considerations can be found below.
 
 
-## Microcontroller Selection
+## Microcontroller Selection (PIC16F15354)
 
 | Feature      | **Option 1** :star: | Option 2     | Option 3     |
 |--------------|----------------|--------------|--------------|
