@@ -332,8 +332,6 @@ Here are two tables organizing our brainstorming ideas/concepts/features into si
 Below are the original concepts. Concept 1
 
 ### Cocept 1 (Portable Weather Pod)
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1a.png) 
-![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1b.png)
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1c.png)
 
 **Description**
