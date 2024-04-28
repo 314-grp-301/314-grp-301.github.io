@@ -1,11 +1,13 @@
 [Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)<br>
 [Navigation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/docs/Navigation.md)<br><br>
 
-## Introduction
 
-Understanding the needs and requirements of the end user is an important step in the design and product development process. By determining the end-user needs early in the development process, engineers can tailor the system’s features, functionality, and performance needs to address the user’s preferences. Benchmarking allows engineers to compare their product’s performance against already existing solitons and industry standards by providing side-by-side comparison. This can lead to designers improving on already existing products by innovating and improving on product concepts already in the market.
 
 ## User Needs, Benchmarking, and Requirements
+
+### Introduction
+
+Understanding the needs and requirements of the end user is an important step in the design and product development process. By determining the end-user needs early in the development process, engineers can tailor the system’s features, functionality, and performance needs to address the user’s preferences. Benchmarking allows engineers to compare their product’s performance against already existing solitons and industry standards by providing side-by-side comparison. This can lead to designers improving on already existing products by innovating and improving on product concepts already in the market.
 
 ### Similar Products
 To gather a a basis to work from and a benchmark to evaluate our design to, we found a number of similar products described below.<br><br>
