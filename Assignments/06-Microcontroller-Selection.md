@@ -40,8 +40,6 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 | **Built-in Hardware PWM?**                   | 0-1                  | 4           | 0          | 4           |
 | **Built-in I2C? SPI?**                       | 2 I2C’s, no SPI’s    | 2           | 1          | 2           |
 | **Built-in UART?**                           | 0                    | 1           | 1          | 2           |
-| **Other Required Built-In Features?**        | TBD                  |             |            |             |
-| **Additional considerations (Low Power Mode?)** | ?                  |             |            |             |
 
 ## Microcontroller Considerations
 
