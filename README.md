@@ -27,21 +27,21 @@ This report is a comprehensive compilation of Team 301’s efforts in developing
 |---|---|---|
 |[Team Organization](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/01-Team-Organization-Charter.md)| |[User Needs Jamboard Summation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#user-needs-jamboard-summation) |
 |[User Needs Benchmarking and Requirements](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/02-User-Needs-Benchmarking-and-Requirements.md)| |[User Needs Organization / Ranking](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#user-needs-organization--ranking) |
-|[Design Ideation and Selected Design](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)| |[Brainstorm Ranking 1](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-table1.png) [, 2](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-table2.png)|
-|[Block Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)| |[Concept 1](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1c.png) |
-|[Component Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md)| |[Concept 2](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept2a.png) |
-|[Microcontroller Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/06-Microcontroller-Selection.md)| |[Concept 3](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept3a.png) |
-|[Hardware Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)| |[Final Concept](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png) |
-|[Software Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/10-Software-Implementation.md)| |[Block Diagram](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Block%20Diagram%20Draft.png) |
-|[Innovation Showcase Poster](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)| |[Power Budget](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG) |
-|[System Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)| |[Final Schematic](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/Team301Schematic-1.png) |
-|[Lessons Learned](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md)| |[PCB Layout](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-TeamPCBFinal.jpg) |
-|[Recommendations](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)| |[Physical PCB Top] |
-|[Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)| |[Physical PCB Bottom] |
-| | |[Cadence PCB Top] |
-| | |[Cadence PCB Bottom] |
-| | |[Software Diagram] |
-| | |[Vericiation Table] |
+|[Design Ideation and Selected Design](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/03-Design-Ideation.md)| |[Brainstorm Ranking](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#2-sort-rank-and-group-design-concepts)|
+|[Block Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/04-Block-Diagram.md)| |[Concept 1](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#cocept-1-portable-weather-pod) |
+|[Component Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md)| |[Concept 2](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#concept-2-portable-adverse-weather-detection-system) |
+|[Microcontroller Selection](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/06-Microcontroller-Selection.md)| |[Concept 3](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#concept-3-waterway-weather-and-flash-flood-detection-buoy) |
+|[Hardware Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)| |[Final Concept](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#final-concept-portable-weather-pod) |
+|[Software Implementation](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/10-Software-Implementation.md)| |[Block Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#block-diagram) |
+|[Innovation Showcase Poster](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/11-Innovation-Showcase-Poster.md)| |[Power Budget](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#power-budget) |
+|[System Verification](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/12-System-Verification.md)| |[Final Schematic](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#final-schematic) |
+|[Lessons Learned](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/13-Lessons-Learned.md)| |[PCB Layout](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#final-layout) |
+|[Recommendations](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/14-Recommendations.md)| |[Physical PCB Top](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#top-view) |
+|[Appendix](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/15-Appendix.md)| |[Physical PCB Bottom](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#bottom-view) |
+| | |[Cadence PCB Top](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#top-view-1) |
+| | |[Cadence PCB Bottom](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#bottom-view-1) |
+| | |[Software Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#software-diagram) |
+| | |[Vericiation Table](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#team-301-system-verification-table) |
 
 
 
