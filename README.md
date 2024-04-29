@@ -1064,24 +1064,25 @@ After a team deliberation, it was determined that these recommendations could he
 <br><br>
 
 
+
 # Appendix
 
-## Bill of Materials
+## 1. Bill of Materials
 ![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/15-ConsolidatedBOM.png)
 
-## Team Code
+## 2. Team Code
 ### [ESP32 & MPLabX code](https://github.com/314-grp-301/Team301Code/tree/743a318e7f387fa2d2c47b531342e96acdbf6d46/folder)
 
-## MQTT Topic Table
+## 3. MQTT Topic Table
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/072f7a54-e653-4c74-901a-86fe4cf1c58d)
 
-## MCC Configuration
+## 4. MCC Configuration
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/0ffaf1d2-7e93-4a52-a570-fd0171975019)
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/21a84b3a-0477-4d44-ae47-faa033779a95)
 
 
-## Additional Team Organization Content
-## 2. Communication Channels
+## 5. Additional Team Organization Content
+## Communication Channels
 
 ### Team Communication Table
 
@@ -1108,7 +1109,7 @@ Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) pla
   -  **Face-to-Face during Class** (Emergency):
     - For urgent matters requiring immediate, in-person discussion.
 
-## 3. Communication Procedures
+## 5A. Communication Procedures
 
 As per the PACE plan, team members will prioritize methods of communication using this plan. The team will first attempt to communicate through Discord, and if that's not possible, we will move to Text, and so on. This approach ensures all team members stay on track and are aware of which communication methods to use as a fallback if the first option is not available.
 
@@ -1121,7 +1122,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
 - **Maximizing Office Hours:**
   - The team commits to utilizing instructor office hours as much as possible to stay updated on assignments and project deadlines.
 
-## 4. Meeting Schedule and Availability
+## 5B. Meeting Schedule and Availability
 
 **People:**
 - 🟥 B = Brian
@@ -1148,7 +1149,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
 | 20:00 |           |           |      | 🟨        |           | 🟨        |           |
 
 
-## 5. Roles & Responsibilities
+## 5C. Roles & Responsibilities
 
 | Role                                         | Duties                                                                                                                        |
 |----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
@@ -1158,7 +1159,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
 | **Project Monitor** - Kevis Seymore       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
 
 
-## 6. Team Coordination & Accountability
+## 5D. Team Coordination & Accountability
 
 - **Pre-Assignment Coordination:** 
   - **24-Hour Rule:** At least 24 hours before an assignment's due date, responsibilities for specific sections are assigned.
@@ -1173,7 +1174,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
   - **Accountability for Assigned Sections:** Each member is responsible for their own work.
   - **Openness to Feedback:** Welcoming feedback is essential for individual and team growth.
 
-## 7. Conflict Recognition & Resolution
+## 5E. Conflict Recognition & Resolution
 
 ### Big Picture Strategy:
 
@@ -1227,7 +1228,7 @@ As per the PACE plan, team members will prioritize methods of communication usin
    - *Final step for unresolved conflicts requiring outside intervention.*
 
 
-## Acronyms & Key Terms
+## 6. Acronyms & Key Terms
 A - Ampere
 
 AC – Alternating Current
@@ -1327,4 +1328,3 @@ WS – Weather Station
 WX – Weather 
 
 <br><br>
-
