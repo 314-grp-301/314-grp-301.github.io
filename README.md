@@ -46,7 +46,7 @@ This report is a comprehensive compilation of Team 301’s efforts in developing
 
 
 
-## 1. Team Organization
+## Team Organization
 
 ### Introduction
 Teams serve as the backbone of engineering projects by facilitating collaborative efforts and pooling individual contributions to tackle tasks that would normally overwhelm a single individual. By leveraging expertise and experiences, team members can collectively navigate complex problems. Each member adds a unique perspective and various skill sets that add value to their team and project. Through this synergy, teams provide a foundation of support to other team members by offering mentorship, shared learning, and fostering personal relationships that often improve the overall performance of the team.
@@ -98,8 +98,11 @@ Time-bound: Goals should have a specific deadline or timeframe for completion.
 7. **Continuous Improvement in Design Processes:**
     - Commit to an iterative process of design improvement and refinement.<br><br>
 
-
 ## User Needs, Benchmarking, and Requirements
+
+### Introduction
+
+Understanding the needs and requirements of the end user is an important step in the design and product development process. By determining the end-user needs early in the development process, engineers can tailor the system’s features, functionality, and performance needs to address the user’s preferences. Benchmarking allows engineers to compare their product’s performance against already existing solitons and industry standards by providing side-by-side comparison. This can lead to designers improving on already existing products by innovating and improving on product concepts already in the market.
 
 ### Similar Products
 To gather a a basis to work from and a benchmark to evaluate our design to, we found a number of similar products described below.<br><br>
@@ -235,7 +238,8 @@ The system has been included since it is a close representation of the intended 
 
 <br><br>
 
-## Additional User Needs {#image1}
+## Additional User Needs
+Understanding both explicit and latent user needs is an important step in engineering project management that ensures the development and success of user-focused designs. Explicit needs are those articulated by the user, while latent needs are implied needs. In the following lists, our team outline both explicit needs and latent user needs that helped shape and develop our team’s final project.
 
 **Explicit**<br>
 - Real-Time Data Access<br>
@@ -328,6 +332,11 @@ Listed are the original, design aspects prior to the change to a more minimalist
 - Is there additional functionality that can be added with later modifications or simply with code? :white_check_mark: [Additional data tracking can be added easily prior to distribution.]<br><br>
 
 # Design Ideation
+
+## Introduction
+
+Design ideation is a crucial stage in the creative process, where diverse ideas are generated through brainstorming sessions. The objective is to produce a wide array of innovative concepts that may serve as springboards for further exploration. While individual ideas hold value, the true innovation process unfolds when these ideas are collected, compared, and juxtaposed, allowing designers to weave together concepts that may have gone unnoticed in isolation. Once a multitude of concepts is amassed, the next step involves sorting, ranking, and grouping ideas to uncover synergies and connections between them, enabling designers to visualize how various concepts can complement and integrate with one another.
+
 The analysis of requirements and potential functionality lead us to concept the designs shown below each with their own advantages and disadvantages.
 
 ## 1. Brainstorm Table of Features/Ideas/Concepts
@@ -361,9 +370,14 @@ Here are two tables organizing our brainstorming ideas/concepts/features into si
  ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-table2.png)
 
 ## 3. Our three product concept sketches
-Below are the original concepts. Concept 1
+In this step of the design process, we conducted research on existing products available to the public that could serve as models for our project, to be tested against and improved upon. Our investigation identified three similar yet distinct products meeting the criteria of a weather device for our project. The first is a portable weather device providing localized weather conditions at the user’s location. The second is a solar-powered weather detection system aimed at providing weather data to emergency management services (EMS). The third project is a Flood Detection Buoy designed to detect flash flooding in areas prone to rapid and rising water levels during storms.
+
+All three concepts satisfied the requirements of a weather-related device, but each possessed unique characteristics. After careful deliberation and comparison of the three potential projects against our SMART Goals and user needs, it was determined that concept 1, the Weather Pod, would be the ideal project.
+
 
 ### Cocept 1 (Portable Weather Pod)
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1a.png) 
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1b.png)
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-concept1c.png)
 
 **Description**
@@ -417,7 +431,11 @@ The Waterway Weather and Flash Flood Detection Buoy would serve a similar purpos
 - **Motor-Controlled Height Adjustment:** Attached to an installed rod, allows the buoy to adjust its height relative to water level.<br><br><br>
 
 # Selected Design
-Originally we had intended to create a flash flood detection system (Concept 3), but due to potential constraints with the watertight capabilities and the water motion detection system we shifted to the weather pod (Concept 1), kept the general concept and minimized potential shortcomings which resulted in the Portable Weather Pod.
+After deliberating among the three concepts and aligning them with our SMART goals and end-user needs, while ensuring they fell within our levels of expertise, we concluded that pursuing the Portable Weather Pod as our final design project was the best course of action. This decision was primarily influenced by the limitations of the other two projects, but more significantly by the Weather Pod's potential as a practical end-user product.
+
+Designs two and three were disregarded due to the challenges associated with designing a watertight system, logistical complexities of testing under adverse weather conditions, and the requirement for additional systems beyond the course scope, such as GPS for movement tracking. Additionally, the introduction of a motor system to designs two and three seemed cumbersome and a feature not aligned with the projects purpose.
+
+
 
 ## Final Concept: Portable Weather Pod
 ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/03-Concept_4.png)
@@ -430,23 +448,67 @@ Originally we had intended to create a flash flood detection system (Concept 3),
 - **WIFI Capable:** Uses the ESP32 chipset to transmit data to the net.
 - **2 Key Sensors:** Multi-functional sensor for comprehensive environmental data.
   - **Temperature:** Measures ambient temperature accurately.
-  - **Humidity:** Monitors air moisture levels.
----
+  - **Humidity:** Monitors air moisture levels.<br><br>
 
 # Block Diagram
-Depicted is a diagram of all the key subsystems of the the weather pod device. The determining factors for the setup were the devices chosen and the communication types for said devices. We needed the temperature sensor, humidity sensor, and motor driver to communicate with the microcontroller's limited I2C and SPI pins. This proved difficult, originally, as while the MCU had the capability to support two I2C devices and an SPI device to do so required multiple devices to share a pin. This was resolved on the software side by recognizing and communicating with different addresses for the devices.<br>
+A block diagram is a visual representation of the components and connections within a system or device. It is illustrated through simplified blocks and lines allowing for quick interpretation of how different subsystems rely upon one another. In the context of our Weather Pod project, the block diagram provides a comprehensive overview of the key subsystems and their interconnections.
 
-![My Image](https://github.com/314-grp-301/314-grp-301.github.io/blob/94c1ec2a3d79e22bc545b0e7d56bc2cf8a57e224/docs/assets/images/04-Block%20Diagram.png)
+The diagram illustrates all the key subsystems of the Weather Pod device. The setup was determined by the selected sensor components and their communication protocols. We needed the temperature sensor, humidity sensor, and motor driver to communicate with the microcontroller's limited availability of I2C and SPI pins. Initially, this posed a challenge as the MCU could only support two I2C devices and an SPI device, necessitating multiple devices to share a pin. However, this issue was resolved through software and coding solutions by implementing recognition and communication with different addresses for the devices.
+<br>
 
----
-# Final Component Selection
+![My Image](https://github.com/314-grp-301/314-grp-301.github.io/blob/94c1ec2a3d79e22bc545b0e7d56bc2cf8a57e224/docs/assets/images/04-Block%20Diagram.png)<br><br>
+
+## Introduction
+
+The process of component selection is a crucial step in the design and development of electronic systems. Through best practices, design teams are able to identify needs through analysis, research component compatibility, evaluation of components, and ensure part availability by selecting the right vendors.
+
+Through an analytical approach of comparing components against one another and against the project as a whole, designers are able to implement the best components for the system being designed that meet both the project needs and end user needs once built.
+
+Our component selection methodology was to have each system design lead find a minimum of three component suitable for the project, then compare and contrast with a minimum of three pros and cons, then concluding with a price point for each component to ensure the project remained at or under budget.
+
+
+
 
 ## 1 - Motor Driver
 - System Lead: Kevis Seymore
-- Choice: IFX9201SGAUMA1
+- Choice: **(Option 4)** IFX9201SGAUMA1
 - Rationale: The IFX9201SGAUMA1 motor controller has been recommended for similar use cases and has a thorough datasheet and support around it helping eliminate much of the guesswork when attaching it to a PCB or coding for it.
+### Driver Solution - 1: BD6211F-E2
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BD6211F-E2.jpg" width="200">
 
-### Driver Solution: IFX9201SGAUMA1 
+**Cost:** $2.19 per unit
+
+| Pros                                       | Cons                 |
+|--------------------------------------------|----------------------|
+| Extensive datasheet                        | Costly per unit      |
+| Utilizes standard SPI                      | Footprint not provided |
+| Additional support files provided          | Delivery Time                     |
+| High precision sensorless motor load detection |                    |
+
+### Driver Solution - 2: BD6210F-E2
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-bd6210f-e2.jpg" width="200">
+
+**Cost:** $2.46 per unit
+
+| Pros                                         | Cons                  |
+|----------------------------------------------|-----------------------|
+| Daughter board comes soldered                | Costly per unit       |
+| Built-in thermal shutdown                    | Datasheet is minimalistic |
+| CW/CCW/short-brake/stop motor control modes  | Footprint provided    |
+
+### Driver Solution - 3: ROB-12859
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-12859.jpg" width="200">
+
+**Cost:** $21.50 per unit
+
+| Pros                                         | Cons                         |
+|----------------------------------------------|------------------------------|
+| Recommended by Digikey support for I2C stepper motor use | Costly per unit              |
+| Extensive documentation                      | Would take up more space than needed on PCB |
+| Built-in thermal shutdown                    | Heat disapation could effect temp sensor                             |
+| Short to ground protected                    |                              |
+
+### Driver Solution - 4: IFX9201SGAUMA1 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-IFX9201SGAUMA1.jpg" width="200">
 
 **Cost:** $4.00 per unit
@@ -455,14 +517,60 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 |--------------------------------------------|----------------------|
 | Low standby current                        | Complex chip      |
 | Overtemp shutdown                     | Limited to DC motors |
-| 3.3V logic compatible          |                      |
+| 3.3V logic compatible          | Most prone to over heating                      |
+---
 
-## 2 - Motor
+## Component 2 - Motor
 - System Lead: Kevis Seymore
-- Choice: LS-00028
+- Choice: Option 1: LS-00028
 - Rationale: The LS-00028 motor offers the perfect balance of compact size and high efficiency, making it an excellent choice for our small scale project.
 
-### Motor Solution: LS-00028
+### Motor Solution - 1: ROB-10846
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-10846.jpg" width="200">
+
+**Cost:** $19.50 per unit
+
+| Pros                                     | Cons                             |
+|------------------------------------------|----------------------------------|
+| Recommended for use with ROB-12859       | Minimalistic datasheet           |
+| High resolution steps (400 per revolution) | Round shaft requires press fit or clamp |
+| Low voltage required                     |   Most expensive solution                               |
+
+### Motor Solution - 2: ROB-09238
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-ROB-09238.jpg" width="200">
+
+**Cost:** $18.79 per unit
+
+| Pros                                  | Cons                                  |
+|---------------------------------------|---------------------------------------|
+| Slightly lower price compared to ROB-10846 | Minimalistic datasheet              |
+| 18.76 gcm<sup>2</sup> rotor inertia             | Lower resolution (200)               |
+| Widely available part; ready to ship  | High voltage required (12V)           |
+|                                       | Round shaft requires press fit or clamp |
+
+### Motor Solution - 3: FIT0278
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-FIT0278.jpg" width="200">
+
+**Cost:** $13.95 per unit
+
+| Pros                                      | Cons                                     |
+|-------------------------------------------|------------------------------------------|
+| Low voltage required                      | Schematic not provided in datasheet      |
+| Termination with connector and leads provided allowing for removal and/or easier installation and maintenance | Round shaft requires press fit or clamp |
+| Light Weight                              | Very simplified data sheet
+
+### Motor Solution - 4: 4641
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-4641.jpg" width="200">
+
+**Cost:** $12.50 per unit
+
+| Pros                                      | Cons                                     |
+|-------------------------------------------|------------------------------------------|
+| Compact: Ideal for space-limited applications. | Limited Torque: May struggle with high power or heavy loads. |
+| Precision Control: Offers fine adjustments in speed and torque. | Wear and Tear: Gearbox can wear out, especially under heavy use. |
+| Energy Efficient: Suitable for battery-powered projects. | Noise: Gear meshing can produce undesirable noise. |
+
+### Motor Solution - 5: LS-00028 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LS-00028.jpg" width="200">
 
 **Cost:** $5.98 per unit
@@ -471,13 +579,49 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 |-------------------------------------------|------------------------------------------|
 | Cost Effective | Small Torque|
 |Efficient| Limited Speed Control |
+|Operates within project power budget| Very simple data sheet |
+| Light Weight | |
+---
 
-## 3 - Temperature Sensor
+## Component 3 - Temperature Sensor
 - System Lead: Xzekiel Trevino
-- Choice: TC74A4
+- Choice: **Option 4:** TC74A4
 - Rationale: The TC74A4 temperature sensor is the ideal for our project based on price point, supporting documentation and fits within the expected voltage operating range of the project. While the sensor degrades in accuracy after 100° F, the drop off is negligible within ranges it will be operating within.
 
-### Temp Sensor Solution: TC74A4
+### Temp Sensor Solution - 1: TPIS 1S 1385 / 5029
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TPIS-1S-1385.jpg" width="200">
+
+**Cost:** $13.63 per unit
+
+| Pros                                  | Cons                                         |
+|---------------------------------------|----------------------------------------------|
+| Power Range: 2.6V ~ 3.6V              | Expensive                                    |
+| Digital, IR                           | Requires reflow soldering procedure for surface mount |
+| Ambient and/or object heat detection  | Most issues are outside the scope of the project and not a factor                                             |
+
+### Temp Sensor Solution - 2: AT30TSE004A-MAA5M-T
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-AT30TSE004A-MAA5M-T.jpg" width="200">
+
+**Cost:** $1.32 per unit
+
+| Pros                                     | Cons                                         |
+|------------------------------------------|----------------------------------------------|
+| ±1C° accuracy (Optimal Range 40-90°F)                    | Accuracy degrades after 95°F                  |
+| Temp Conditional Emergency Alarm/Shutoff | ±3.0°C accuracy (maximum) over the -20°C to +125°C range |
+| Within Power Budget Range: 1.7-3.6V | Requires reflow soldering procedure for surface mount|
+
+### Temp Sensor Solution - 3: LM75BDP,118
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM75BDP.jpg" width="200">
+
+**Cost:** $0.91 per unit
+
+| Pros                                  | Cons                              |
+|---------------------------------------|-----------------------------------|
+| Cheap price point                     | Accuracy degrades after 100°F      |
+| Extensive Data sheet and support documents |  ±2°C accuracy                                |
+| Within Power Budget Range: 2.8-5V | Limited part availability                                          |
+
+### Temp Sensor Solution - 4: TPIS 1S 1385 / 5029 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-TC74A4-3.3VCTTR.jpg" width="200">
 
 **Cost:** $1.15 per unit
@@ -487,13 +631,41 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 | High Precision              | Limited Temperature Range                                    |
 | Low Power Consumption                           | No Analog Output |
 | Easy Integration  | Single Address                                             |
-
-## 4 - Humidity Sensor
+---
+## Component 4 - Humidity Sensor
 - System Lead: Brian Wegner
-- Choice: HIH6030
+- Choice: **Option 3:** HIH6030
 - Rationale: The HIH6030 Humidity Sensor was determined to be the best choice of the three components based on meeting all project requirements. This particular component further set itself apart from the crowd by having an extensive data sheet with example code, different schematic configurations, and having online support.
 
-### Humidity Sensor Solution - 3: HIH6030
+### Humidity Sensor Solution - 1: SHT40-AD1B-R2
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-SHT40-AD1B-R2.jpg" width="200">
+
+**Cost:** $2.58 per unit
+
+| Pros                                       | Cons                                       |
+|--------------------------------------------|--------------------------------------------|
+| Accurate ±1.8%                             | Will require power converters if system operates higher than 3.6V |
+| Low Power 1.08v - 3.6V                     | Small Component                            |
+| Surface Mount                              | Requires reflow soldering procedure for surface mount |                                           |
+| Digital Sensor                             |                                            |
+| Operates in AZ extreme heat conditions     |                                            |
+| I2C Serial                                 |                                            |
+| GitHub Support                             |                                            |
+
+### Humidity Sensor Solution - 2: BPS240-D2P0-S10E
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-BPS240-D2P0-S10E.jpg" width="200">
+
+**Cost:** $5.78 per unit
+
+| Pros                                      | Cons                                     |
+|-------------------------------------------|------------------------------------------|
+| Surface Mount                             | Higher Power Requirement 1.62v - 5.5v    |
+| Digital Sensor                            | 30 second response time                  |
+| Operates in AZ extreme heat conditions    |  Requires reflow soldering procedure for surface mount |                                         |
+| I2C Serial                                |                                          |
+| GitHub Support                            |                                          |
+
+### Humidity Sensor Solution - 3: HIH6030 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-HIH6030-021-001.jpg" width="200">
 
 **Cost:** $13.43 per unit
@@ -502,12 +674,35 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 |-------------------------------------------|------------------------------------------|
 | Surface Mount                             | Expensive                                |
 | Most Accurate                             | Higher Power Requirement 2.7v - 5.5v     |
-| Example code and setup in Data Sheet      |                                          |
-
-## 5 - LCD Screen
+| Example code and setup in Data Sheet      | Extra complexity (dual function sensor)                                         |
+---
+## Component 5 - LCD Screen
 - System Lead: Brian Wegner/Xzekiel Trevino
-- Choice: NHD-0216SZ-NSW-BBW-33V3
+- Choice: **Option 3:** NHD-0216SZ-NSW-BBW-33V3
 - Rationale: Due to the simplistic nature and close acquaintance with this component, we believe this can display all our information without the headache of learning other complex display layouts in the short timeframe. It also has a relatively small form factor and low cost. 
+
+### LCD Solution - 1: 64128K COG FA BW
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-64128K%20COG%20FA%20BW.jpg" width="200">
+
+**Cost:** $12.28 per unit
+
+| Pros                            | Cons                                    |
+|---------------------------------|-----------------------------------------|
+| 128 x 64 display                | Tight pin layout, difficult soldering   |
+| Small (56 x 39 x 8.5mm)         | May require additional drivers          |
+| Light Weight: 1 oz              | Expensive solution                      |
+| Power: 3V                       |                                         |
+
+### LCD Solution - 2: NHD-C12864LZ-FSW
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-NHD-C12864LZ-FSW-FBW-3V3.jpg" width="200">
+
+**Cost:** $17.64 per unit
+
+| Pros                                     | Cons                                 |
+|------------------------------------------|--------------------------------------|
+| 128 x 64 display                         | Bad Resolution                       |
+| Fastest Response Time/least lag from input to screen update | Most Expensive Solution             |
+| Largest Viewing Area: 70 x 40 mm         | High backlighting may require more power |
 
 ### LCD Solution - 3: NHD-0216SZ-NSW-BBW-33V3 :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MFG_NHD-0216SZ-NSW-BBW-33V3.jpg" width="200">
@@ -519,13 +714,13 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 | Easy to program            | Limited to 2x16 characters             |
 | Sample Code Available      | No images                              |
 | Can make custom fonts      | Unable to order small batch (2-3 units)|
-
-## 6 - Power Switch Regulator (Microcontroller)
+---
+## Component 6 - Power Switch Regulator (Microcontroller)
 - System Lead: Fynn Meyerhoff
-- Choice: LM2575-3.3WU-TR
+- Choice: **Option 1:** LM2575-3.3WU-TR
 - Rationale: The LM2575-3.3WU-TR is a good option because it offers a reliable 3.3V suitable for most microcontrollers. This was also the same regualtor used in an in-class activity. 
 
-### Power Regulator Solution - 1: LM2575-3.3WU-TR
+### Power Regulator Solution - 1: LM2575-3.3WU-TR :star:
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2575-3.3WU-TR.jpg" width="200">
 
 **Cost:** $1.75 per unit
@@ -536,11 +731,34 @@ Depicted is a diagram of all the key subsystems of the the weather pod device. T
 | Capable of driving a 1.0A load.                   | Requires several external components.       |
 | Available in various fixed and adjustable output versions. | Might be less efficient than newer alternatives. |
 
+### Power Regulator Solution - 2: LM2596S-5.0
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-LM2596S-5.0.jpg" width="200">
+
+**Cost:** $6.81 per unit
+
+| Pros                                          | Cons                                          |
+|-----------------------------------------------|-----------------------------------------------|
+| Reliable performance with good thermal management. | Larger size compared to newer regulators.     |
+| Wide input voltage range.                     | Lower switching frequency might not be ideal for all applications. |
+| Built-in thermal shutdown and current limit features. | Fixed 5.0V output limits flexibility unless using an adjustable version. |
+
+### Power Regulator Solution - 3: MP1584EN-LF-Z
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-MP1584EN-LF-Z.jpg" width="200">
+
+**Cost:** $2.81 per unit
+
+| Pros                                      | Cons                                             |
+|-------------------------------------------|--------------------------------------------------|
+| High efficiency in conversion.            | Potentially noisier output due to high switching frequency. |
+| Compact size, suitable for space-constrained applications. | Might require additional filtering for sensitive applications. |
+| High current capability (up to 3A).       | Limited by a maximum input voltage of 28V.        |
+
 ## Power Budget
 
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000">
+In developing the power budget, all major components were listed by their supply voltage and peak current draw taken from the datasheets. Below that, we categorized the components that require 3.3 or 9 volts so it was clear which components are connected to what power rail. The goal was to have the fewest amount of rails to reduce complexity of the circuit. This involved analyzing the operational profiles of each component to understand their peak and average power consumption. Based on these estimates, I was able to identify areas where power usage could be optimized, such as implementing an energy-efficient microcontroller, OLED LCD, and low powered sensors. The conclusions from this analysis suggest that we can achieve 3.7 hours of run time without compromising performance. 
 
-# Microcontroller Selection
+<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000"><br><br>
+
 ## Introduction
 
 Microcontrollers play an important role in electrical system projects. They serve as the ‘brain’ that controls and orchestrates the functions of various components within the system or a subsystem. These components allow designs to implement code such as Python, C+, and other advanced programing languages to control hardware and software within the device. Microcontrollers are found in nearly all modern electronic devices.
@@ -548,7 +766,7 @@ Microcontrollers play an important role in electrical system projects. They serv
 For our project, we determined that the PIC16F15354 produced by Microchip was the optimal solution for our project based on a variety of factors ranging from the number of GPIO pins to I2C/SPI computability. A further breakdown of our selection processes as well as a side-by-side comparison of alternative chip considerations can be found below.
 
 
-## Microcontroller Selection
+## Microcontroller Selection (PIC16F15354)
 
 | Feature      | **Option 1** :star: | Option 2     | Option 3     |
 |--------------|----------------|--------------|--------------|
@@ -557,7 +775,7 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 | **ADC**      | **24 (1 req)** | 28           | 35           |
 | **PWM**      | **4 (1 req)**  | 0            | 4            |
 | **I2C/SPI**  | **2/0**        | 1/0          | 2/0          |
-| **UART**     | **1 (1 req)**  | 1            | 2            |
+| **UART**     | **1 (0 req)**  | 1            | 2            |
 
 **Choice: Option 1**
 
@@ -571,8 +789,76 @@ For our project, we determined that the PIC16F15354 produced by Microchip was th
 - MCC snap compatible, a familiar interface in MPLabX 
 - Plenty of GPIO for LED's and other accessories
 ---
+## Design Considerations 
 
-# Final Hardware Implementation
+| Feature                                      | Project Requirements | PIC16F15354 | PIC16F1517 | PIC18F47K42 |
+|----------------------------------------------|----------------------|-------------|------------|-------------|
+| **How many GPIO Pins?**                      | 21                   | 22          | 33         | 33          |
+| **Built-in Analog to Digital Converter?**    | 1                    | 24          | 28         | 35          |
+| **Built-in Hardware PWM?**                   | 0-1                  | 4           | 0          | 4           |
+| **Built-in I2C? SPI?**                       | 2 I2C’s, no SPI’s    | 2           | 1          | 2           |
+| **Built-in UART?**                           | 1                    | 1           | 1          | 2           |
+
+## Microcontroller Considerations
+
+| Information                             | PIC Option 1                                                                 | PIC Option 2                                                               | PIC Option 3                                                               |
+|-----------------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------|
+| **Part Number**                         | PIC16F15354                                                                  | PIC16F1517                                                                 | PIC18F47K42                                                                |
+| **Link to product page**                | [Product Page Link](https://www.microchip.com/en-us/product/PIC16F15354)     | [Product Page Link](https://www.microchip.com/en-us/product/pic16f1517)   | [Product Page Link](https://www.microchip.com/en-us/product/pic18f47k42)  |
+| **Link to Data Sheets**                 | [Data Sheets](https://www.mouser.com/datasheet/2/268/PIC16F_LF_15354_55_Data_Sheet_40001853D-2885845.pdf) | [Data Sheets](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/40001452F.pdf) | [Data Sheets](https://ww1.microchip.com/downloads/aemDocuments/documents/MCU08/ProductDocuments/DataSheets/PIC18%28L%29F26-27-45-46-47-55-56-57K42-Data-Sheet-40001919G.pdf) |
+| **Link to Application Notes**           | [Notes](https://www.microchip.com/en-us/application-notes)                 | [Notes](https://www.microchip.com/en-us/application-notes)               | [Notes](https://www.microchip.com/en-us/application-notes)               |
+| **Link to Code Examples**               | [Code Examples](https://www.microchip.com/en-us/code-examples)             | [Code Examples](https://www.microchip.com/en-us/code-examples)           | [Code Examples](https://www.microchip.com/en-us/code-examples)           |
+| **Link to External Resources**          | [External Resources](https://www.instructables.com/Programming-PIC-Microcontrollers/) | [External Resources](https://www.instructables.com/Programming-PIC-Microcontrollers/) | [External Resources](https://www.instructables.com/Programming-PIC-Microcontrollers/) |
+| **Production Unit Cost**                | $1.39                                                                       | $2.29                                                                     | $3.48                                                                     |
+| **Supply Voltage Range**                | Vdd(min) = +2.3V, Vdd(max) = +5.5V                                          | Vdd(min) = +2.3V, vdd(max) = +5.5V                                        | Vdd(min) = +2.3V, vdd(max) = +5.5V                                        |
+| **Absolute Maximum Current for entire IC** | Vss = 350 mA, Vdd = 250 mA                                                  | Vss = 350 mA, Vdd = 350 mA                                                | Vss = 350 mA, Vdd = 350 mA                                                |
+| **Maximum GPIO Pin Current (Source/Sink)** | ± 40 mA                                                                    | ± 50mA                                                                    | ± 50mA                                                                    |
+| **8-bit or 16-bit Architecture**         | 8 bit                                                                       | 8 bit                                                                     | 8 bit                                                                     |
+| **Available IC Packages / Footprints**   | S(PDIP), SOIC, SSOP, QFN, UQFN                                              | PDIP, UQFN                                                                | PDIP, UQFN, TQFP, QFN                                                     |
+| **Supports External Interrupts?**        | Yes                                                                         | Yes                                                                       | Yes                                                                       |
+| **In-System Programming Capability**     | Yes, ICSP                                                                   | Yes, ICSP                                                                 | Yes, ICSP                                                                 |
+| **Works with MPLAB® X IDE?**             | Yes                                                                         | Yes                                                                       | Yes                                                                       |
+| **Works with Microchip Code Configurator?** | MCC Classic works                                                            | MCC Classic works                                                         | MCC Classic works                                                         |
+---
+## Microcontroller Detailed Requirements
+
+**GPIO Pins Required: 17** (Excluding debug LED’s!)
+- [2] Temperature Sensor (LM75BDP,118) - Digital
+  - Serial Data Line (SDA)
+  - Serial Data Clock (SCL)
+- [2] **Humidity Sensor (HIH6030-021-001)** - Digital
+  - Serial Data Line (SDA)
+  - Serial Data Clock (SCL)
+- [4] **Motor Driver (IFX9201SGAUMA1CT-ND)** - Digital
+  - SCK
+  - CSN
+  - SI
+  - SO
+- [7] **LCD Screen (3086-MD21605G12W3-BNMLW-VE-ND)** Assuming 8-bit mode:
+  - DB0-DB7 (4 pins Data Bus Line)
+  - RS (1 pin for Register Select)
+  - R/W (1 pin for Read and Write)
+  - E (1 pin for Enable)
+- [2] **ESP32 Wireless Receiver**
+  - RX
+  - TX
+
+**Built-in Analog to Digital Converter: 1**
+- All sensors and drivers are digital, but including 1 ADC is advisable for potential future needs.
+
+**Built-in I2C & SPI: 2 I2C’s & 1 SPI’s**
+- I2C interfaces: 2 (Temp & Humid sensor can be addressed differently through the same bus)
+- SPI interfaces: 1 required for motor driver.
+
+**Built-in UART: 1**
+- ESP32: Communicates via UART through TX and RX.
+- Humid/Temp Sensor: Communicate via I2C or SPI, not UART.
+- Motor Driver: Uses digital signals for control, not UART.
+- LCD Screen: Uses a parallel or I2C/SPI interface, not UART.
+<br><br>
+
+
+# Hardware Implementation
 ## Introduction
 In this section, we delve into the Hardware Implementation of the Portable Weather Station, outlining the intricate details of the physical components and assembly processes used in our project. We will explore the selection of sensors, circuit design, and integration techniques that enable the reliable collection and transmission of meteorological data. Additionally, this chapter provides a step-by-step guide on the assembly of the hardware components, accompanied by troubleshooting tips and considerations for enhancing device robustness and efficiency. Through detailed diagrams and practical insights, we aim to illuminate the technical foundation that supports the functionality of our weather station.
 
@@ -601,14 +887,30 @@ For better clarity of the top layout:<br>
 ### Bottom View
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/8e617c77-c672-421d-b754-771e8cbdbf9e)
 
+
+
+
+## DRC and Submissions for Manufacturing
+![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/09-Hardware%20Implementation.png)
+The image above shows a compilation of several snapshots related to the submission and manufacturing of a Printed Circuit Board (PCB). 
+
+At the top, there is a section labeled "DRC" which stands for Design Rule Check. This is a part of the PCB design process where the software checks the layout to ensure that it adheres to certain manufacturing and design rules. It appears that the DRC process has been completed without detecting any errors, as indicated by "No DRC errors detected."
+
+Below the DRC section, there is a "Submission for Manufacturing" section which shows an order for a PCB prototype labeled as "TEAM301PCBFINAL_Y5." The order summary includes the order number, build time (24 hours), quantity (5 pieces), and the cost ($9.20). A blue check mark indicates that the production has been completed, but there is also a mention of a "Quality Complaint," suggesting that there may have been an issue with the produced PCBs.
+
+Finally, at the bottom, there is an email notification from the "Poly Lab Request Notification System" sent to someone with an email address at the Arizona State University domain. The email is an automatic notification that a certain request (number 3841) has been updated with the status "Submitted." The description mentions "Team301PCBEGR304," and the details include a conversation about the specifics of the PCB or poster submission, such as quantity, copper thickness, whether solder mask or rubber area is needed, etc. The link provided in the email likely leads to further details or the platform where the PCB manufacturing job can be tracked.
+
+Overall, the image captures various steps in the process of ordering, manufacturing, and quality checking of a PCB for what seems to be an educational project.
+
 ## Cadence Screenshots of Final Team PCB
 ### Top View
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/1bb6312c-ce68-41f1-9e45-f6968db91e7f)
 ### Bottom View
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/3401403d-61e7-4be7-8671-d780e9d2e08c)
 
-# "Version 2.0"
+# Version 2.0
 When analyzing the schematic for potential improvements in a "Version 2.0" of the hardware design, several areas can be considered to enhance functionality, reliability, and scalability. Here are some suggestions:
+
 
 ## Power Supply Management
 ### Battery Life Optimization: 
@@ -635,15 +937,12 @@ add buttons or switches for manual override or control, which could be useful if
 ### Clear Labeling: 
 Ensure all components are clearly labeled with their reference designators and values, which can be particularly important during assembly and troubleshooting.
 
-By addressing these potential improvements, "Version 2.0" of the hardware design would likely be more robust, efficient, and user-friendly. Each change should be carefully considered in the context of the device's intended use, the environment it operates in, and the needs of the users to ensure that the modifications align with the overall goals of the project.
 
----
-# Final Software Implementation
+By addressing these potential improvements, "Version 2.0" of the hardware design would likely be more robust, efficient, and user-friendly. Each change should be carefully considered in the context of the device's intended use, the environment it operates in, and the needs of the users to ensure that the modifications align with the overall goals of the project.<br><br>
 
-## Software Diagram
+
+# Software Diagram
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/fcb4f8ad-a3de-492a-8247-efdf7fee3705)
-
-### [main.c](https://github.com/314-grp-301/Team301Code/blob/main/folder/PIC-main.c)
 
 ## Key Functions and Processes
 ### Initialization and Setup
@@ -708,15 +1007,25 @@ Implement a finite state machine for managing system states and transitions, whi
 The updated software flow could be represented using a state diagram or flowchart. This would visually describe the system states, transitions based on events (like temperature thresholds), and the actions taken in each state.
 
 In conclusion, improving the software design for Version 2.0 involves enhancing the modularity of the code, introducing a robust error-handling and logging system, utilizing system peripherals for increased reliability, and refining the communication protocols. These improvements would make the software more robust, stable, and maintainable, leading to a system that can meet the demands of its intended use more effectively.
+<br><br>
 
----
+# Presentation Materials
+Below are the presentation materials utilized during Arizona State University's Innovation Showcase held at the Polytechnic Campus in Mesa, Arizona. Our demonstration materials provide insights into the design and fabrication processes of our final project for EGR-314.
+
+## Poster
+
+
+![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/InnovationShowcasePoster.png)<br><br>
+
+## Video Demonstration
+
+[![Team 301 Weather Pod DEMO](https://github.com/314-grp-301/314-grp-301.github.io/blob/f45c24eed09a0aef7226f8769c2a566836f82731/docs/assets/images/11-Video_Thumbnail.png)](https://www.youtube.com/watch?v=OLuJ74ViMqo&ab_channel=CopybookNANO)
+
 
 # Team 301 System Verification Table
 ![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/f1c6cb2e-8320-402f-9c43-c205428deb30)
 
-*Note: Our verification table has been fully checked off and completed. Ignore the unverified connection for the humidity sensor to microcontroller* 
-
----
+*Note: Our verification table has been fully checked off and completed. Ignore the unverified connection for the humidity sensor to microcontroller* <br><br>
 
 # Lessons Learned
 
@@ -730,8 +1039,8 @@ In conclusion, improving the software design for Version 2.0 involves enhancing 
 - Separate components in PCB layout enough to make soldering simple, while meeting total PCB size restrictions.
 - Group subsystem components in the PCB layout for better clarity and eases of recognition when soldering and testing subsystem connectivity.
 - If noise is a potential issue for a problem that arises, try jumping to a breadboard and adding different size capacitors to pull some of it to ground. If that works, implement the changes for a cleaner signal.
+<br><br>
 
----
 
 # Recommendations for Future Students
 The most important and often overlooked steps to any learning or training regiment is performing an after-action review to capture the best practices in order to repeat success and to identify failures in order to determine their root causes so they can be avoided or mitigated in future projects. This important step aims to lessen the burden of difficulty for those following in our footsteps.
@@ -753,4 +1062,269 @@ After a team deliberation, it was determined that these recommendations could he
 **6.	Troubleshooting:** Our team determined it was a best practice to install header pins throughout our PCB. This allowed for additional flexibility should different components be needed to swap out, correct wiring issues, and provide an additional ability to troubleshoot the system. 
 
 <br><br>
-[Previous](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/05-Component-Selection.md) - [Main Page](../README.md) - [Next](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/Assignments/09-Hardware-Implementation.md)
+
+
+# Appendix
+
+## Bill of Materials
+![Alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/15-ConsolidatedBOM.png)
+
+## Team Code
+### [ESP32 & MPLabX code](https://github.com/314-grp-301/Team301Code/tree/743a318e7f387fa2d2c47b531342e96acdbf6d46/folder)
+
+## MQTT Topic Table
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/072f7a54-e653-4c74-901a-86fe4cf1c58d)
+
+## MCC Configuration
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/0ffaf1d2-7e93-4a52-a570-fd0171975019)
+![image](https://github.com/314-grp-301/314-grp-301.github.io/assets/157048263/21a84b3a-0477-4d44-ae47-faa033779a95)
+
+
+## Additional Team Organization Content
+## 2. Communication Channels
+
+### Team Communication Table
+
+| Name  | 1st Choice | 2nd Choice | 3rd Choice |
+|-------|------------|------------|------------|
+| Brian | Discord    | Text       | Email      |
+| Zeke  | Discord    | Text       | Slack      |
+| Kevis | Discord    | Text       | Email      |
+| Fynn  | Text       | Discord    | Zoom       |
+
+Team 301 will be using a PACE (Primary, Alternative, Contingency, Emergency) plan as the model for determining team communications. The team's preferred methods of communication match most closely with the PACE plan. Team members will establish communications using the primary method first, then working through subsequent alternatives until communication is established.
+
+### PACE Plan
+
+  -  **Discord** (Primary):
+    - Main channel for regular team communications.
+
+  -  **Short Message Service (SMS) / Text** (Alternative): 
+    - For quick updates and when Discord is not available.
+      
+  -  **E-mail** (Contingency):
+    - For more formal or detailed communication needs.
+
+  -  **Face-to-Face during Class** (Emergency):
+    - For urgent matters requiring immediate, in-person discussion.
+
+## 3. Communication Procedures
+
+As per the PACE plan, team members will prioritize methods of communication using this plan. The team will first attempt to communicate through Discord, and if that's not possible, we will move to Text, and so on. This approach ensures all team members stay on track and are aware of which communication methods to use as a fallback if the first option is not available.
+
+### Managing Instructor Correspondence
+
+- **Collaborative Approach:**
+  - The team adopts a collaborative strategy to ensure effective communication and timely resolution of queries.
+- **Designated Point of Contact:**
+  - *Peralta 103* is designated as the individual responsible for handling instructor correspondence, acting as a liaison between the team and the instructors.
+- **Maximizing Office Hours:**
+  - The team commits to utilizing instructor office hours as much as possible to stay updated on assignments and project deadlines.
+
+## 4. Meeting Schedule and Availability
+
+**People:**
+- 🟥 B = Brian
+- 🟩 X = Xzekiel
+- 🟦 K = Kevis
+- 🟨 F = Fynn
+
+**Communication methods:** SMS (text), Discord, Email, in-person
+
+| Time  | Sun       | Mon       | Tue  | Wed       | Thu       | Fri       | Sat       |
+|-------|-----------|-----------|------|-----------|-----------|-----------|-----------|
+| 8:00  | 🟨/🟥     | 🟨/🟥/🟩  |      | 🟥/🟩     |           | 🟥/🟩     | 🟨/🟥     |
+| 9:00  | 🟨/🟥     | 🟥        |      | 🟥        |           | 🟥        | 🟨/🟥     |
+| 10:00 | 🟥/🟦     | 🟥/🟦     |      | 🟥/🟦     |           | 🟥/🟦     | 🟥        |
+| 11:00 | 🟥/🟦     | 🟥/🟦     | 🟥/🟩 | 🟥/🟦     | 🟥/🟩     | 🟥        |           |
+| 12:00 | 🟦        | 🟦        |      | 🟦        |           | 🟦        |           |
+| 13:00 | 🟦        | 🟦        |      | 🟦        |           | 🟨/🟩/🟦  | 🟨/🟦     |
+| 14:00 | 🟦        |           |      |           |           | 🟨/🟩/🟦  | 🟨/🟦     |
+| 15:00 | 🟨/🟦     |           |      | 🟨/🟩/🟦  |           | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 16:00 | 🟨/🟦     |           | 🟩/🟦 |           | 🟩/🟦     | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 17:00 | 🟨/🟦     | 🟨/🟩     | 🟦   | 🟩        | 🟩/🟦     | 🟨/🟩/🟦  | 🟨/🟩/🟦  |
+| 18:00 |           | 🟨/🟩     | 🟦   | 🟩        | 🟩/🟦     | 🟨/🟦     | 🟨/🟩/🟦  |
+| 19:00 |           | 🟨/🟩     |      |           | 🟩        | 🟨/🟩     |           |
+| 20:00 |           |           |      | 🟨        |           | 🟨        |           |
+
+
+## 5. Roles & Responsibilities
+
+| Role                                         | Duties                                                                                                                        |
+|----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| **Meeting Leader** - Brian Wegner         | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting.                          |
+| **Meeting Recorder** - Xzekiel Trevino    | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned.            |
+| **Assignment Leader** - Fynn Meyerhoff    | Coordinates the team's work on a given assignment to Canvas before the due date.                                             |
+| **Project Monitor** - Kevis Seymore       | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status. |
+
+
+## 6. Team Coordination & Accountability
+
+- **Pre-Assignment Coordination:** 
+  - **24-Hour Rule:** At least 24 hours before an assignment's due date, responsibilities for specific sections are assigned.
+  - **Notification via Text:** Once a section is completed, the responsible member notifies the group via text.
+  - **Collective Review:** The entire team reviews the work against the rubric before submission, ensuring completeness.
+
+- **Role Selection & Support:**
+  - **Choose Your Strengths:** Team members select tasks they are comfortable with before each assignment.
+  - **Collaboration & Support:** If a team member struggles with a topic, collaboration is encouraged, leveraging external resources like online research, assistance from other teams, or reaching out to the professor or a TA.
+
+- **Individual Responsibility:**
+  - **Accountability for Assigned Sections:** Each member is responsible for their own work.
+  - **Openness to Feedback:** Welcoming feedback is essential for individual and team growth.
+
+## 7. Conflict Recognition & Resolution
+
+### Big Picture Strategy:
+
+- **Recognizing Conflict:**
+  - **Goal:** Aid in team development by transitioning through stages efficiently, aiming to spend most time in the performing stage.
+  - **Tuckman’s Five Stages of Team Development:**
+    
+    ![alt text](https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/01-graph.png)
+
+### Stages of Team Development:
+
+1. **Forming:** Getting to know each other, understanding the team’s purpose, structure, and leadership.
+
+2. **Storming:** Conflict arises as roles and opinions emerge. It's crucial for growth, but shouldn't be prolonged.
+
+3. **Norming:** Recognizing and resolving differences, establishing norms and roles. Unity begins to form.
+
+4. **Performing:** The team works smoothly, focusing on team goals with independent action.
+
+5. **Adjourning:** The final stage of dissolution, aiming for closure and maintaining future cooperation potential.
+
+### Detail-Oriented Strategy:
+
+- **Conflict Intervention:** Strategies vary depending on the situation and individuals involved.
+
+- **Counseling as a Tool:** Improve the team member’s contribution, not to admonish.
+
+**Conflict Resolution and Counseling Guide:**
+
+1. **Identify the Problem:** 
+  - Clearly state the issue at hand.
+
+2. **Identify Solutions:** 
+  - Suggest practical solutions.
+
+3. **Counseling Techniques:**
+  - Active Listening, Empathy, Confidentiality, Goal Setting, Providing Resources.
+
+4. **Resolution Approaches:**
+
+   1. ** Peer-to-Peer:** 
+   - *First-level, professional one-on-one communication.*
+
+   2. ** Team-to-Peer:**
+   - *A team approach is used, avoiding alienation.*
+
+   3. ** Instructor-to-Team:**
+   - *Escalation for unresolved issues, involving the professor.*
+
+   4. ** Instructor-to-Peer:**
+   - *Final step for unresolved conflicts requiring outside intervention.*
+
+
+## Acronyms & Key Terms
+A - Ampere
+
+AC – Alternating Current
+
+ADC - Analog-to-Digital Converter
+
+AQI – Air Quality Index
+
+AW – All-Weather
+
+AZ - Arizona
+
+C - Celsius
+
+CCW - Counter Clockwise
+
+CW - Clockwise
+
+DC – Direct Current
+
+EGR – Engineering
+
+EMS – Emergency Management Services
+
+ESP32 - Espressif32
+
+EUSART - Enhanced Universal Asynchronous Receiver Transceiver
+
+DC - Direct Current
+
+DiY - Do it Yourself
+
+DRC - Design Rule Checking
+
+F – Fahrenheit
+
+GHz – Giga Hertz
+
+GND - Ground
+
+GPIO - General Purpose Input/Output
+
+ICSP - In-Circuit Serial Programming
+
+IR - Infrared
+
+LCD – Liquid Crystal Display
+
+LED - Light-Emitting Diode
+
+MCC - MPLAB® Code Configurator 
+
+MHz – Mega Hertz
+
+MPH – Miles Per Hour
+
+MQTT – Message Queuing Telemetry Transport
+
+PACE - Primary, Alternative, Contingency, Emergency
+
+PCB - Printed Circuit Board
+
+PLA – Polylactic Acid 
+
+PWM - pulse width modulation
+
+RF – Radio Frequency
+
+RS – Register Select
+
+RX – Receive 
+
+SMART - Specific, Measurable, Achievable, Relevant, Time-bound
+
+SMS - Short Message Service
+
+SPI - Serial Peripheral Interface
+
+TA - Teaching Assistance
+
+TX – Transmit
+
+UART - Universal Asynchronous Receiver / Transmitter
+
+UV – Ultraviolet
+
+V - Volts
+
+Vdd - drain to drain voltage
+
+Vss - Voltage Source Source
+
+WiFi - Wireless Fidelity
+
+WS – Weather Station
+
+WX – Weather 
+
+<br><br>
+
