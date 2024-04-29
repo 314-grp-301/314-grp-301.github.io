@@ -41,7 +41,7 @@ This report is a comprehensive compilation of Team 301’s efforts in developing
 | | |[Cadence PCB Top](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#top-view-1) |
 | | |[Cadence PCB Bottom](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#bottom-view-1) |
 | | |[Software Diagram](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#software-diagram) |
-| | |[Vericiation Table](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#team-301-system-verification-table) |
+| | |[Verification Table](https://github.com/314-grp-301/314-grp-301.github.io/blob/main/README.md#team-301-system-verification-table) |
 
 
 
