@@ -557,15 +557,11 @@ The diagram illustrates all the key subsystems of the Weather Pod device. The se
 
 ## Power Budget
 
-<img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000">
-
-## Power Budget
-
 In developing the power budget, all major components were listed by their supply voltage and peak current draw taken from the datasheets. Below that, we categorized the components that require 3.3 or 9 volts so it was clear which components are connected to what power rail. The goal was to have the fewest amount of rails to reduce complexity of the circuit. This involved analyzing the operational profiles of each component to understand their peak and average power consumption. Based on these estimates, I was able to identify areas where power usage could be optimized, such as implementing an energy-efficient microcontroller, OLED LCD, and low powered sensors. The conclusions from this analysis suggest that we can achieve 3.7 hours of run time without compromising performance. 
 
 <img src="https://raw.githubusercontent.com/314-grp-301/314-grp-301.github.io/main/docs/assets/images/05-Power_Budget.PNG" width="1000"><br><br>
 
-## Introduction
+### Introduction
 
 Microcontrollers play an important role in electrical system projects. They serve as the ‘brain’ that controls and orchestrates the functions of various components within the system or a subsystem. These components allow designs to implement code such as Python, C+, and other advanced programing languages to control hardware and software within the device. Microcontrollers are found in nearly all modern electronic devices.
 
