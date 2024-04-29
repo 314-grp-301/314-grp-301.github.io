@@ -458,6 +458,7 @@ The diagram illustrates all the key subsystems of the Weather Pod device. The se
 
 ![My Image](https://github.com/314-grp-301/314-grp-301.github.io/blob/94c1ec2a3d79e22bc545b0e7d56bc2cf8a57e224/docs/assets/images/04-Block%20Diagram.png)<br><br>
 
+# Component Selection
 ## Introduction
 
 The process of component selection is a crucial step in the design and development of electronic systems. Through best practices, design teams are able to identify needs through analysis, research component compatibility, evaluation of components, and ensure part availability by selecting the right vendors.
